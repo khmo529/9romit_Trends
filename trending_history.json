@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-03 23:49",
+  "updated_at": "2026-08-03 23:55",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "온디바이스 AI",
+      "kw": "차세대 반도체",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "스마트폰",
+      "kw": "삼성전자 (MX/DS)",
       "delta": "NEW",
       "type": "new"
     },
@@ -19,55 +19,55 @@
       "rank": 3,
       "top": true,
       "kw": "삼성전자",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "가격",
+      "kw": "매일경제",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "메모리",
+      "kw": "핀포인트뉴스",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "가전",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "온디바이스 AI",
+      "delta": "▼ 5",
+      "type": "down"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "삼성",
+      "kw": "온디바이스",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "인상",
+      "kw": "차세대 스마트폰",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "IT",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "스마트폰",
+      "delta": "▼ 7",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "HBM 반도체",
+      "kw": "조선일보",
       "delta": "NEW",
       "type": "new"
     }
