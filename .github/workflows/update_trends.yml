@@ -5,6 +5,10 @@ on:
     - cron: '*/30 * * * *' # 30분 마다 자동 실행
   workflow_dispatch:
 
+# GITHUB_TOKEN에 저장소 쓰기 권한 부여
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
