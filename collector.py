@@ -6,88 +6,71 @@ import xml.etree.ElementTree as ET
 from collections import Counter
 import requests
 
-# 1. 언론사, 도메인, URL 등 무의미한 노이즈 블랙리스트
-NOISE_PATTERNS = [
-    r'[\w-]+\.(com|net|co\.kr|kr|io|org|me)',  # cio.com, v.daum.net 같은 도메인
-    r'http[s]?://\S+',                         # URL
-    r'\d{4}년', r'\d{1,2}월', r'\d{1,2}일',     # 2026년, 8월 등 날짜
-    r'\[.*?\]', r'\(.*?\)', r'<.*?>',          # [속보], (종합) 등 태그
-]
+# 1. 뉴스 제목에서 무조건 제거할 일반 단어/조사/언론사/노이즈 블랙리스트
+GENERIC_BLACK_LIST = {
+    '가격', '인상', '하락', '상승', '실적', '전망', '분석', '가전', 'it', '삼성', 
+    '기술', '시장', '기업', '대표', '공개', '출시', '발표', '적용', '개발', '도입', 
+    '확대', '사업', '조선', '한국', '세계', '속보', '주요', '대응', '우려', '이유', 
+    '결과', '위해', '통해', '관한', '대해', '오늘', '내일', '올해', '내년', '상반기', 
+    '하반기', '특징주', '주식', '증시', '경찰', '수사', '논란', '경쟁', '전략', '추진'
+}
 
-BLACK_LIST = [
-    # 언론사 / 매체명
-    '머니투데이', '데일리e뉴스', '지디넷', '전자신문', '조선일보', '중앙일보', '동아일보', 
-    '연합뉴스', '뉴스1', '뉴시스', '매일경제', '한국경제', '디지털타임스', '블로터', 'bloter',
-    'zdnet', 'itworld', 'cio', 'daum', 'naver', 'donga', 'seoul', 'news',
-    # 무의미한 일반 단어 및 조사
-    '기술로', '위한', '통해', '대해', '관한', '기준', '오늘', '내일', '올해', '내년', 
-    '상반기', '하반기', '월드it쇼', 'it기술', '기술', '특징주', '공개', '출시', '발표', 
-    '적용', '개발', '도입', '확대', '전망', '분석', '사업', '시장', '조선', '한국', '세계'
-]
-
-# 2. IT / 전자기기 / Tech 용어 표기 표준화 맵 (소문자 수집 -> 깔끔한 정식 명칭 변환)
-TECH_DICTIONARY = {
+# 2. IT/Tech 전용 핵심 엔티티 사전 (매칭 시 정제된 표기명으로 변환)
+TECH_ENTITIES = {
     'chatgpt': 'ChatGPT',
     'gpt': 'ChatGPT',
-    'claude': 'Claude 3.5',
+    'claude': 'Claude AI',
     'gemini': 'Google Gemini',
     'deepseek': 'DeepSeek',
-    'nvidia': 'NVIDIA',
-    'gpu': 'NVIDIA GPU',
+    'nvidia': 'NVIDIA GPU',
+    '엔비디아': 'NVIDIA',
     'iphone': '아이폰 (iPhone)',
     '아이폰': '아이폰 (iPhone)',
     'galaxy': '갤럭시 (Galaxy)',
     '갤럭시': '갤럭시 (Galaxy)',
     'macbook': 'MacBook Pro/Air',
     '맥북': 'MacBook',
-    'semiconductor': '반도체',
-    '반도체': 'HBM 반도체',
-    'hbm': 'HBM 메모리',
-    'ai': '온디바이스 AI',
+    '온디바이스': '온디바이스 AI',
+    'hbm': 'HBM 반도체',
+    '반도체': '차세대 반도체',
     'llm': '거대언어모델 (LLM)',
-    'cloud': '클라우드',
+    '자율주행': '자율주행 (FSD)',
+    '로봇': 'AI 로보틱스',
+    '로보틱스': 'AI 로보틱스',
+    '양자': '양자 컴퓨팅',
     '클라우드': '클라우드 (AWS/Azure)',
-    'apple': '애플 (Apple)',
+    '보안': '사이버 보안',
+    '해킹': '사이버 보안',
     '애플': '애플 (Apple)',
-    'samsung': '삼성전자',
-    '삼성전자': '삼성전자',
-    'robot': '로보틱스/AI로봇',
-    '로봇': '로보틱스/AI로봇',
-    'display': 'OLED 디스플레이',
-    '디스플레이': 'OLED 디스플레이',
-    'quantum': '양자 컴퓨팅',
-    'security': '사이버 보안',
-    '보안': '사이버 보안'
+    '삼성전자': '삼성전자 (MX/DS)',
+    'openal': 'OpenAI',
+    'openai': 'OpenAI',
+    'tsmc': 'TSMC 파운드리',
+    '스마트폰': '차세대 스마트폰'
 }
 
-# 3. 비상시 사용할 프리미엄 전자기기 & IT 트렌드 키워드 (Fallback)
-FALLBACK_KEYWORDS = [
+# 3. 데이터 부족 시 표출될 고품질 예비 트렌드 (Fallback)
+FALLBACK_TRENDS = [
     ('ChatGPT-4o', 10),
     ('아이폰 16 Pro', 9),
-    ('NVIDIA Blackwell GPU', 8),
-    ('갤럭시 Z플립6 / 폴드6', 7),
-    ('온디바이스 AI', 6),
-    ('DeepSeek R1', 5),
+    ('NVIDIA Blackwell', 8),
+    ('DeepSeek R1', 7),
+    ('갤럭시 Z플립6', 6),
+    ('온디바이스 AI', 5),
     ('Claude 3.5 Sonnet', 4),
     ('HBM3e 반도체', 3),
     ('MacBook M4', 2),
-    ('테슬라 자율주행 (FSD)', 1)
+    ('테슬라 자율주행', 1)
 ]
 
-def clean_text(text):
-    """뉴스 제목에서 도메인, 태그, 노이즈를 정규식으로 완전 제거"""
-    for pattern in NOISE_PATTERNS:
-        text = re.sub(pattern, ' ', text, flags=re.IGNORECASE)
-    return text
-
-def fetch_rss_keywords():
+def fetch_clean_it_keywords():
     urls = [
-        "https://news.google.com/rss/search?q=IT+%EC%A0%84%EC%9E%90%EA%B8%B0%EA%B8%B0+AI+%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0&hl=ko&gl=KR&ceid=KR:ko", # 테크/디바이스 테마
-        "https://news.hada.io/rss/news",                                                                                                         # GeekNews
-        "https://rss.etnews.com/Section902.xml"                                                                                                  # 전자신문 IT/모바일
+        "https://news.google.com/rss/search?q=IT+%EC%A0%84%EC%9E%90%EA%B8%B0%EA%B8%B0+AI+%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0+AI%EB%B0%98%EB%8F%84%EC%B2%B4&hl=ko&gl=KR&ceid=KR:ko",
+        "https://news.hada.io/rss/news",
+        "https://rss.etnews.com/Section902.xml"
     ]
     
-    words = []
+    found_keywords = []
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
@@ -101,38 +84,53 @@ def fetch_rss_keywords():
             root = ET.fromstring(res.content)
             for item in root.findall('.//item'):
                 title = item.find('title').text if item.find('title') is not None else ''
-                cleaned_title = clean_text(title)
                 
-                # 단어별 토큰화 및 노이즈 검증
-                for token in re.findall(r'[a-zA-Z가-힣0-9]{2,}', cleaned_title):
-                    token_l = token.lower()
-                    
-                    # 블랙리스트 포함 여부 체크
-                    if any(black in token_l for black in BLACK_LIST):
+                # HTML 태그, 괄호, 언론사 태그 제거
+                clean_title = re.sub(r'\[.*?\]|\(.*?\)|<.*?>', ' ', title).lower()
+                
+                # 1) 엔티티 사전 기반 엄격 매칭
+                matched_in_title = set()
+                for key, display_name in TECH_ENTITIES.items():
+                    if key in clean_title:
+                        matched_in_title.add(display_name)
+                
+                found_keywords.extend(list(matched_in_title))
+                
+                # 2) 일반 단어 중 IT 특화 단어 정제 (블랙리스트 엄격 적용)
+                tokens = re.findall(r'[a-zA-Z가-힣]{2,}', clean_title)
+                for token in tokens:
+                    if token in GENERIC_BLACK_LIST or len(token) < 2:
                         continue
-                    
-                    # 숫자만 있는 단어 제거
-                    if token.isdigit():
-                        continue
-                    
-                    # 사전 정의된 IT/테크 용어가 있으면 변환 후 저장
-                    if token_l in TECH_DICTIONARY:
-                        words.append(TECH_DICTIONARY[token_l])
-                    elif len(token) >= 2 and not token_l.startswith(('http', 'www', 'v.')):
-                        words.append(token)
-                        
+                    # 엔티티에 등록된 핵심 키워드가 아니더라도 3글자 이상의 명확한 영문/한글 테크 용어 수집
+                    if token.isupper() or len(token) >= 4:
+                        if token not in GENERIC_BLACK_LIST:
+                            found_keywords.append(token.upper() if len(token) <= 4 else token.capitalize())
+
         except Exception as e:
             print(f"Error fetching {url}: {e}")
             
-    # 최다 빈도 단어 추출
-    counts = Counter(words).most_common(20)
+    # 빈도수 계산
+    counts = Counter(found_keywords).most_common(15)
     
-    # 추출된 단어가 유효하지 않거나 수가 부족하면 고품질 전자기기/테크 Fallback 적용
-    if not counts or len(counts) < 5:
-        print("IT keywords extraction returned empty or poor results. Applying Fallback keywords.")
-        return FALLBACK_KEYWORDS
-        
-    return counts
+    # 일반 단어가 필터링되어 수집 수가 적을 경우 고품질 IT 트렌드 백업 데이터 결합
+    final_list = []
+    seen = set()
+    
+    for kw, count in counts:
+        if kw.lower() not in GENERIC_BLACK_LIST and kw not in seen:
+            final_list.append((kw, count))
+            seen.add(kw)
+            
+    # 10개가 안 채워지면 Fallback 항목으로 채움
+    if len(final_list) < 10:
+        for fb_kw, fb_score in FALLBACK_TRENDS:
+            if fb_kw not in seen:
+                final_list.append((fb_kw, fb_score))
+                seen.add(fb_kw)
+            if len(final_list) >= 10:
+                break
+                
+    return final_list[:10]
 
 def process_and_push():
     history_file = 'trending_history.json'
@@ -146,13 +144,11 @@ def process_and_push():
         except Exception as e:
             print(f"History load error: {e}")
 
-    raw_keywords = fetch_rss_keywords()
+    raw_keywords = fetch_clean_it_keywords()
     new_keywords = []
     rank = 1
     
     for kw, count in raw_keywords:
-        if rank > 10: 
-            break
         kw_lower = kw.lower()
         delta_str, delta_type = "NEW", "new"
         
@@ -174,7 +170,7 @@ def process_and_push():
         })
         rank += 1
 
-    # KST 현재 시간 생성
+    # KST 현재 시간
     now_utc = datetime.datetime.now(datetime.timezone.utc)
     now_kst = (now_utc + datetime.timedelta(hours=9)).strftime('%Y-%m-%d %H:%M')
     
