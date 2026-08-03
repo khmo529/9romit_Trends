@@ -1,4 +1,75 @@
 {
-  "updated_at": "2026-08-03 23:34",
-  "keywords": []
+  "updated_at": "2026-08-03 23:44",
+  "keywords": [
+    {
+      "rank": 1,
+      "top": true,
+      "kw": "AI",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 2,
+      "top": true,
+      "kw": "월드IT쇼",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 3,
+      "top": true,
+      "kw": "IT기술",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 4,
+      "top": false,
+      "kw": "머니투데이",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 5,
+      "top": false,
+      "kw": "cio.com",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 6,
+      "top": false,
+      "kw": "기술로",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "2026년",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 8,
+      "top": false,
+      "kw": "v.daum.net",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "데일리e뉴스",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "데이터센터",
+      "delta": "NEW",
+      "type": "new"
+    }
+  ]
 }
