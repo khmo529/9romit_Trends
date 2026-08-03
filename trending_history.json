@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-04 01:44",
+  "updated_at": "2026-08-04 03:42",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "애플 인텔리전스",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "▲ 3",
+      "kw": "AI 로보틱스",
+      "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "사이버 보안",
-      "delta": "▲ 5",
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 3",
       "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "AI 로보틱스",
-      "delta": "▼ 3",
-      "type": "down"
+      "kw": "아이폰 16 Pro",
+      "delta": "▲ 3",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "NVIDIA GPU",
+      "delta": "▼ 3",
+      "type": "down"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 3",
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "아이폰 16 Pro",
-      "delta": "▼ 3",
-      "type": "down"
+      "kw": "삼성전자 AI",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "삼성전자 AI",
-      "delta": "▼ 1",
+      "kw": "사이버 보안",
+      "delta": "▼ 5",
       "type": "down"
     },
     {
