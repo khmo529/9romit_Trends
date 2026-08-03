@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-03 23:55",
+  "updated_at": "2026-08-04 00:00",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "차세대 반도체",
+      "kw": "AI 로보틱스",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "삼성전자 (MX/DS)",
+      "kw": "애플 인텔리전스",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "삼성전자",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "매일경제",
+      "kw": "아이폰 16 Pro",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "핀포인트뉴스",
+      "kw": "NVIDIA GPU",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "온디바이스 AI",
-      "delta": "▼ 5",
-      "type": "down"
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "온디바이스",
+      "kw": "삼성전자 AI",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "차세대 스마트폰",
+      "kw": "사이버 보안",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "스마트폰",
-      "delta": "▼ 7",
-      "type": "down"
+      "kw": "Google Gemini",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "조선일보",
+      "kw": "ChatGPT-4o",
       "delta": "NEW",
       "type": "new"
     }
