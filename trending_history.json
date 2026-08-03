@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-03 23:44",
+  "updated_at": "2026-08-03 23:49",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI",
+      "kw": "온디바이스 AI",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "월드IT쇼",
+      "kw": "스마트폰",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "IT기술",
+      "kw": "삼성전자",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "머니투데이",
+      "kw": "가격",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "cio.com",
+      "kw": "메모리",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "기술로",
+      "kw": "가전",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "2026년",
+      "kw": "삼성",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "v.daum.net",
+      "kw": "인상",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "데일리e뉴스",
+      "kw": "IT",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "데이터센터",
+      "kw": "HBM 반도체",
       "delta": "NEW",
       "type": "new"
     }
