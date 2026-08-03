@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 06:36",
+  "updated_at": "2026-08-04 07:51",
   "keywords": [
     {
       "rank": 1,
@@ -11,57 +11,57 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "▲ 4",
+      "kw": "AI 로보틱스",
+      "delta": "▲ 3",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "사이버 보안",
-      "delta": "▲ 6",
+      "kw": "TSMC 파운드리",
+      "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "TSMC 파운드리",
-      "delta": "-",
-      "type": "same"
-    },
-    {
-      "rank": 5,
-      "top": false,
-      "kw": "AI 로보틱스",
-      "delta": "▼ 3",
+      "kw": "NVIDIA GPU",
+      "delta": "▼ 2",
       "type": "down"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "top": false,
       "kw": "테슬라 자율주행 (FSD)",
       "delta": "▲ 1",
       "type": "up"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "top": false,
       "kw": "아이폰 16 Pro",
-      "delta": "▼ 2",
-      "type": "down"
+      "delta": "▲ 1",
+      "type": "up"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 5",
-      "type": "down"
+      "kw": "삼성전자 AI",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "삼성전자 AI",
-      "delta": "▼ 1",
+      "kw": "사이버 보안",
+      "delta": "▼ 6",
       "type": "down"
     },
     {
