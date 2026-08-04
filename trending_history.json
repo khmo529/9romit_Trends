@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 17:16",
+  "updated_at": "2026-08-04 20:00",
   "keywords": [
     {
       "rank": 1,
@@ -11,65 +11,65 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "-",
-      "type": "same"
-    },
-    {
-      "rank": 3,
-      "top": true,
-      "kw": "TSMC 파운드리",
-      "delta": "-",
-      "type": "same"
-    },
-    {
-      "rank": 4,
-      "top": false,
-      "kw": "사이버 보안",
-      "delta": "-",
-      "type": "same"
-    },
-    {
-      "rank": 5,
-      "top": false,
-      "kw": "NVIDIA GPU",
-      "delta": "▲ 2",
-      "type": "up"
-    },
-    {
-      "rank": 6,
-      "top": false,
       "kw": "삼성전자 AI",
       "delta": "▲ 4",
       "type": "up"
     },
     {
-      "rank": 7,
-      "top": false,
-      "kw": "아이폰 16 Pro",
+      "rank": 3,
+      "top": true,
+      "kw": "테슬라 자율주행 (FSD)",
       "delta": "▼ 1",
       "type": "down"
     },
     {
-      "rank": 8,
+      "rank": 4,
       "top": false,
-      "kw": "AI 로보틱스",
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 1",
+      "type": "up"
+    },
+    {
+      "rank": 5,
+      "top": false,
+      "kw": "TSMC 파운드리",
+      "delta": "▼ 2",
+      "type": "down"
+    },
+    {
+      "rank": 6,
+      "top": false,
+      "kw": "사이버 보안",
+      "delta": "▼ 2",
+      "type": "down"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "아이폰 16 Pro",
       "delta": "-",
       "type": "same"
+    },
+    {
+      "rank": 8,
+      "top": false,
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "DeepSeek R1",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "ChatGPT-4o",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "AI 로보틱스",
+      "delta": "▼ 2",
+      "type": "down"
     }
   ]
 }
