@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 11:28",
+  "updated_at": "2026-08-04 14:30",
   "keywords": [
     {
       "rank": 1,
@@ -11,65 +11,65 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "TSMC 파운드리",
-      "delta": "▲ 1",
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "사이버 보안",
-      "delta": "▲ 5",
-      "type": "up"
+      "kw": "TSMC 파운드리",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "사이버 보안",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "NVIDIA GPU",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "아이폰 16 Pro",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "AI 로보틱스",
-      "delta": "▼ 5",
+      "kw": "NVIDIA GPU",
+      "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "아이폰 16 Pro",
-      "delta": "▼ 2",
+      "kw": "AI 로보틱스",
+      "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "삼성전자 AI",
-      "delta": "-",
-      "type": "same"
+      "kw": "MacBook Pro M4",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "kw": "삼성전자 AI",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
