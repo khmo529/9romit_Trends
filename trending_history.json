@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 04:06",
+  "updated_at": "2026-08-05 05:49",
   "keywords": [
     {
       "rank": 1,
@@ -11,21 +11,21 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "삼성전자 AI",
+      "kw": "NVIDIA GPU",
       "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "테슬라 자율주행 (FSD)",
+      "kw": "삼성전자 AI",
       "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "NVIDIA GPU",
+      "kw": "테슬라 자율주행 (FSD)",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -53,23 +53,23 @@
     {
       "rank": 8,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "사이버 보안",
-      "delta": "-",
-      "type": "same"
+      "kw": "DeepSeek R1",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "▼ 2",
+      "type": "down"
     }
   ]
 }
