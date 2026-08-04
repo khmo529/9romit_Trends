@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 07:02",
+  "updated_at": "2026-08-05 08:30",
   "keywords": [
     {
       "rank": 1,
@@ -18,16 +18,16 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "삼성전자 AI",
-      "delta": "-",
-      "type": "same"
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 16 Pro",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 5,
@@ -39,37 +39,37 @@
     {
       "rank": 6,
       "top": false,
-      "kw": "아이폰 16 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "TSMC 파운드리",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "TSMC 파운드리",
-      "delta": "-",
-      "type": "same"
+      "kw": "삼성전자 AI",
+      "delta": "▼ 4",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "사이버 보안",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "DeepSeek R1",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "-",
-      "type": "same"
+      "kw": "DeepSeek R1",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
