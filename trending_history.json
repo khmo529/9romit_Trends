@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 06:41",
+  "updated_at": "2026-08-06 07:48",
   "keywords": [
     {
       "rank": 1,
@@ -12,15 +12,15 @@
       "rank": 2,
       "top": true,
       "kw": "아이폰 16 Pro",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "AI 로보틱스",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
@@ -46,30 +46,30 @@
     {
       "rank": 7,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "사이버 보안",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "사이버 보안",
-      "delta": "-",
-      "type": "same"
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "▼ 3",
+      "type": "down"
     }
   ]
 }
