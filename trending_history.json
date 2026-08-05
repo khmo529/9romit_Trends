@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 03:59",
+  "updated_at": "2026-08-06 05:26",
   "keywords": [
     {
       "rank": 1,
@@ -61,15 +61,15 @@
       "rank": 9,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "사이버 보안",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
