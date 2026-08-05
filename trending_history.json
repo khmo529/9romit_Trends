@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-05 22:40",
+  "updated_at": "2026-08-06 00:53",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI 로보틱스",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "AI 로보틱스",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 3,
@@ -25,14 +25,14 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "애플 인텔리전스",
-      "delta": "▲ 4",
+      "kw": "HBM3e 반도체",
+      "delta": "▲ 3",
       "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "삼성전자 AI",
+      "kw": "애플 인텔리전스",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -40,35 +40,35 @@
       "rank": 6,
       "top": false,
       "kw": "테슬라 자율주행 (FSD)",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "▲ 2",
+      "kw": "TSMC 파운드리",
+      "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "TSMC 파운드리",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "사이버 보안",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "사이버 보안",
-      "delta": "▼ 1",
+      "kw": "삼성전자 AI",
+      "delta": "▼ 5",
       "type": "down"
     }
   ]
