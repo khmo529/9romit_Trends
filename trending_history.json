@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-08-05 18:16",
+  "updated_at": "2026-08-05 20:34",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "AI 로보틱스",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 16 Pro",
+      "kw": "NVIDIA GPU",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "▼ 2",
+      "kw": "아이폰 16 Pro",
+      "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "▲ 1",
+      "kw": "삼성전자 AI",
+      "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "TSMC 파운드리",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "삼성전자 AI",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "HBM3e 반도체",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "애플 인텔리전스",
-      "delta": "▲ 2",
-      "type": "up"
+      "kw": "TSMC 파운드리",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "사이버 보안",
-      "delta": "-",
-      "type": "same"
+      "kw": "애플 인텔리전스",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "DeepSeek R1",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "사이버 보안",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "Claude 3.5 Sonnet",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
