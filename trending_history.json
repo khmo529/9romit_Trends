@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 08:46",
+  "updated_at": "2026-08-06 10:24",
   "keywords": [
     {
       "rank": 1,
@@ -11,16 +11,16 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 16 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "HBM3e 반도체",
+      "delta": "▲ 3",
+      "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "AI 로보틱스",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 16 Pro",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
@@ -32,23 +32,23 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "-",
-      "type": "same"
+      "kw": "삼성전자 AI",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "삼성전자 AI",
-      "delta": "-",
-      "type": "same"
+      "kw": "AI 로보틱스",
+      "delta": "▼ 3",
+      "type": "down"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 8,
@@ -61,15 +61,15 @@
       "rank": 9,
       "top": false,
       "kw": "테슬라 자율주행 (FSD)",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "▼ 3",
-      "type": "down"
+      "kw": "ChatGPT-4o",
+      "delta": "NEW",
+      "type": "new"
     }
   ]
 }
