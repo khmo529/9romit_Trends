@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 19:25",
+  "updated_at": "2026-08-06 20:33",
   "keywords": [
     {
       "rank": 1,
@@ -18,51 +18,51 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "아이폰 16 Pro",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "아이폰 17 Pro",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 4,
-      "top": false,
-      "kw": "애플 인텔리전스",
-      "delta": "▲ 1",
-      "type": "up"
-    },
-    {
-      "rank": 5,
       "top": false,
       "kw": "Google Gemini",
       "delta": "▲ 1",
       "type": "up"
     },
     {
+      "rank": 5,
+      "top": false,
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 2",
+      "type": "up"
+    },
+    {
       "rank": 6,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "▼ 3",
-      "type": "down"
+      "kw": "ChatGPT-5",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "ChatGPT-4o",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "DeepSeek R1",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini 2.0",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
