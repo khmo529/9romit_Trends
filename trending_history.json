@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-08-06 10:24",
+  "updated_at": "2026-08-06 13:37",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "AI 로보틱스",
+      "delta": "▲ 5",
+      "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "HBM3e 반도체",
-      "delta": "▲ 3",
+      "kw": "아이폰 16 Pro",
+      "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "아이폰 16 Pro",
+      "kw": "HBM3e 반도체",
       "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "애플 인텔리전스",
-      "delta": "-",
-      "type": "same"
-    },
-    {
-      "rank": 5,
-      "top": false,
-      "kw": "삼성전자 AI",
-      "delta": "▲ 1",
-      "type": "up"
-    },
-    {
-      "rank": 6,
-      "top": false,
-      "kw": "AI 로보틱스",
+      "kw": "NVIDIA GPU",
       "delta": "▼ 3",
       "type": "down"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "top": false,
+      "kw": "애플 인텔리전스",
+      "delta": "▼ 1",
+      "type": "down"
+    },
+    {
+      "rank": 6,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "delta": "▲ 1",
+      "type": "up"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "삼성전자 AI",
+      "delta": "▼ 3",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "ChatGPT-4o",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
