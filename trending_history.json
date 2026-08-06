@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-08-06 16:32",
+  "updated_at": "2026-08-06 19:25",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "NVIDIA GPU",
-      "delta": "▲ 3",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "AI 로보틱스",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "HBM3e 반도체",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 16 Pro",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "아이폰 16 Pro",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "애플 인텔리전스",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "애플 인텔리전스",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "kw": "HBM3e 반도체",
+      "delta": "▼ 3",
+      "type": "down"
     },
     {
       "rank": 7,
@@ -54,22 +54,22 @@
       "rank": 8,
       "top": false,
       "kw": "ChatGPT-4o",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "DeepSeek R1",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "온디바이스 AI",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
