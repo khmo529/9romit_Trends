@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 20:50",
+  "updated_at": "2026-08-08 21:23",
   "keywords": [
     {
       "rank": 1,
@@ -11,23 +11,23 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "양자 컴퓨터",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 5,
