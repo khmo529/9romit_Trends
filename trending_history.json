@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-08 19:00",
+  "updated_at": "2026-08-08 19:57",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "양자 컴퓨터",
-      "delta": "▲ 3",
+      "kw": "AI 로보틱스",
+      "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "NVIDIA GPU",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "AI 로보틱스",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "아이폰 17 Pro",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "아이폰 17 Pro",
-      "delta": "▼ 2",
+      "kw": "양자 컴퓨터",
+      "delta": "▼ 3",
       "type": "down"
     },
     {
