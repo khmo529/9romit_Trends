@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 05:59",
+  "updated_at": "2026-08-10 06:31",
   "keywords": [
     {
       "rank": 1,
@@ -40,36 +40,36 @@
       "rank": 6,
       "top": false,
       "kw": "ChatGPT-5",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "갤럭시 Z폴드7",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "Google Gemini 2.0",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "온디바이스 AI",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
