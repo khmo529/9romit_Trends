@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-08-09 16:29",
+  "updated_at": "2026-08-09 17:07",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "ChatGPT-5",
-      "delta": "-",
-      "type": "same"
+      "kw": "AI 로보틱스",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA GPU",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "온디바이스 AI",
-      "delta": "-",
-      "type": "same"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 5",
+      "type": "down"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "Claude 4 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 4",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▼ 4",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "DeepSeek V3",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini 2.0",
+      "delta": "▼ 4",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "-",
-      "type": "same"
+      "kw": "온디바이스 AI",
+      "delta": "▼ 4",
+      "type": "down"
     }
   ]
 }
