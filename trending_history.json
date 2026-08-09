@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-08-09 14:27",
+  "updated_at": "2026-08-09 15:07",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI 로보틱스",
-      "delta": "-",
-      "type": "same"
+      "kw": "ChatGPT-5",
+      "delta": "▲ 5",
+      "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "아이폰 17 Pro",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▲ 4",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "아이폰 17 Pro",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▲ 4",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "Google Gemini 2.0",
+      "delta": "▲ 4",
+      "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "온디바이스 AI",
+      "delta": "▲ 4",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "Claude 4 Sonnet",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "HBM3e 반도체",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "DeepSeek V3",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "온디바이스 AI",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "NEW",
+      "type": "new"
     }
   ]
 }
