@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-08-10 04:53",
+  "updated_at": "2026-08-10 05:18",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "ChatGPT-5",
-      "delta": "▲ 7",
-      "type": "up"
+      "kw": "AI 로보틱스",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "양자 컴퓨터",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 6",
-      "type": "up"
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "▲ 6",
-      "type": "up"
+      "kw": "DeepSeek R1",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "Google Gemini 2.0",
+      "kw": "NVIDIA GPU",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "온디바이스 AI",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "HBM3e 반도체",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "Claude 4 Sonnet",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 6",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "▼ 1",
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 5",
       "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "DeepSeek V3",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▼ 5",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "테슬라 자율주행 (FSD)",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "Google Gemini 2.0",
+      "delta": "▼ 5",
+      "type": "down"
     }
   ]
 }
