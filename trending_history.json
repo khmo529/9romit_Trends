@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 19:23",
+  "updated_at": "2026-08-11 20:11",
   "keywords": [
     {
       "rank": 1,
@@ -18,30 +18,30 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
-    },
-    {
-      "rank": 4,
-      "top": false,
       "kw": "갤럭시 Z플립·폴드",
       "delta": "▲ 1",
       "type": "up"
     },
     {
+      "rank": 4,
+      "top": false,
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 1",
+      "type": "down"
+    },
+    {
       "rank": 5,
       "top": false,
       "kw": "Claude 3.5 Sonnet",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "Claude 4 Sonnet",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
