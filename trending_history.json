@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 20:38",
+  "updated_at": "2026-08-12 21:41",
   "keywords": [
     {
       "rank": 1,
@@ -19,22 +19,22 @@
       "rank": 3,
       "top": true,
       "kw": "Claude 3.5 Sonnet",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "아이폰 17 Pro",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
