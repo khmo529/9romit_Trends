@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 01:23",
+  "updated_at": "2026-08-13 02:25",
   "keywords": [
     {
       "rank": 1,
@@ -39,14 +39,14 @@
     {
       "rank": 6,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "DeepSeek R1",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "DeepSeek R1",
+      "kw": "갤럭시 Z플립·폴드",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -54,22 +54,22 @@
       "rank": 8,
       "top": false,
       "kw": "ChatGPT-5",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "갤럭시 Z폴드7",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
