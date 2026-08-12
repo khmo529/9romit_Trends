@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 15:50",
+  "updated_at": "2026-08-12 17:08",
   "keywords": [
     {
       "rank": 1,
@@ -19,57 +19,57 @@
       "rank": 3,
       "top": true,
       "kw": "Claude 3.5 Sonnet",
-      "delta": "▲ 3",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "아이폰 17 Pro",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 3",
-      "type": "down"
-    },
-    {
-      "rank": 7,
-      "top": false,
-      "kw": "DeepSeek R1",
       "delta": "-",
       "type": "same"
     },
     {
+      "rank": 7,
+      "top": false,
+      "kw": "Claude 4 Sonnet",
+      "delta": "NEW",
+      "type": "new"
+    },
+    {
       "rank": 8,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "DeepSeek R1",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
