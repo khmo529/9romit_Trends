@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 09:06",
+  "updated_at": "2026-08-12 12:02",
   "keywords": [
     {
       "rank": 1,
@@ -32,44 +32,44 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "Claude 4 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 4 Sonnet",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "-",
-      "type": "same"
+      "kw": "DeepSeek R1",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "-",
-      "type": "same"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 2",
+      "type": "down"
     }
   ]
 }
