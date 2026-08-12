@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 08:28",
+  "updated_at": "2026-08-12 09:06",
   "keywords": [
     {
       "rank": 1,
@@ -19,22 +19,22 @@
       "rank": 3,
       "top": true,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "아이폰 17 Pro",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "Claude 4 Sonnet",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
