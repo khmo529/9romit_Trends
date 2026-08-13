@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 21:42",
+  "updated_at": "2026-08-13 23:14",
   "keywords": [
     {
       "rank": 1,
@@ -12,29 +12,29 @@
       "rank": 2,
       "top": true,
       "kw": "Claude 3.5 Sonnet",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "NVIDIA GPU",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "▼ 3",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
@@ -54,22 +54,22 @@
       "rank": 8,
       "top": false,
       "kw": "ChatGPT-5",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "갤럭시 Z폴드7",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
