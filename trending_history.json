@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 08:10",
+  "updated_at": "2026-08-13 09:04",
   "keywords": [
     {
       "rank": 1,
@@ -39,16 +39,16 @@
     {
       "rank": 6,
       "top": false,
-      "kw": "DeepSeek R1",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "DeepSeek R1",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 8,
