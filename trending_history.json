@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 07:11",
+  "updated_at": "2026-08-15 07:45",
   "keywords": [
     {
       "rank": 1,
@@ -25,16 +25,16 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "kw": "HBM3e 반도체",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 6,
