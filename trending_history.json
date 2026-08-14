@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 17:06",
+  "updated_at": "2026-08-14 18:32",
   "keywords": [
     {
       "rank": 1,
@@ -11,14 +11,14 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "▲ 2",
+      "kw": "AI 로보틱스",
+      "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "AI 로보틱스",
+      "kw": "NVIDIA GPU",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -26,50 +26,50 @@
       "rank": 4,
       "top": false,
       "kw": "HBM3e 반도체",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "ChatGPT-5",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "갤럭시 Z폴드7",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "Google Gemini 2.0",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "온디바이스 AI",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
