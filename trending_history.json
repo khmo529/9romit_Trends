@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 08:09",
+  "updated_at": "2026-08-14 09:04",
   "keywords": [
     {
       "rank": 1,
@@ -32,44 +32,44 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "Google Gemini",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "HBM3e 반도체",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
