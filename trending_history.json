@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 14:12",
+  "updated_at": "2026-08-14 15:50",
   "keywords": [
     {
       "rank": 1,
@@ -18,56 +18,56 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "▲ 3",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "NVIDIA GPU",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "Google Gemini",
+      "kw": "HBM3e 반도체",
       "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
+      "kw": "Google Gemini",
+      "delta": "▼ 1",
+      "type": "down"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "양자 컴퓨터",
       "delta": "NEW",
       "type": "new"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "top": false,
       "kw": "ChatGPT-5",
       "delta": "▼ 1",
       "type": "down"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
       "delta": "▼ 1",
       "type": "down"
     },
     {
-      "rank": 9,
-      "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "▼ 1",
-      "type": "down"
-    },
-    {
       "rank": 10,
       "top": false,
-      "kw": "Google Gemini 2.0",
+      "kw": "갤럭시 Z폴드7",
       "delta": "▼ 1",
       "type": "down"
     }
