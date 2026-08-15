@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 13:00",
+  "updated_at": "2026-08-15 13:53",
   "keywords": [
     {
       "rank": 1,
@@ -32,9 +32,9 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "DeepSeek R1",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
