@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 06:09",
+  "updated_at": "2026-08-17 06:41",
   "keywords": [
     {
       "rank": 1,
@@ -32,44 +32,44 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "양자 컴퓨터",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "▲ 2",
-      "type": "up"
+      "kw": "Google Gemini",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▲ 2",
-      "type": "up"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
