@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 21:19",
+  "updated_at": "2026-08-17 22:13",
   "keywords": [
     {
       "rank": 1,
@@ -12,8 +12,8 @@
       "rank": 2,
       "top": true,
       "kw": "양자 컴퓨터",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 3,
@@ -26,8 +26,8 @@
       "rank": 4,
       "top": false,
       "kw": "NVIDIA GPU",
-      "delta": "▼ 2",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
