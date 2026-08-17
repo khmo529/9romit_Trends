@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 07:46",
+  "updated_at": "2026-08-18 08:12",
   "keywords": [
     {
       "rank": 1,
@@ -18,58 +18,58 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "ChatGPT-5",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini 2.0",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "-",
-      "type": "same"
+      "kw": "온디바이스 AI",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "온디바이스 AI",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 4 Sonnet",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "Claude 4 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "HBM3e 반도체",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "-",
-      "type": "same"
+      "kw": "DeepSeek V3",
+      "delta": "NEW",
+      "type": "new"
     }
   ]
 }
