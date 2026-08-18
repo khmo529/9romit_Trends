@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 20:47",
+  "updated_at": "2026-08-18 21:21",
   "keywords": [
     {
       "rank": 1,
@@ -32,9 +32,9 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
