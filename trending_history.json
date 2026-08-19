@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-19 16:12",
+  "updated_at": "2026-08-19 16:59",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "NVIDIA GPU",
+      "kw": "AI 로보틱스",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "AI 로보틱스",
+      "kw": "NVIDIA GPU",
       "delta": "▼ 1",
       "type": "down"
     },
