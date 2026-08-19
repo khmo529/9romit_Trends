@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 03:59",
+  "updated_at": "2026-08-20 04:25",
   "keywords": [
     {
       "rank": 1,
@@ -26,15 +26,15 @@
       "rank": 4,
       "top": false,
       "kw": "ChatGPT-5",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "양자 컴퓨터",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
