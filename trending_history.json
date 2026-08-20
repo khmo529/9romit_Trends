@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 01:58",
+  "updated_at": "2026-08-21 02:26",
   "keywords": [
     {
       "rank": 1,
@@ -32,44 +32,44 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "온디바이스 AI",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini 2.0",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "Claude 4 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "온디바이스 AI",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "HBM3e 반도체",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 4 Sonnet",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
