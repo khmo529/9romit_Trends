@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 23:59",
+  "updated_at": "2026-08-22 00:35",
   "keywords": [
     {
       "rank": 1,
@@ -11,16 +11,16 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "Claude 3.5 Sonnet",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
