@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 03:20",
+  "updated_at": "2026-08-22 04:04",
   "keywords": [
     {
       "rank": 1,
@@ -12,21 +12,21 @@
       "rank": 2,
       "top": true,
       "kw": "Claude 3.5 Sonnet",
-      "delta": "▲ 2",
-      "type": "up"
-    },
-    {
-      "rank": 3,
-      "top": true,
-      "kw": "아이폰 17 Pro",
       "delta": "-",
       "type": "same"
     },
     {
+      "rank": 3,
+      "top": true,
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 1",
+      "type": "up"
+    },
+    {
       "rank": 4,
       "top": false,
-      "kw": "NVIDIA GPU",
-      "delta": "▼ 2",
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 1",
       "type": "down"
     },
     {
