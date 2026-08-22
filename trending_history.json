@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-22 23:10",
+  "updated_at": "2026-08-22 23:44",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "NVIDIA GPU",
+      "kw": "AI 로보틱스",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "AI 로보틱스",
+      "kw": "NVIDIA GPU",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -33,43 +33,43 @@
       "rank": 5,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "갤럭시 Z폴드7",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "Google Gemini 2.0",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "온디바이스 AI",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "Claude 4 Sonnet",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
