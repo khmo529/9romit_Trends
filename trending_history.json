@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 19:45",
+  "updated_at": "2026-08-22 20:11",
   "keywords": [
     {
       "rank": 1,
@@ -18,23 +18,23 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "ChatGPT-5",
-      "delta": "▲ 1",
+      "kw": "아이폰 17 Pro",
+      "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
+      "kw": "ChatGPT-5",
       "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 6,
