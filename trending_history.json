@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-24 07:10",
+  "updated_at": "2026-08-24 07:43",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI 로보틱스",
+      "kw": "NVIDIA GPU",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
+      "kw": "AI 로보틱스",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -25,16 +25,16 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 17 Pro",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 6,
