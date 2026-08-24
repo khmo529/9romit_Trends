@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 13:13",
+  "updated_at": "2026-08-24 14:07",
   "keywords": [
     {
       "rank": 1,
@@ -11,23 +11,23 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "AI 로보틱스",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "AI 로보틱스",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 5,
