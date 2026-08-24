@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-24 18:35",
+  "updated_at": "2026-08-24 19:27",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "▲ 2",
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
+      "kw": "갤럭시 Z플립·폴드",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -19,8 +19,8 @@
       "rank": 3,
       "top": true,
       "kw": "아이폰 17 Pro",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
