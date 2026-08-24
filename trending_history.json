@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 16:34",
+  "updated_at": "2026-08-24 17:34",
   "keywords": [
     {
       "rank": 1,
@@ -12,15 +12,15 @@
       "rank": 2,
       "top": true,
       "kw": "아이폰 17 Pro",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
