@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-25 11:11",
+  "updated_at": "2026-08-25 12:23",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "아이폰 17 Pro",
+      "kw": "NVIDIA GPU",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
+      "kw": "아이폰 17 Pro",
       "delta": "▼ 1",
       "type": "down"
     },
@@ -19,15 +19,15 @@
       "rank": 3,
       "top": true,
       "kw": "AI 로보틱스",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
