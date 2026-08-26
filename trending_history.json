@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 08:45",
+  "updated_at": "2026-08-26 09:37",
   "keywords": [
     {
       "rank": 1,
@@ -32,16 +32,16 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 7,
