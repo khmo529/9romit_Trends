@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 15:35",
+  "updated_at": "2026-08-26 16:36",
   "keywords": [
     {
       "rank": 1,
@@ -25,51 +25,51 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "양자 컴퓨터",
+      "kw": "갤럭시 Z플립·폴드",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
+      "kw": "Google Gemini",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "ChatGPT-5",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini 2.0",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Google Gemini 2.0",
-      "delta": "-",
-      "type": "same"
+      "kw": "온디바이스 AI",
+      "delta": "NEW",
+      "type": "new"
     }
   ]
 }
