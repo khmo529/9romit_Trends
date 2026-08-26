@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 11:17",
+  "updated_at": "2026-08-26 12:30",
   "keywords": [
     {
       "rank": 1,
@@ -26,8 +26,8 @@
       "rank": 4,
       "top": false,
       "kw": "양자 컴퓨터",
-      "delta": "▲ 2",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 5,
@@ -40,8 +40,8 @@
       "rank": 6,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 2",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
