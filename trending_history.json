@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 20:25",
+  "updated_at": "2026-08-26 20:53",
   "keywords": [
     {
       "rank": 1,
@@ -25,14 +25,14 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "Google Gemini",
+      "kw": "갤럭시 Z플립·폴드",
       "delta": "▲ 1",
       "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
+      "kw": "Google Gemini",
       "delta": "▼ 1",
       "type": "down"
     },
