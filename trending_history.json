@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 09:37",
+  "updated_at": "2026-08-26 11:17",
   "keywords": [
     {
       "rank": 1,
@@ -25,22 +25,22 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "▲ 2",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "▼ 1",
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▼ 2",
       "type": "down"
     },
     {
