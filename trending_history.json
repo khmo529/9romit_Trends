@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 11:13",
+  "updated_at": "2026-08-30 17:25",
   "keywords": [
     {
       "rank": 1,
@@ -11,22 +11,22 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "▲ 1",
+      "kw": "NVIDIA GPU",
+      "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "양자 컴퓨터",
-      "delta": "▲ 1",
-      "type": "up"
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "NVIDIA GPU",
-      "delta": "▼ 2",
+      "kw": "양자 컴퓨터",
+      "delta": "▼ 1",
       "type": "down"
     },
     {
@@ -39,9 +39,9 @@
     {
       "rank": 6,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "kw": "HBM3e 반도체",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 7,
