@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 17:25",
+  "updated_at": "2026-08-30 22:51",
   "keywords": [
     {
       "rank": 1,
@@ -11,37 +11,37 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "NVIDIA GPU",
+      "kw": "양자 컴퓨터",
       "delta": "▲ 2",
       "type": "up"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "아이폰 17 Pro",
+      "kw": "NVIDIA GPU",
       "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 17 Pro",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "HBM3e 반도체",
-      "delta": "NEW",
-      "type": "new"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
