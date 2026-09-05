@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 05:32",
+  "updated_at": "2026-09-06 07:27",
   "keywords": [
     {
       "rank": 1,
@@ -32,44 +32,44 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "NEW",
-      "type": "new"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "DeepSeek R1",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "DeepSeek R1",
-      "delta": "▼ 1",
+      "kw": "Google Gemini",
+      "delta": "▼ 2",
       "type": "down"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "ChatGPT-5",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "갤럭시 Z폴드7",
-      "delta": "▼ 1",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     }
   ]
 }
