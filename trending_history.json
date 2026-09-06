@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-09-06 13:52",
+  "updated_at": "2026-09-06 18:01",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "▲ 1",
+      "kw": "ChatGPT-5",
+      "delta": "▲ 8",
       "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "AI 로보틱스",
+      "kw": "아이폰 17 Pro",
       "delta": "▼ 1",
       "type": "down"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "양자 컴퓨터",
-      "delta": "▲ 1",
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▲ 7",
       "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "NVIDIA GPU",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "갤럭시 Z폴드7",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "Claude 3.5 Sonnet",
+      "kw": "Google Gemini 2.0",
       "delta": "NEW",
       "type": "new"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "DeepSeek R1",
-      "delta": "-",
-      "type": "same"
+      "kw": "온디바이스 AI",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "▼ 2",
-      "type": "down"
+      "kw": "Claude 4 Sonnet",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "HBM3e 반도체",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "DeepSeek V3",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "▼ 1",
-      "type": "down"
+      "kw": "테슬라 자율주행 (FSD)",
+      "delta": "NEW",
+      "type": "new"
     }
   ]
 }
