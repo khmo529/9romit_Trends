@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-09-06 09:05",
+  "updated_at": "2026-09-06 13:52",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI 로보틱스",
-      "delta": "-",
-      "type": "same"
+      "kw": "아이폰 17 Pro",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "아이폰 17 Pro",
-      "delta": "-",
-      "type": "same"
+      "kw": "AI 로보틱스",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "NVIDIA GPU",
-      "delta": "-",
-      "type": "same"
+      "kw": "양자 컴퓨터",
+      "delta": "▲ 1",
+      "type": "up"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "양자 컴퓨터",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA GPU",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "갤럭시 Z플립·폴드",
-      "delta": "-",
-      "type": "same"
+      "kw": "Claude 3.5 Sonnet",
+      "delta": "NEW",
+      "type": "new"
     },
     {
       "rank": 6,
@@ -46,30 +46,30 @@
     {
       "rank": 7,
       "top": false,
-      "kw": "Google Gemini",
-      "delta": "-",
-      "type": "same"
+      "kw": "갤럭시 Z플립·폴드",
+      "delta": "▼ 2",
+      "type": "down"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "ChatGPT-5",
-      "delta": "-",
-      "type": "same"
+      "kw": "Google Gemini",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "NVIDIA Blackwell Ultra",
-      "delta": "-",
-      "type": "same"
+      "kw": "ChatGPT-5",
+      "delta": "▼ 1",
+      "type": "down"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "갤럭시 Z폴드7",
-      "delta": "-",
-      "type": "same"
+      "kw": "NVIDIA Blackwell Ultra",
+      "delta": "▼ 1",
+      "type": "down"
     }
   ]
 }
