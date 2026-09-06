@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 07:27",
+  "updated_at": "2026-09-06 09:05",
   "keywords": [
     {
       "rank": 1,
@@ -33,22 +33,22 @@
       "rank": 5,
       "top": false,
       "kw": "갤럭시 Z플립·폴드",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "DeepSeek R1",
-      "delta": "▲ 1",
-      "type": "up"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "Google Gemini",
-      "delta": "▼ 2",
-      "type": "down"
+      "delta": "-",
+      "type": "same"
     },
     {
       "rank": 8,
