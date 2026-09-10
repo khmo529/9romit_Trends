@@ -45,24 +45,26 @@ def clean_title(s: str) -> str:
     s = re.sub(r'^\[.*?\]\s*', '', s)
     return s.strip()
 
+# IT 관련 단어만 허용 - 이 단어 없으면 키워드에서 탈락
+TECH_ALLOW = {'아이폰','iPhone','갤럭시','Galaxy','애플','Apple','구글','Google','AI','ChatGPT','GPT','Claude','Gemini','NVIDIA','MacBook','iPad','폴드','플립','Fold','Flip','로봇','반도체','HBM','FSD','테슬라'}
+
 def extract_kw(title: str) -> str:
-    # 1) 제품명 패턴 우선
+    # 1. IT 단어 하나라도 없으면 버림
+    if not any(w.lower() in title.lower() for w in TECH_ALLOW):
+        return ""
+
+    # 2. 제품명 패턴 우선
     for pat in PATTERNS:
         m = pat.search(title)
         if m:
-            kw = re.sub(r'\s+', ' ', m.group(0).strip())
-            return kw[:25]
+            return re.sub(r'\s+', ' ', m.group(0).strip())[:25]
 
-    # 2) 패턴 없으면 제목에서 명사성 키워드 추출 (가장 간단한 방식)
-    # 불용어 제거 후 앞 3단어
+    # 3. 없으면 IT 단어 주변만 추출
     tmp = title
     for w in STOPWORDS:
         tmp = tmp.replace(w, ' ')
-    tmp = re.sub(r'[^0-9A-Za-z가-힣 ]+', ' ', tmp)
     tmp = re.sub(r'\s+', ' ', tmp).strip()
-    words = tmp.split()[:3] # 앞 3단어만 키워드로
-    kw = ' '.join(words)[:25]
-    return kw if len(kw) >= 2 else ""
+    return tmp[:25]
 
 def fetch() -> List[str]:
     headers = {'User-Agent': 'Mozilla/5.0 Chrome/120.0.0.0'}
