@@ -1,20 +1,33 @@
-import os, json, re, datetime, xml.etree.ElementTree as ET
+import os
+import json
+import re
+import datetime
+import logging
+from pathlib import Path
 from collections import Counter
+from dataclasses import dataclass, asdict
+from typing import List, Dict, Tuple
+
 import requests
+import xml.etree.ElementTree as ET
+
+# ================= CONFIG =================
+logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
+
+RSS_URLS = [
+    "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.hada.io/rss/news"
+]
 
 MEDIA_BLACK_LIST = {
     '매일경제', '조선일보', '핀포인트뉴스', '한국경제', '중앙일보', '동아일보',
     '한겨레', '이데일리', '디지털타임스', '머니투데이', '연합뉴스', '뉴스1', '뉴시스'
 }
-GENERIC_BLACK_LIST = {
-    '차세대','가격','실적','전망','분석','시장','기업','공개','출시','발표','사업',
-    '한국','세계','속보','주요','오늘','내일','올해','내년','상반기','하반기'
-}
 
-# 2026년 기준 최신 매핑 - 구체적인 것부터 위로!
-SEO_TECH_DICTIONARY = [
+# 구체적인 패턴이 위로 오도록 정렬 필수
+RAW_SEO_MAP = [
     (r'iphone 17|아이폰 17', '아이폰 17 Pro'),
-    (r'iphone|아이폰', '아이폰 17 Pro'), # 구형 16 대신 17로 통일
+    (r'iphone|아이폰', '아이폰 17 Pro'),
     (r'galaxy.*fold.*7|갤럭시.*폴드.*7|z.*폴드.*7', '갤럭시 Z폴드7'),
     (r'galaxy.*flip.*7|갤럭시.*플립.*7|z.*플립.*7', '갤럭시 Z플립7'),
     (r'galaxy|갤럭시', '갤럭시 Z플립·폴드'),
@@ -35,97 +48,156 @@ SEO_TECH_DICTIONARY = [
     (r'양자|quantum', '양자 컴퓨터'),
 ]
 
-FALLBACK_SEO_KEYWORDS = [
+# 컴파일은 앱 시작시 1번만
+SEO_PATTERNS: List[Tuple[re.Pattern, str]] = [
+    (re.compile(p, re.IGNORECASE), tag) for p, tag in RAW_SEO_MAP
+]
+
+FALLBACK_KEYWORDS = [
     'ChatGPT-5', '아이폰 17 Pro', 'NVIDIA Blackwell Ultra',
     '갤럭시 Z폴드7', 'Google Gemini 2.0', '온디바이스 AI',
     'Claude 4 Sonnet', 'HBM3e 반도체', 'DeepSeek V3', '테슬라 자율주행 (FSD)'
 ]
 
-def clean_and_extract_keywords():
-    urls = [
-        "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko",
-        "https://news.hada.io/rss/news"
-    ]
-    extracted_tags = []
+@dataclass
+class TrendingItem:
+    rank: int
+    top: bool
+    kw: str
+    delta: str
+    type: str
+
+# ================= CORE LOGIC =================
+def clean_title(raw_title: str) -> str:
+    """ '속보: ~ - 조선일보' 같은 꼬리표 제거 """
+    if not raw_title:
+        return ""
+    # 뒤에 ' - 언론사' 패턴 제거
+    cleaned = re.sub(r'\s*-\s*[^-]{2,20}$', '', raw_title).strip()
+    return cleaned
+
+def map_to_seo_keyword(title: str) -> str | None:
+    """ 제목 1개를 SEO 키워드 1개로 매핑 """
+    title_lower = title.lower()
+    # 언론사명은 키워드 매핑 방해 안되게 공백 처리
+    for bad in MEDIA_BLACK_LIST:
+        if bad.lower() in title_lower:
+            title_lower = title_lower.replace(bad.lower(), ' ')
+
+    for pattern, seo_tag in SEO_PATTERNS:
+        if pattern.search(title_lower):
+            return seo_tag
+    return None
+
+def fetch_keywords_from_rss() -> List[str]:
     headers = {'User-Agent': 'Mozilla/5.0 Chrome/120.0.0.0'}
-    
-    for url in urls:
+    extracted = []
+
+    for url in RSS_URLS:
         try:
             res = requests.get(url, headers=headers, timeout=10)
-            if res.status_code != 200: continue
+            res.raise_for_status()
             root = ET.fromstring(res.content)
+
             for item in root.findall('.//item'):
-                title = (item.find('title').text or '')
-                # 언론사 꼬리표만 제거, 본문은 유지
-                title_clean = re.sub(r'\s*-\s*[^-]{2,20}$', '', title).strip()
-                title_lower = title_clean.lower()
+                title_node = item.find('title')
+                if title_node is None or not title_node.text:
+                    continue
 
-                # 블랙리스트는 단어 경계로만 제거
-                skip = False
-                for bad in MEDIA_BLACK_LIST:
-                    if bad.lower() in title_lower and len(bad) > 2:
-                        # 기자명이면 스킵하지 말고 단어만 제거
-                        title_lower = title_lower.replace(bad.lower(), '')
+                title = clean_title(title_node.text)
+                seo_kw = map_to_seo_keyword(title)
+                if seo_kw:
+                    extracted.append(seo_kw)
 
-                for pattern, seo_tag in SEO_TECH_DICTIONARY:
-                    if re.search(pattern, title_lower, re.IGNORECASE):
-                        extracted_tags.append(seo_tag)
-                        break # 한 제목당 1개만
         except Exception as e:
-            print(f"Error {url}: {e}")
+            logging.warning(f"RSS fetch failed {url}: {e}")
+            continue
 
-    counts = Counter(extracted_tags).most_common(10)
-    final_keywords, seen = [], set()
-    for tag, _ in counts:
+    # 빈도수 기반 랭킹
+    counts = Counter(extracted)
+    # 많이 나온 순으로 정렬
+    sorted_tags = [tag for tag, _ in counts.most_common(20)]
+
+    # 중복 제거 + Fallback으로 10개 채우기
+    final, seen = [], set()
+    for tag in sorted_tags + FALLBACK_KEYWORDS:
         if tag not in seen:
-            final_keywords.append(tag)
+            final.append(tag)
             seen.add(tag)
+        if len(final) >= 10:
+            break
 
-    # 10개 못 채우면 FALLBACK으로 채움
-    for fb in FALLBACK_SEO_KEYWORDS:
-        if fb not in seen:
-            final_keywords.append(fb)
-            seen.add(fb)
-        if len(final_keywords) >= 10: break
-            
-    return final_keywords[:10]
+    logging.info(f"Extracted: {final}")
+    return final[:10]
 
-def process_and_push():
-    history_file = 'trending_history.json'
-    old_ranks = {}
-    if os.path.exists(history_file):
-        try:
-            with open(history_file, 'r', encoding='utf-8') as f:
-                old_data = json.load(f)
-                old_ranks = {item['kw'].lower(): item['rank'] for item in old_data.get('keywords', [])}
-        except: pass
+def load_old_ranks(history_file: Path) -> Dict[str, int]:
+    if not history_file.exists():
+        return {}
+    try:
+        with history_file.open('r', encoding='utf-8') as f:
+            data = json.load(f)
+            return {item['kw'].lower(): item['rank'] for item in data.get('keywords', [])}
+    except Exception:
+        return {}
 
-    raw_keywords = clean_and_extract_keywords()
-    new_keywords = []
-    for rank, kw in enumerate(raw_keywords, 1):
-        kw_lower = kw.lower()
-        if kw_lower in old_ranks:
-            diff = old_ranks[kw_lower] - rank
-            delta_str, delta_type = (f"▲ {diff}", "up") if diff>0 else (f"▼ {abs(diff)}", "down") if diff<0 else ("-", "same")
+def build_payload(new_keywords: List[str], old_ranks: Dict[str, int]) -> Dict:
+    items: List[TrendingItem] = []
+    for rank, kw in enumerate(new_keywords, 1):
+        old_rank = old_ranks.get(kw.lower())
+        if old_rank is None:
+            delta, type_ = "NEW", "new"
         else:
-            delta_str, delta_type = "NEW", "new"
-        new_keywords.append({"rank": rank, "top": rank<=3, "kw": kw, "delta": delta_str, "type": delta_type})
+            diff = old_rank - rank
+            if diff > 0:
+                delta, type_ = f"▲ {diff}", "up"
+            elif diff < 0:
+                delta, type_ = f"▼ {abs(diff)}", "down"
+            else:
+                delta, type_ = "-", "same"
 
-    now_kst = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)).strftime('%Y-%m-%d %H:%M')
-    payload = {"updated_at": now_kst, "keywords": new_keywords}
+        items.append(TrendingItem(rank=rank, top=rank<=3, kw=kw, delta=delta, type=type_))
 
-    with open(history_file, 'w', encoding='utf-8') as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+    now_kst = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)
+    return {
+        "updated_at": now_kst.strftime('%Y-%m-%d %H:%M'),
+        "keywords": [asdict(i) for i in items]
+    }
 
-    # WordPress 푸시
+def push_to_wordpress(payload: Dict):
     wp_url = os.environ.get('WP_URL','').rstrip('/')
     wp_secret = os.environ.get('WP_SECRET','')
-    if wp_url and wp_secret:
-        try:
-            requests.post(f"{wp_url}/wp-json/g9/v1/update-trends",
-                          json=payload, headers={"Content-Type":"application/json","X-G9-Token":wp_secret}, timeout=10)
-        except Exception as e:
-            print(f"WP Push fail: {e}")
+
+    if not wp_url or not wp_secret:
+        logging.info("WP_URL or WP_SECRET not set - skip push")
+        return
+
+    # 저장 위치 2곳: repo 루트 + uploads 경로용 json도 같이 푸시되므로 WP가 알아서 저장
+    try:
+        url = f"{wp_url}/wp-json/g9/v1/update-trends"
+        res = requests.post(url, json=payload, headers={"Content-Type":"application/json","X-G9-Token":wp_secret}, timeout=10)
+        res.raise_for_status()
+        logging.info(f"WP Push OK: {res.json()}")
+    except Exception as e:
+        logging.error(f"WP Push fail: {e}")
+        # 실패해도 로컬 파일은 저장해야 하므로 raise 안함
+
+def process_and_push():
+    history_file = Path(__file__).parent / 'trending_history.json'
+
+    old_ranks = load_old_ranks(history_file)
+    raw_keywords = fetch_keywords_from_rss()
+
+    if not raw_keywords:
+        logging.warning("No keywords extracted, using fallback")
+        raw_keywords = FALLBACK_KEYWORDS[:10]
+
+    payload = build_payload(raw_keywords, old_ranks)
+
+    # 로컬 저장
+    with history_file.open('w', encoding='utf-8') as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    push_to_wordpress(payload)
 
 if __name__ == "__main__":
     process_and_push()
