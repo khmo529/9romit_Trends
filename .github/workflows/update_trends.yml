@@ -1,4 +1,4 @@
-name: Push Tech Trends to WordPress
+name: Update Tech Trends
 
 on:
   schedule:
@@ -15,61 +15,29 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          # rebase 충돌 방지용으로 최신 코드 먼저 가져오기
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: pip install requests
 
-      - name: Run Collector and Push to WP
+      - name: Run Collector
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_SECRET: ${{ secrets.WP_SECRET }}
-        run: |
-          set -e
-          echo "=== Running collector.py ==="
-          python collector.py
+        run: python collector.py
 
-          echo "=== Result file ==="
-          cat trending_history.json || echo "File not created!"
-          echo ""
-          echo "=== Updated at ==="
-          cat trending_history.json | grep updated_at || true
-
-      - name: Commit and Push History
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 1. 원격 최신 변경사항 먼저 가져오기 (내 파일 덮어쓰기 전에)
           git pull --rebase origin ${{ github.ref_name }} || true
-
-          # 2. 파일 없으면 생성
-          if [! -f trending_history.json ]; then
-            echo '{"updated_at":"init","keywords":[]}' > trending_history.json
-          fi
-
           git add trending_history.json
-
-          # 3. 변경사항 체크
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "Auto update trends: $(date +'%Y-%m-%d %H:%M KST') [skip ci]"
-          git push
+          git diff --staged --quiet && echo "No changes" || (git commit -m "Auto update [skip ci]" && git push)
