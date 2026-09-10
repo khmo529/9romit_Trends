@@ -2,14 +2,12 @@ name: Push Tech Trends to WordPress
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # 30분 마다 자동 실행
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
-# GITHUB_TOKEN 권한
 permissions:
   contents: write
 
-# 30분마다 겹쳐서 도는 것 방지 - 이전 실행이 끝나지 않으면 새 실행 취소
 concurrency:
   group: tech-trends-push
   cancel-in-progress: false
@@ -18,24 +16,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # rebase 충돌 방지용으로 최신 코드 먼저 가져오기
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          # collector.py에 다른 의존성 있으면 여기에 추가
 
       - name: Run Collector and Push to WP
         env:
@@ -43,25 +41,35 @@ jobs:
           WP_SECRET: ${{ secrets.WP_SECRET }}
         run: |
           set -e
+          echo "=== Running collector.py ==="
           python collector.py
+
+          echo "=== Result file ==="
+          cat trending_history.json || echo "File not created!"
+          echo ""
+          echo "=== Updated at ==="
+          cat trending_history.json | grep updated_at || true
 
       - name: Commit and Push History
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # trending_history.json이 없으면 빈 파일 생성 (첫 실행 에러 방지)
-          if [ ! -f trending_history.json ]; then
-            echo "{}" > trending_history.json
+
+          # 1. 원격 최신 변경사항 먼저 가져오기 (내 파일 덮어쓰기 전에)
+          git pull --rebase origin ${{ github.ref_name }} || true
+
+          # 2. 파일 없으면 생성
+          if [! -f trending_history.json ]; then
+            echo '{"updated_at":"init","keywords":[]}' > trending_history.json
           fi
-          
-          git add trending_history.json || true
-          
-          # 변경사항 있을 때만 커밋/푸시 (충돌 방지 위해 pull --rebase 추가)
-          if ! git diff --quiet || ! git diff --staged --quiet; then
-            git commit -m "Auto update history [skip ci]"
-            git pull --rebase origin ${{ github.ref_name }} || true
-            git push
-          else
+
+          git add trending_history.json
+
+          # 3. 변경사항 체크
+          if git diff --staged --quiet; then
             echo "No changes to commit"
+            exit 0
           fi
+
+          git commit -m "Auto update trends: $(date +'%Y-%m-%d %H:%M KST') [skip ci]"
+          git push
