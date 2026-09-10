@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 00:25",
+  "updated_at": "2026-09-11 03:35",
   "keywords": [
     {
       "rank": 1,
@@ -29,16 +29,16 @@
       "rank": 4,
       "top": false,
       "kw": "‘역대급 흥행’ 갤럭시Z8 ‘모서리 눌림’ 논",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3BWWnhIUmNWTVA4OHVkczB5cG1GRklOZWh6X2E0UWFvcUxvcVI0dEpCdFBkenllT3FKTFhpcTFNOE9wcHRZMmFqaE1Gd3V4dlRIeWNJUi0xU09PbWd1elBZWVo2U0R6ZWNLTktWXzJ1aTYwNkFnRmpXMkEtMTRLX3F30gGWAUFVX3lxTE1UdEdhZC1JMEtpTlIwNGFVYWlXaERTMG5Eb1MxNlNLOHlMWVRtcENKeXF2WGQyeHJNVkpGbUJuX0dZTDkzT2JyRTlQdTZnQ21obHJKSThxLVh3Vjg0XzRfZUlzdEFqbFFKX3o3dTB5UHl5c1ZGMnkzaXFvQXZiZnROc1Q4U0djYnVXdFctdnlLX21oMmlPQQ?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "애플, 오는 14일 아이폰용 운영체제 'iOS",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6QjRjMjRJb09TTkFyek1Uc3RucmtxTC1jQjVJZXNUQjVhN1YtcEJLR1VyMDBYcmF1UUF0UTNnUmhBVDNNMXFPQUdJc3FVRDBFNkZZdUV3?oc=5"
     },
     {
@@ -48,6 +48,14 @@
       "delta": "-",
       "type": "same",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RdlVYMXZWQVBXeEg4aFdNd1V0U0FvQWVlNXNQZGFtN1p3VTRRWTdkZlVMdmQzSTcxYTJUdG53S084b0kyTldVc1FaTUpYNEtSMjZ1Z0lBWkJPVWI4OWl0SmNXNm5IYUhJNGxuNXFjTkdXUdIBdkFVX3lxTFA4RTlfOGc3SHg3aDlvQnA3YW5ORDRiUlhReHdSVndDclBoRUVVdkdsaW56RHowdk1KVjN1cG5fakZuSGVjdG4tOEdBelRwWWNfZnZfZE8yTFMzTUlYci0yMG5KRG5PRHhHc0x3Wnl2SGc1WnhpaGc?oc=5"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "아이폰18",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xQ2hybXY5dnNLZFc2c3JSeGhZNm9VX0tNQi1jRDZqa0Rxd2trRFl6anB1X0hJWHFLdWV4ZERyZ01qVGt1eXVrenJJdW5LNElEMjJkRUd3?oc=5"
     }
   ]
 }
