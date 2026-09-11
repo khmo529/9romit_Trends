@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 06:25",
+  "updated_at": "2026-09-12 08:23",
   "keywords": [
     {
       "rank": 1,
@@ -12,10 +12,10 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "베일 벗은 애플 첫 ‘접는 아이폰’… “갤럭시",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ScGRpaEhnWFRsZzE4SEo1anh3MmJKRnRWaXFLaVlZenpxLTREVGV4TmFkdUZVZnZ0RDRSUS1YemhabzNhT2c?oc=5"
+      "kw": "'삼성이 애플 두드려팼다'…불붙은 디스전에 임",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbTVjblQ4TllCV1JIQWo5SnV1cUFWQnkxeW9ZSHRoRFFoSnFXdEFpTldmdm9VRnpJU3Y4dXZqcjhldFNzT0VjMDMxa3BHV2Yyd3dFOXpCemNVUQ?oc=5"
     },
     {
       "rank": 3,
@@ -29,57 +29,57 @@
       "rank": 4,
       "top": false,
       "kw": "오픈AI, ‘아스트라’ 수요 폭증에 월 200",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2xEQzFxUlVEOW5kdkxsQVVNOHVkZWxidVB3Q2R2eExDNHdoT1hMcFVnV1cwbE8yYm54TjVnY0toWnNTZ2lBT1hjdU02OTNheFRsQ2dGX2xTaDdjaFpWUno2bDNMTzRWU1EydllaQUh5aXl3dDF1UWJMdXNaUE55OTZZNA?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "젠슨 황 \"AI 다음 은 이 분야\"…예언 적중",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTl85R2ozb3NCR05HSHBWNktUSWM3UUNwa2Y1dm44V1NYYUsybnBrTjFPNU54OUp4RHcweVNIcGdCbEFEbVRfWWxQMzVhZEZ5QTJtQk8td0NrOWRfMWRjdV9FY05mckE?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "앤트로픽 연구원의 섬뜩한 경고… “AI, 10",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UlpFdFlfWmx4SHNCT3FYYVptcEhXdEJmaWlaeXp5d1NFVzNPQWl6b3ZsT01Ya0Z5aFU5bFN5ZmVZRVpFTjBhbkdNVmliQUxVcXdqa3h6MUI5dUtoVlQxYmJDcG9PcW_SAWxBVV95cUxNNmpfNXNKdWNweWRCb3VVcy05SXNCVW1PUEJCNV9lZEVRUVduUnpNMWNMam96aTB6dEtpTnlfLVZFRGFoeDNwLUZaYkEtdElNS0JBdnd4ZHZGa3Nnb1JOUGFmSEh0dWZBWEFjaWE?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "압구정 한양 화재 로봇청소기 '에코백스' 확인",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UERFLWZGdDVodVUtSFZpVjZ4ZTVQWk1KVkJQLXo3UTlFVXFfLVJacTl4YlN1NFNVM2xtc1Z4bVV2VkV6YThNbFhMZ3NpcWM?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "로봇주 투톱 '레인보우로보틱스 vs. 로보티즈",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mQXM3UHJUWHVsaV9xTk1ORElUcm1uZjllUFRGY1YyYWg1OVlVMF9nOEk2aWgzUzNTU01LaWFkWEFqVTdSZEtMMkJrNEEzYkphUG5ZS1NVX1gydw?oc=5"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "HBM",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWliUVp3X2MxeTREbUc0c3J4cDBOYnhWbkdscTJGNFdlVG9SV3ZFN0s4NjYycFVvWThwLUlMUi1hblFRVUFhSUdmMDF3eWJjMkdLTy1ZaUVCY1l1WlFHczcwVjNPVG0zekYyUUhEaHlqQmhTUHJOQjNZa2lOZ3ByZzNIaw?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "“일론 머스크가 좋아할 듯” 2040년 달에 ",
+      "kw": "\"팀 쿡도 갤럭시로 갈아탔다\"…삼성이 한 사진",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SGRiT3V2NDV3OG5RTTYwenhEVGJ6dWFyYmVaNFlPSE5QOG9sQzVLNnVLMUFYZG14cTI1Y2NJVnNCVDc0WEtOMkNzSzN6eHJ5ZU82ZFVpYW9ld9IBX0FVX3lxTFA5TjdRTF95dE1UWmF0dnRTTTU3dUtEYVJLTWRBUldZeDAtOU9XcGFOc294Vml5Y2xqS1VYNnNpLW9WckhzUk5FR3BNaXpYVEhOMmVSZjhBZ3VoN1l3VUh3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aNW41TmxHYWpySU42TWQwVUFIZmlMZU5nekxOMndYMEJWc19KazZHbkhKZ0FXREp0QTUwX19lQnlmbHNFdDJjcklyNDBydUhNaEk1YnM0OUpXdw?oc=5"
     }
   ]
 }
