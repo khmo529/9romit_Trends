@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-09-13 03:50",
+  "updated_at": "2026-09-13 06:04",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "\"AI가 인간 죽일 수도\" 경고에 젠슨 황 \"",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rYzhMS3J1S2FHOFplSGZNZmNBb0c5Y3hwcHlHSTFhbjRXcEF3TFVqZkZRQ1pveEdNTEVMMHJCdzdTWFpUM2V6NFlzVWN5Unc?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "\"팀 쿡이 갤럭시폰으로 바꿨습니다\"…애플 폴더",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVUxBNjIxeE9KNzNtSjA3T0hINWNINFlBY0g0Znkxa3BjMk5SY04zRDZNbDA2U09xR0YtUjFCdzZXX1FTLVVfc2t0cng4Sms?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "아이폰18",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OVHdiZV8xYmRJaEE1N2lSREYtQWwtTlJITUdkYzI2SktDSlVyeGlhTzBUdkNubkFmWWdEdk8xZXdob091RnBnN3hsdU00Z3M?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "아이폰 듀오가 깨운 '경박단소' 기술…한국·일",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yWkwwZTU0b0dPSHhuVFlRY0tjM0kteEVkTUYyN2V0cUxVWVVweTdQQi1xdXQtSjBzVU13cnFIQWFvTXJkWjJESm9OVkJLbU5LdEMw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "“프롬프트까지 제출하세요”…AI 시대, 코딩테",
+      "kw": "앞서 가는 로봇 국가였는데…20년 동안 무슨 ",
       "delta": "▲ 1",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03VFdNcTFHeUR0S1FudUZzQkplRW1mR1lnUmxtN1VPM3JUNm5MY0pabVBzc3NfaThud1VCeFZucVVFNHYtdnp0TllKTVN0cU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KTnZyQWUxcmxUWEZXM19sWVU5WDFnR3BCZkVNa0lqMTdDMU90ZVAtNnlwWGk4WDVlYW5NZ2QtMVlDOHNRalE?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "앞서 가는 로봇 국가였는데…20년 동안 무슨 ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNW44TF9sdWhOWWxjeTAxLUhFdGhFZ0RBZXQzSUgxN2JtOXhlT3BWVEtkSVZpQVp2UGNBaVF5Y29FaDQtYVJsVUg5Ymd0N19UZHFwTVpsZzNFRmM?oc=5"
+      "kw": "“프롬프트까지 제출하세요”…AI 시대, 코딩테",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03VFdNcTFHeUR0S1FudUZzQkplRW1mR1lnUmxtN1VPM3JUNm5MY0pabVBzc3NfaThud1VCeFZucVVFNHYtdnp0TllKTVN0cU0?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "\"한달 200달러? 내 돈 가져가십쇼\"…GPT",
-      "delta": "▼ 3",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMUlNbXJOZGV2RG0zQnk2bjZSeGtjaDZ1SVlDODc5Mm1FN0JpSUEtSFVSNmN0bzVUZ2RLT3VQLXlrT3lMOW1UNFdLSHMycXNFeXY4Wlh3?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "“우리를 규제하라”…거리로 나온 AI 로봇들의",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xV2tTQm1uSll4empGZXdidHdsS0g2RGl5QWhsOVVDZWs5Nnd0MXJCZXZ5X1VqMndfTTdCRU9kYldpckJvUXhIcm96RmtpSDNqQXFWLU1HRTRETEE?oc=5"
+      "kw": "중·러, AI를 ‘무기 개발자’ 삼았다…미사일",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qb0JqZGVrc3lnZkZFQUFic0ZJM2VWdkxqWGl2amNfQzJuZnRGcEt0UzUxWjBXbVFtbVJOLTVDeFM0NHFEZHRGSFdaRUR2Zzg?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "중국이 벌써 86% 장악…현대차 로봇, 살아남",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92eVJMMGNQWkxkRDJPTzAyZjd1SndqSDVRa0c4aXVUZ1V4cnVRVGRvUkV0SjdvN3daaUs1QlRfX2Nka3pJVkFhTHJ0UlRjLU1XWU5lVy1zVkM4aFpDdEE?oc=5"
+      "kw": "미국·중국이 치고 나가는 자율주행…우리 대응은",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vZ3RzbmhRSE5WZWtUbmx3eGQ1QmM1d1RPSzE3d3ptNWhnNTVFN00xYmF1VmJ4SDRuS3RCTUN4aWRYUWswSkt0N3laYk4tN28?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "HBM",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWliUVp3X2MxeTREbUc0c3J4cDBOYnhWbkdscTJGNFdlVG9SV3ZFN0s4NjYycFVvWThwLUlMUi1hblFRVUFhSUdmMDF3eWJjMkdLTy1ZaUVCY1l1WlFHczcwVjNPVG0zekYyUUhEaHlqQmhTUHJOQjNZa2lOZ3ByZzNIaw?oc=5"
+      "kw": "중국이 벌써 86% 장악…현대차 로봇, 살아남",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92eVJMMGNQWkxkRDJPTzAyZjd1SndqSDVRa0c4aXVUZ1V4cnVRVGRvUkV0SjdvN3daaUs1QlRfX2Nka3pJVkFhTHJ0UlRjLU1XWU5lVy1zVkM4aFpDdEE?oc=5"
     }
   ]
 }
