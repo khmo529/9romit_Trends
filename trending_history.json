@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 08:06",
+  "updated_at": "2026-09-13 10:13",
   "keywords": [
     {
       "rank": 1,
@@ -29,8 +29,8 @@
       "rank": 4,
       "top": false,
       "kw": "“이게 20만원, 공짜로 줘도 안 갖는다” 접",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTnl4S01UM1pfSElzV21Fd2dJWmxYR01PZUhHc0N0YjRvLTBCaHBENnc2ZUtSeWJ1MWV5emlCdUdSalJ5RE5ESlVSTks2T0U?oc=5"
     },
     {
@@ -44,26 +44,26 @@
     {
       "rank": 6,
       "top": false,
-      "kw": "\"한달 200달러? 내 돈 가져가십쇼\"…GPT",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMUlNbXJOZGV2RG0zQnk2bjZSeGtjaDZ1SVlDODc5Mm1FN0JpSUEtSFVSNmN0bzVUZ2RLT3VQLXlrT3lMOW1UNFdLSHMycXNFeXY4Wlh3?oc=5"
+      "kw": "“프롬프트까지 제출하세요”…AI 시대, 코딩테",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03VFdNcTFHeUR0S1FudUZzQkplRW1mR1lnUmxtN1VPM3JUNm5MY0pabVBzc3NfaThud1VCeFZucVVFNHYtdnp0TllKTVN0cU0?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "중·러, AI를 ‘무기 개발자’ 삼았다…미사일",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qb0JqZGVrc3lnZkZFQUFic0ZJM2VWdkxqWGl2amNfQzJuZnRGcEt0UzUxWjBXbVFtbVJOLTVDeFM0NHFEZHRGSFdaRUR2Zzg?oc=5"
+      "kw": "\"한달 200달러? 내 돈 가져가십쇼\"…GPT",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMUlNbXJOZGV2RG0zQnk2bjZSeGtjaDZ1SVlDODc5Mm1FN0JpSUEtSFVSNmN0bzVUZ2RLT3VQLXlrT3lMOW1UNFdLSHMycXNFeXY4Wlh3?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "아이폰17",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SVlFNS2hBVElxT2dHZTFoLWlvX25xeWVWZERfQkFLNWlxR1k1UEcyOUQ0eWdWeVRieUFwX3JEZ0Jna3ZOMzZTUXBPY2lKQ28?oc=5"
+      "kw": "중·러, AI를 ‘무기 개발자’ 삼았다…미사일",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qb0JqZGVrc3lnZkZFQUFic0ZJM2VWdkxqWGl2amNfQzJuZnRGcEt0UzUxWjBXbVFtbVJOLTVDeFM0NHFEZHRGSFdaRUR2Zzg?oc=5"
     },
     {
       "rank": 9,
@@ -71,7 +71,7 @@
       "kw": "미국·중국이 치고 나가는 자율주행…우리 대응은",
       "delta": "-",
       "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vZ3RzbmhRSE5WZWtUbmx3eGQ1QmM1d1RPSzE3d3ptNWhnNTVFN00xYmF1VmJ4SDRuS3RCTUN4aWRYUWswSkt0N3laYk4tN28?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SYk1wUzRuUWNDZWNDODBFMmFsV0RVYmo1V2UxNjE1emszY3o3S2pydC1qZE9VVUhBci1LZ2d3OVc5LTdHdGZvUmxtdGtVOTBSTS1fVFprYXcySGM?oc=5"
     },
     {
       "rank": 10,
