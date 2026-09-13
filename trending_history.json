@@ -1,64 +1,72 @@
 {
-  "updated_at": "2026-09-13 10:13",
+  "updated_at": "2026-09-13 15:23",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "\"AI가 인간 죽일 수도\" 경고에 젠슨 황 \"",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rYzhMS3J1S2FHOFplSGZNZmNBb0c5Y3hwcHlHSTFhbjRXcEF3TFVqZkZRQ1pveEdNTEVMMHJCdzdTWFpUM2V6NFlzVWN5Unc?oc=5"
+      "kw": "\"팀 쿡이 갤럭시폰으로 바꿨습니다\"…애플 폴더",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVUxBNjIxeE9KNzNtSjA3T0hINWNINFlBY0g0Znkxa3BjMk5SY04zRDZNbDA2U09xR0YtUjFCdzZXX1FTLVVfc2t0cng4Sms?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "\"팀 쿡이 갤럭시폰으로 바꿨습니다\"…애플 폴더",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVUxBNjIxeE9KNzNtSjA3T0hINWNINFlBY0g0Znkxa3BjMk5SY04zRDZNbDA2U09xR0YtUjFCdzZXX1FTLVVfc2t0cng4Sms?oc=5"
+      "kw": "아이폰18",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BaUxvNTY0N01YT3NILTd5ZnZDWUxjWnlVdFpJTmhLWExlQ0lpOFJTdy1HbGVlMzFqczBFbXg2dGlaVmZmajllRTFpN0FKdXUzMG9v?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "아이폰18",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BaUxvNTY0N01YT3NILTd5ZnZDWUxjWnlVdFpJTmhLWExlQ0lpOFJTdy1HbGVlMzFqczBFbXg2dGlaVmZmajllRTFpN0FKdXUzMG9v?oc=5"
+      "kw": "블랙핑크 로제가 아이폰 들자…삼성의 '한마디'",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lNzRmZE5PR1NlX2tjcUJUMzR1Z0hQUWE0RTVpTnJjdTBDNFhrUmVrdGUxcUJLRmJJMnU3Q0kxZ2t1ZWpMaDJrSkZSTW1PTkk?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "“이게 20만원, 공짜로 줘도 안 갖는다” 접",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTnl4S01UM1pfSElzV21Fd2dJWmxYR01PZUhHc0N0YjRvLTBCaHBENnc2ZUtSeWJ1MWV5emlCdUdSalJ5RE5ESlVSTks2T0U?oc=5"
+      "kw": "“AI, 10년내 인류 몰살” 터미네이터보다 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSjVseUFBamVqcE9GVUFUUzlZUm9OeENnRWkxNURSQnk1dGxlVFI3a1hPQjR5bUtyZFo1XzRqaUlRdFQ4NmpMWGJaYkJrRGs?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "앞서 가는 로봇 국가였는데…20년 동안 무슨 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KTnZyQWUxcmxUWEZXM19sWVU5WDFnR3BCZkVNa0lqMTdDMU90ZVAtNnlwWGk4WDVlYW5NZ2QtMVlDOHNRalE?oc=5"
+      "kw": "\"애플은 변태다\" 아이폰 듀오 성능에 감탄한 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9POFVWYUoxTmdJcU5hUHZCM0pnT0Z3NmhYTjhMNDVnTHNvcFVoYS0yOTNpN09IVnU1UTkyQXJSXzhmMEkybkxnUFh0cXBSQkFsNURv?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "“프롬프트까지 제출하세요”…AI 시대, 코딩테",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03VFdNcTFHeUR0S1FudUZzQkplRW1mR1lnUmxtN1VPM3JUNm5MY0pabVBzc3NfaThud1VCeFZucVVFNHYtdnp0TllKTVN0cU0?oc=5"
+      "kw": "앞서 가는 로봇 국가였는데…20년 동안 무슨 ",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNW44TF9sdWhOWWxjeTAxLUhFdGhFZ0RBZXQzSUgxN2JtOXhlT3BWVEtkSVZpQVp2UGNBaVF5Y29FaDQtYVJsVUg5Ymd0N19UZHFwTVpsZzNFRmM?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "\"한달 200달러? 내 돈 가져가십쇼\"…GPT",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMUlNbXJOZGV2RG0zQnk2bjZSeGtjaDZ1SVlDODc5Mm1FN0JpSUEtSFVSNmN0bzVUZ2RLT3VQLXlrT3lMOW1UNFdLSHMycXNFeXY4Wlh3?oc=5"
     },
     {
       "rank": 8,
+      "top": false,
+      "kw": "“프롬프트까지 제출하세요”…AI 시대, 코딩테",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03VFdNcTFHeUR0S1FudUZzQkplRW1mR1lnUmxtN1VPM3JUNm5MY0pabVBzc3NfaThud1VCeFZucVVFNHYtdnp0TllKTVN0cU0?oc=5"
+    },
+    {
+      "rank": 9,
       "top": false,
       "kw": "중·러, AI를 ‘무기 개발자’ 삼았다…미사일",
       "delta": "▼ 1",
@@ -66,20 +74,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qb0JqZGVrc3lnZkZFQUFic0ZJM2VWdkxqWGl2amNfQzJuZnRGcEt0UzUxWjBXbVFtbVJOLTVDeFM0NHFEZHRGSFdaRUR2Zzg?oc=5"
     },
     {
-      "rank": 9,
-      "top": false,
-      "kw": "미국·중국이 치고 나가는 자율주행…우리 대응은",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SYk1wUzRuUWNDZWNDODBFMmFsV0RVYmo1V2UxNjE1emszY3o3S2pydC1qZE9VVUhBci1LZ2d3OVc5LTdHdGZvUmxtdGtVOTBSTS1fVFprYXcySGM?oc=5"
-    },
-    {
       "rank": 10,
       "top": false,
-      "kw": "중국이 벌써 86% 장악…현대차 로봇, 살아남",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92eVJMMGNQWkxkRDJPTzAyZjd1SndqSDVRa0c4aXVUZ1V4cnVRVGRvUkV0SjdvN3daaUs1QlRfX2Nka3pJVkFhTHJ0UlRjLU1XWU5lVy1zVkM4aFpDdEE?oc=5"
+      "kw": "미국·중국이 치고 나가는 자율주행…우리 대응은",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SYk1wUzRuUWNDZWNDODBFMmFsV0RVYmo1V2UxNjE1emszY3o3S2pydC1qZE9VVUhBci1LZ2d3OVc5LTdHdGZvUmxtdGtVOTBSTS1fVFprYXcySGM?oc=5"
     }
   ]
 }
