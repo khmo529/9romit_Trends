@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-09-14 08:21",
+  "updated_at": "2026-09-14 10:16",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "테슬라",
-      "delta": "▲ 4",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGpGUGZ1TlpXdmxKS3dEOGJwWksxbWwxQjVDX01EQlk5R19Bem9Vam5lcUk5SFRHTEpDX1V6dXViLTF2VlJ2QjNSdTdJcVVHcFpEcnF2b1llSm81d3FReTE4Uko2ODNHTTFiNXpzZzRjM3MxU1Qwb1MzY1dLcWlUQQ?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "블랙핑크 로제가 아이폰 들자…삼성의 '한마디'",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12UzJtVkNjeDZhMmdHck5IQnJNX3NkbzNBSVVaZWZfdHFrZm1IOWxvWEc1VUpqcERhcjNBWHNWMDFRMEc2WWc?oc=5"
+      "kw": "“사람은 ‘슥’ 피하는데”…자율주행 AI가 쩔",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpVmxWbHRmYzJ3NllkdVdkcFNyZ0ZSdWtxcHVnZS1SN3pDX0tWeUF2SE1nWWYwTDJDdlNMSGVHRlF1c1I5NjhJMjhNY2FPT0k?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "“사람은 ‘슥’ 피하는데”…자율주행 AI가 쩔",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpVmxWbHRmYzJ3NllkdVdkcFNyZ0ZSdWtxcHVnZS1SN3pDX0tWeUF2SE1nWWYwTDJDdlNMSGVHRlF1c1I5NjhJMjhNY2FPT0k?oc=5"
+      "kw": "“10년내 다 죽을 수도”… 美 일상 덮친 A",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oSm1YUFFqaHhGZkdSTnNxZHI5bzFaaXAyanNhYmxSWnFBb19MTkJ5WEdyZk5kN3VoeldkaHpnVmhBTkJmWWc?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "“저걸 왜 펴서 잡아?” 아이폰 폴더블 ‘손가",
-      "delta": "▼ 2",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmtNMHRQaVUwRldlWHd2ZG9NUjRCUGdjeENqZVBWQ0o2cG9fN0JydjBQSUlmYndFOEdjTk1Gd1hYcURHbmI1bWplY0N6SUJKOTRqb1lIbkVfVTJhakJ5M0hDeVRqWFJkZDc3X01SSmREcHhsYVNTSUVVMkJGS1pjTw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "美 규제에도…현대차 BD 출신 설립 美 로봇업",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDdpUFZzZFdUcC1hME0wS0xzY3V1dm5tM18taWNETXpHV0FaV1BHeklkdWdQcENtVmxqc2N4allvZlJqYzR2MERQbFJaU2NOTnJRWjJVMU9OTVlyR21MSnV4bnpOSzdlUGdWd0VmNmZNSXRrRDhiYmI4NFlnTG1DbQ?oc=5"
+      "kw": "날개 연료탱크 달고, AI로 교란 피해… 탄도",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGlKbTkzSUJTTzJtZkstcXQ4R2gtMVBUVGxUUGlzQXp4YWZzLUIybV9DSC1TcFplQjMxX3J5MHFlX3dsbWFEVERNMWR4ZEQ0VWZpem4yaTA3d0xiMGtCM1ZjUnhuei1WeUUwaHZRUE9FcldDNVZIUXJjRXRNb08zbkpVeTFwQm5rQ0ZVMFJ3OXMzODVXMXdNdTZZS280UQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "날개 연료탱크 달고, AI로 교란 피해… 탄도",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGlKbTkzSUJTTzJtZkstcXQ4R2gtMVBUVGxUUGlzQXp4YWZzLUIybV9DSC1TcFplQjMxX3J5MHFlX3dsbWFEVERNMWR4ZEQ0VWZpem4yaTA3d0xiMGtCM1ZjUnhuei1WeUUwaHZRUE9FcldDNVZIUXJjRXRNb08zbkpVeTFwQm5rQ0ZVMFJ3OXMzODVXMXdNdTZZS280UQ?oc=5"
+      "kw": "美 규제에도…현대차 BD 출신 설립 美 로봇업",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDdpUFZzZFdUcC1hME0wS0xzY3V1dm5tM18taWNETXpHV0FaV1BHeklkdWdQcENtVmxqc2N4allvZlJqYzR2MERQbFJaU2NOTnJRWjJVMU9OTVlyR21MSnV4bnpOSzdlUGdWd0VmNmZNSXRrRDhiYmI4NFlnTG1DbQ?oc=5"
     },
     {
       "rank": 7,
@@ -60,26 +60,26 @@
     {
       "rank": 8,
       "top": false,
-      "kw": "“AI 개발 속도 늦춰야” 올트먼·아모데이·머",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Rb2RPanRJblA4SWpXbXkxMS1JQV9SWEtiSHdPTGI5MGdJMlhDVlFEaXdOLXQwMDdtMmNnaVJhZDJWMHBlSlYtbThYaWxWMElJa0ZSdzNkNDNHRWxVZmJpb1I5ZXNYUWxGbklmVTRiVQ?oc=5"
+      "kw": "머스크 “내년 엔비디아 AI 컴퓨터 우주 발사",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tX2ZaMTlfMm9SY2Q2RU1EQ3VpTlVwdG1XTHNzZVJRcnpWWnpNaGs5eHkwOWxKR1pBc3JidzZUMVZBTWxxamlWUUk5YVpZbktFMGlUbDZhbkzSAV5BVV95cUxNSzFCZTJxM2JRSVM5SHdSbVdSOFp2R1g5c2duRFRBN1h6OUZKcUJaSUswR1lXbC1vZnhKT0o2cF9SWUh2WjVNRVhiZENRVzdyLTJxX1NNVTRIeXBZdkpB?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "머스크 “내년 엔비디아 AI 컴퓨터 우주 발사",
+      "kw": "“팀 쿡이 갤럭시폰으로 바꿨습니다”…삼성이 한",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tX2ZaMTlfMm9SY2Q2RU1EQ3VpTlVwdG1XTHNzZVJRcnpWWnpNaGs5eHkwOWxKR1pBc3JidzZUMVZBTWxxamlWUUk5YVpZbktFMGlUbDZhbkzSAV5BVV95cUxNSzFCZTJxM2JRSVM5SHdSbVdSOFp2R1g5c2duRFRBN1h6OUZKcUJaSUswR1lXbC1vZnhKT0o2cF9SWUh2WjVNRVhiZENRVzdyLTJxX1NNVTRIeXBZdkpB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVVyM0R3YVlfUkZQZ3Z3S2ZjVFdjZzYxLVlKSkhrNE4zNXQ3NE9ZLW5BWjdOYW11Rng5YWdqSjB4cXVCYmV6UW44SzRGMW4yZm9yalB2TmRfc3hpY054VVJEZlJOdlQ3OEt2eXR6MlB5d0dIOGVkTXlPeGpSUDkxdg?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "녹슨 제지공장이 AI 팩토리로…핀란드가 ‘유럽",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rZmo1X2VobkMyVERVVU92bDdLTUFIajZRd3JmM2Rqc3NxUjVLa0hUT3BZandGRzlLelJtNWw5TFV6bTVyTV9rR05HNU5JWTROOWV0OGF0Q01vZm0yQzBRakVoN09CTUdRV3h6YS1qRnpSVWxaOHfSAWZBVV95cUxOWnhZMGo1N3U3eVFiNjNtS0NhdE9BZW9SYVg0UDhnYk53S2NCVVljOGJrWkk2dm1hWnFmTHZFVHVzRVZKT0tEQjZVSEhQZXlhVnZ6Q0NMYmhBNm1qcFJ6Y04tdnhYanc?oc=5"
+      "kw": "게임 서비스? AI붐 직격탄 맞은 ‘클라우드 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFMzWHBEUjAyN0owYjhPaGFRY3VWSnI1RTRSZ0hDc1VYTjlGRzNUX1M3dnBBXzFnMmFXYW4yTHlFTW9VcmJ5eF83ZWJoZ2NOYVpFMm1oYzB0N2FaRTNncXZ4UmxpLVhIcGdURDdDVm5RaHl6aGdua1ZrbF9ZalhBTjNjdw?oc=5"
     }
   ]
 }
