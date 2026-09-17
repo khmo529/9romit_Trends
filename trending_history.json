@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-18 02:49",
+  "updated_at": "2026-09-18 05:42",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "애플이 폴더블 아이폰 내놓자, 삼성 갤폴드가 ",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRkVHVJS1dFd0wxaUNrZUpFcnl2VlFpNm1rRTBaakZGelJkMElWN1djeTY0TG9wWFRwWVZWUFFMNThsU3lTWjJ2YVhJOGoyS2hBcmpWUXZyeWIwWV92cXVKemljTTBhdVVROFU1VUpfV1lVRUlQSGNnMmIxRi1JRWtuWQ?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "미국이 AI 속도 늦추면 중국은 기다려준답니까",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SHJCODNoYXp0NFJ4dVEwcGtWdjNhUEcxRXBGSjRfdzhIT2xWTUhaNlNaRUxrM3NJX2NWUi1RTzdxaW5LNUhHTk1LZE1Vdw?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "\"살아있는 기술자가 없다\"…185조 증설 나선",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlAyUG5KOTRBM29KUS02TG1OZVFnWmlYME40X3JPd2txQXFOUW50dDJFSWh6WWJyTWRlanRhVDNmVUM2ZFQ4a0oxUG0tU1R3QmUxSnk2cmx4QU8yN0lNQjRDbDFxd21FYmhaX0JTQmw4TmJJWDFzaG1WZnNNUjljYi1SZ2hvdU95?oc=5"
     },
     {
@@ -36,50 +36,50 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "젠슨 황이 꺼낸 '깐부폰'…로제가 든 아이폰[",
-      "delta": "▲ 2",
+      "kw": "500kg급 산업용 로봇부터 휴머노이드까지..",
+      "delta": "▲ 1",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wVE9mUk04V3AtZ0ttZFFhT1NuMWVsMG85Y0dVYUdLeFE5ejI2THBjSDc2RG1ad203UVViM0VtTkIxYWhTa05kbDZra0JpLUdndXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tM3lPRDQ3TEUzUWMyWTV5c2lPcVdDWGlMU1RBbVFpRVAzYW5FZ25oY2NkTC1hSF9WU2ZQT2tVS0FVcWZZa1E?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "500kg급 산업용 로봇부터 휴머노이드까지..",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tM3lPRDQ3TEUzUWMyWTV5c2lPcVdDWGlMU1RBbVFpRVAzYW5FZ25oY2NkTC1hSF9WU2ZQT2tVS0FVcWZZa1E?oc=5"
+      "kw": "직장인 2명 중 1명 이상 “앞으로 내 일자리",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INUlFdnJObmZ3WkNpZE1ZLWFqSnZMVkYyTWZJQUJ2YWtiQnpTS0swRlkwWmdWdm02dU1yclczc1JBQVpheXNadUFjck9OclNYLTAteE93?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "테슬라",
-      "delta": "▼ 6",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCclJDTlN0OWpJeVJaLWdmbGluSTYxdldpcHNla28yLUN2QTYzN3daLUs4VERORURobDlfRldCWVRIeU5GR2xoX0xpZzlVaURQaVZkYlB1dS1YUQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "'AI 스마트안경' 月수입액 4년전의 19배.",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03X3NXM0tZT2N2NzJURlRCS2pCTGNyajVHandpRThvdTBraWR2MTdDMGxlTHhhSWY3U2tSMmJnTTFtaVVsMHY0SXRXZkVWd0JDT3VzblV5ZFRVNVpFcUxwd2dKTWdZSk9fS1l4ZNIBckFVX3lxTE4zYlp4VFRXRGNxWVJZMHhWR0h3MEt4QlVHeGRkem9DNVBTX2d0Z0tLeDFVV09KRWMxT29VdnozTDB1Z01RY21DWkRwUXd6YWRuTDVlVkM2N29RRzhzdnBoVm5aNkZXWVhvQnoxQWNqRVNNUQ?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "직장인 2명 중 1명 이상 “앞으로 내 일자리",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INUlFdnJObmZ3WkNpZE1ZLWFqSnZMVkYyTWZJQUJ2YWtiQnpTS0swRlkwWmdWdm02dU1yclczc1JBQVpheXNadUFjck9OclNYLTAteE93?oc=5"
+      "kw": "가전 안팔리고, AI 등장에 ‘쇄국정책’ 끝낸",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2Nud0UwMTVnMW5qZjh1Z3JvWFUzb1diV3Q0T2JhWENFbjVZS1lGV0M3d3NFNVE1d0txam5DZldoeTRwSS04YTFmRUNzRWRGSEFGVTVucXhrUmRocHRoTUxpNDVCZHZlWjJmYWJQWHVmWlBkM3hHSWJJc2JRVU54Z0JXYw?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "가전 안팔리고, AI 등장에 ‘쇄국정책’ 끝낸",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2Nud0UwMTVnMW5qZjh1Z3JvWFUzb1diV3Q0T2JhWENFbjVZS1lGV0M3d3NFNVE1d0txam5DZldoeTRwSS04YTFmRUNzRWRGSEFGVTVucXhrUmRocHRoTUxpNDVCZHZlWjJmYWJQWHVmWlBkM3hHSWJJc2JRVU54Z0JXYw?oc=5"
+      "kw": "HBM",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lRV9WQjJNYUdKbi05allrYXFsLWlkWS1Db2tpdG56dUtqMnpRXzdOS25FSmFpXzB4OWJKTTVlUnRKR2pjb2YxanVaV2JIUQ?oc=5"
     }
   ]
 }
