@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 03:34",
+  "updated_at": "2026-09-19 06:20",
   "keywords": [
     {
       "rank": 1,
@@ -28,37 +28,45 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "“아침 8시부터 긴 줄, 매장 열리자 박수”…",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSmZDR0gtNXRHZjlOWmRqSThSQTVZb2NRZHd2RGJoWDQyT0tIZ0Nvb0pjRXBTb3JkXzZ3LXExWVhLUmJ1QmgzSlhEYzV5azR2aE5wWkF3?oc=5"
+      "kw": "사람 지시 안따르는 AI 어쩌나...오픈AI,",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YYkQ2U24xOHhXazF4NVRqNHV0V2ZSd2hkUWJZMWVQWVFLNkVJYlltVzBGYl9aNktGMkJRblRmRW4zZ25BaVE?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "'긴장했나' 파르르 떨다 '툭', 도요타 한 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82RXdqcUJyUXRDUU4xVVFzSnFrUHVGYkRSeFVhRlMyamJMcjZWR3l6R0tWQmY1X3pQSmFhaVBHV0FPTWZqaktRSFQ1MzRtYzNlY1F6VkFLWWR1c0trb0NTSTVod2M0UWdwR0w3Mjh0eTIxX1NV0gF0QVVfeXFMUGF5MElkNkJseWpFVmlHdFppWWlNUWVteXBjaUNWWVkwOUhFX1VhRWhUbEtRZUs4QnhSLTJiWm90ZURfUFRfTjhyc25qODRYMGVuV1lSWlp2bDlQTmIxNDZfc01LcWo3YXAyUXUtOEM5NVJqNms?oc=5"
+      "kw": "“아침 8시부터 긴 줄, 매장 열리자 박수”…",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSmZDR0gtNXRHZjlOWmRqSThSQTVZb2NRZHd2RGJoWDQyT0tIZ0Nvb0pjRXBTb3JkXzZ3LXExWVhLUmJ1QmgzSlhEYzV5azR2aE5wWkF3?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "애플이 화면 접자…주름 펴는 삼성D·LGD",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTeERUaThGakdFSGJ5MEdiQThCM3lld2kxb1owSlYzcmJyTGtndWprTzM4RHlOcy1HakkwZ3ZjNkdRUml3OFRzT3dxUFk4YkU?oc=5"
+      "kw": "펼칠 땐 화면이 ‘스르륵’, 닫을 땐 ‘착’…",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUUjd1U1lPbUt0NEVYS1k4em52UmdNRlpQTGJLaVpfLTNaUXpkZXVYY3ZMZEZNWXAwMVgwWWUzYktoMjFITkhMNXlzQlBwTFk?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "인간 몰래 해킹한다… AI 고도화에 ‘스카이넷",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRWllY2FybEJVcVBIdkdKNTFXSUROdTBVQnJURkhiNDZUTTNUYTctYmpKWUEtek9CWlJaaURWY3Z2U3ZBN0huTWxnbGNhVEl5TWgzSEpUNGJESzMxS3l4eTRlR2d0RVXSAWxBVV95cUxOTTNlUDJOaTRrNFhOQXRHV1VFT25DbkxNWkQ5TUhnYzhIdkdLM2lpdjJFWEdSMlFtX1VBYksxOW5PemxfMHJMSjBWeGI4NnpSYUZoY2NLMktKNnRfYjk5cjlWYXhTMDdZekhOWm8?oc=5"
+      "kw": "'긴장했나' 파르르 떨다 '툭', 도요타 한 ",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82RXdqcUJyUXRDUU4xVVFzSnFrUHVGYkRSeFVhRlMyamJMcjZWR3l6R0tWQmY1X3pQSmFhaVBHV0FPTWZqaktRSFQ1MzRtYzNlY1F6VkFLWWR1c0trb0NTSTVod2M0UWdwR0w3Mjh0eTIxX1NV0gF0QVVfeXFMUGF5MElkNkJseWpFVmlHdFppWWlNUWVteXBjaUNWWVkwOUhFX1VhRWhUbEtRZUs4QnhSLTJiWm90ZURfUFRfTjhyc25qODRYMGVuV1lSWlp2bDlQTmIxNDZfc01LcWo3YXAyUXUtOEM5NVJqNms?oc=5"
     },
     {
       "rank": 8,
+      "top": false,
+      "kw": "\"앤트로픽 클로드로 오픈AI 뚫었다\"…약점 찾",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80SEw1anJsaTRIa08xOVZKUW44MF9zQlZfOVVnMDRTOWI3OTgtdy02MXVvOUVsXzhLNkhHWU5BT0JNbXZ4SFBTNmNwM3ZodDQ?oc=5"
+    },
+    {
+      "rank": 9,
       "top": false,
       "kw": "클로드로 오픈AI 뚫었다…3명 보안팀, 내부 ",
       "delta": "▼ 1",
@@ -66,20 +74,12 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KVDdrdU4zT0RReUQ2SnIzRmljbEZlVi1jY29PM3VBWUU5ZlI0ZXgxS292bkhVbnlFeGVzd1hoVDRyaU9MRHc?oc=5"
     },
     {
-      "rank": 9,
-      "top": false,
-      "kw": "갤럭시 잘 팔리더니…삼성 엑시노스 부활 기지개",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNjYtak1QTTB1U3BEaGUtZUl0b2tTZnA2QUxqRER6d0hlTUVINzViZHVCbmZCUzM0UTc3SERTN2xuQjNYdFMzQ3BXMTBnNEU?oc=5"
-    },
-    {
       "rank": 10,
       "top": false,
-      "kw": "피지컬 AI, 너 내 동료가 돼라…HD현대가 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5"
+      "kw": "갤럭시 잘 팔리더니…삼성 엑시노스 부활 기지개",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNjYtak1QTTB1U3BEaGUtZUl0b2tTZnA2QUxqRER6d0hlTUVINzViZHVCbmZCUzM0UTc3SERTN2xuQjNYdFMzQ3BXMTBnNEU?oc=5"
     }
   ]
 }
