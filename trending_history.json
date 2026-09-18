@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-09-18 10:20",
+  "updated_at": "2026-09-18 15:06",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "젠슨 황 \"내년 엔비디아 칩 판매 2배\"…AI",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tWVZMRlJFQUliY2ZBMVZfdGY5T0NQU29McVlrV085LWRuSE80OUtldWdSQXUwOGZPQ0Fkbm11ZE8wTEJtWmhHRU5tT19BT28?oc=5"
+      "kw": "‘알파고 쇼크’ 지켜본 수학천재 “AI가 10",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85Njg1YW9sLURYamYtWDY4N192dzhHS0Y0UDE2VWhid3o0Q0lnVklhZVltWVNHR1IwTkRSTzZhSVNBa1NFZlE?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "사람 지시 안따르는 AI 어쩌나...오픈AI,",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zekp6OEhRYXhhRWNFTkFwSlJkV0RFQWczZmE3U01IaTg1Y0VnQnRtMV80UU1XOUNreTl1Q0N2ZmxCT2NsTGpUOXdvbG90WWM?oc=5"
+      "kw": "젠슨 황 \"내년 엔비디아 칩 판매 2배\"…AI",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tWVZMRlJFQUliY2ZBMVZfdGY5T0NQU29McVlrV085LWRuSE80OUtldWdSQXUwOGZPQ0Fkbm11ZE8wTEJtWmhHRU5tT19BT28?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "애플이 폴더블 아이폰 내놓자, 삼성 갤폴드가 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRkVHVJS1dFd0wxaUNrZUpFcnl2VlFpNm1rRTBaakZGelJkMElWN1djeTY0TG9wWFRwWVZWUFFMNThsU3lTWjJ2YVhJOGoyS2hBcmpWUXZyeWIwWV92cXVKemljTTBhdVVROFU1VUpfV1lVRUlQSGNnMmIxRi1JRWtuWQ?oc=5"
+      "kw": "사람 지시 안따르는 AI 어쩌나...오픈AI,",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zekp6OEhRYXhhRWNFTkFwSlJkV0RFQWczZmE3U01IaTg1Y0VnQnRtMV80UU1XOUNreTl1Q0N2ZmxCT2NsTGpUOXdvbG90WWM?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "미국이 AI 속도 늦추면 중국은 기다려준답니까",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SHJCODNoYXp0NFJ4dVEwcGtWdjNhUEcxRXBGSjRfdzhIT2xWTUhaNlNaRUxrM3NJX2NWUi1RTzdxaW5LNUhHTk1LZE1Vdw?oc=5"
+      "kw": "“아침 8시부터 긴 줄, 매장 열리자 박수”…",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSmZDR0gtNXRHZjlOWmRqSThSQTVZb2NRZHd2RGJoWDQyT0tIZ0Nvb0pjRXBTb3JkXzZ3LXExWVhLUmJ1QmgzSlhEYzV5azR2aE5wWkF3?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "“AI가 다 하는데 나는 뭘까… 기본이 강해야",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2NyN1REbUwyYmtrU2hnQ0dZUFdESW5qeUhlN1plTWFGMWJSS0tIZVJwNWMtSENUOWpIbS1zaHpqUmF6UVhQc2J5ckpvanZJMzAteU1SeG1qRnFObVpKUmxjNGIyZHR0UHRUeWR0NlVaTk95QkhvVUJVUWV5X20tOHk4X3pjNEFUMFJ2ctIBoAFBVV95cUxQUXdKc2doeWM0TFpVbVZXOUo4QWN6MWFGT0t4Y2RXSVJDamJGSGlUR2ExRERMRnZOZ1Jibkt0dUFiYWJsX1lnT1JjNjlERHpqdlk1a0hrQVVZYmNyUWFYRXJYM3ZaQjlDdkI3ME13QVpOTkNveXprT1l3aXk3dGdHNDdOTFZMaUpCaDhfcHZlMmlva2Q5MV94d3dtRi00d2ha?oc=5"
+      "kw": "애플이 화면 접자…주름 펴는 삼성D·LGD",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTeERUaThGakdFSGJ5MEdiQThCM3lld2kxb1owSlYzcmJyTGtndWprTzM4RHlOcy1HakkwZ3ZjNkdRUml3OFRzT3dxUFk4YkU?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "서울성모병원, 97세 초고령 위암 환자 로봇수",
+      "kw": "로봇이 메스 건네고 내시경 조작… 인간과 ‘원",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41bmdReXNZbVU4VXVxWHZPVUtzd2YwbFlzVkVmTkxfZkxnOVBVS04xT3QzSUdFekg2MHBQOGhPUXNfVnBoWk9BaV9MTFFGOVU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEVRN1djd2pXRVBkWE5GOEljQjRCTVh4cGlmbUMxRDhBbXVHekU4aHhxNktjZWJFZlFvOU1nWVZQWG42bEh2b0QwbTUxc01EdTJ0MWRaNzM2bkRTSGJic3ltd0c3SkViR1NKMy0tbmVrM1NEZTFsX3p6YWQ1dF9wcXpTRENnX2xzVG9yaWpTaw?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "지엔씨에너지, AI 데이터센터 ‘비상발전기 품",
+      "kw": "유일로보틱스, 500kg급 산업용 로봇부터 휴",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NN2FqZ01zV3dRWFhCUWFaaXZxa182cXBCV3k1NkpJazNFNHFUX1VTTUJHQVpBaFJ0V293MzkzeW5ta1FrM2hPUGRRc09ReElDTndOQ2s0eTA1N0RCeDdmeDlOY2dGLTRSYjdNQThiekYzVkRU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIZ21nQjNlbHFQbkd4RE8tbWdFcW5NME9wUU5YZXdzMk12OFlUaTdIdGhzRkZJRzRDbjRxQWs3RzFpbEFJWVhVUWh0di1VNFE?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "500kg급 산업용 로봇부터 휴머노이드까지..",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tM3lPRDQ3TEUzUWMyWTV5c2lPcVdDWGlMU1RBbVFpRVAzYW5FZ25oY2NkTC1hSF9WU2ZQT2tVS0FVcWZZa1E?oc=5"
+      "kw": "직장인 2명 중 1명 이상 “앞으로 내 일자리",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INUlFdnJObmZ3WkNpZE1ZLWFqSnZMVkYyTWZJQUJ2YWtiQnpTS0swRlkwWmdWdm02dU1yclczc1JBQVpheXNadUFjck9OclNYLTAteE93?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "'AI 스마트안경' 月수입액 4년전의 19배.",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03X3NXM0tZT2N2NzJURlRCS2pCTGNyajVHandpRThvdTBraWR2MTdDMGxlTHhhSWY3U2tSMmJnTTFtaVVsMHY0SXRXZkVWd0JDT3VzblV5ZFRVNVpFcUxwd2dKTWdZSk9fS1l4ZNIBckFVX3lxTE4zYlp4VFRXRGNxWVJZMHhWR0h3MEt4QlVHeGRkem9DNVBTX2d0Z0tLeDFVV09KRWMxT29VdnozTDB1Z01RY21DWkRwUXd6YWRuTDVlVkM2N29RRzhzdnBoVm5aNkZXWVhvQnoxQWNqRVNNUQ?oc=5"
+      "kw": "피지컬 AI, 너 내 동료가 돼라…HD현대가 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "직장인 2명 중 1명 이상 “앞으로 내 일자리",
+      "kw": "HBM",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INUlFdnJObmZ3WkNpZE1ZLWFqSnZMVkYyTWZJQUJ2YWtiQnpTS0swRlkwWmdWdm02dU1yclczc1JBQVpheXNadUFjck9OclNYLTAteE93?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lRV9WQjJNYUdKbi05allrYXFsLWlkWS1Db2tpdG56dUtqMnpRXzdOS25FSmFpXzB4OWJKTTVlUnRKR2pjb2YxanVaV2JIUQ?oc=5"
     }
   ]
 }
