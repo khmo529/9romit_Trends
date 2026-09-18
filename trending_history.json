@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 00:22",
+  "updated_at": "2026-09-19 03:34",
   "keywords": [
     {
       "rank": 1,
@@ -45,41 +45,41 @@
       "rank": 6,
       "top": false,
       "kw": "애플이 화면 접자…주름 펴는 삼성D·LGD",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTeERUaThGakdFSGJ5MEdiQThCM3lld2kxb1owSlYzcmJyTGtndWprTzM4RHlOcy1HakkwZ3ZjNkdRUml3OFRzT3dxUFk4YkU?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "클로드로 오픈AI 뚫었다…3명 보안팀, 내부 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KVDdrdU4zT0RReUQ2SnIzRmljbEZlVi1jY29PM3VBWUU5ZlI0ZXgxS292bkhVbnlFeGVzd1hoVDRyaU9MRHc?oc=5"
+      "kw": "인간 몰래 해킹한다… AI 고도화에 ‘스카이넷",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRWllY2FybEJVcVBIdkdKNTFXSUROdTBVQnJURkhiNDZUTTNUYTctYmpKWUEtek9CWlJaaURWY3Z2U3ZBN0huTWxnbGNhVEl5TWgzSEpUNGJESzMxS3l4eTRlR2d0RVXSAWxBVV95cUxOTTNlUDJOaTRrNFhOQXRHV1VFT25DbkxNWkQ5TUhnYzhIdkdLM2lpdjJFWEdSMlFtX1VBYksxOW5PemxfMHJMSjBWeGI4NnpSYUZoY2NLMktKNnRfYjk5cjlWYXhTMDdZekhOWm8?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "“챗GPT 시대 지나 ‘현대차의 시간’ 온다…",
+      "kw": "클로드로 오픈AI 뚫었다…3명 보안팀, 내부 ",
       "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaYUMwdml5QVhPQXU3Y1B2c2hVRW9HX1hVSHpERE9jelhvZGhLSTFKVUFteEcxOHNWUU1SWHJWczZUUmRiTE5QWGNyM0NvekU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KVDdrdU4zT0RReUQ2SnIzRmljbEZlVi1jY29PM3VBWUU5ZlI0ZXgxS292bkhVbnlFeGVzd1hoVDRyaU9MRHc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "인간 몰래 해킹한다… AI 고도화에 ‘스카이넷",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRWllY2FybEJVcVBIdkdKNTFXSUROdTBVQnJURkhiNDZUTTNUYTctYmpKWUEtek9CWlJaaURWY3Z2U3ZBN0huTWxnbGNhVEl5TWgzSEpUNGJESzMxS3l4eTRlR2d0RVXSAWxBVV95cUxOTTNlUDJOaTRrNFhOQXRHV1VFT25DbkxNWkQ5TUhnYzhIdkdLM2lpdjJFWEdSMlFtX1VBYksxOW5PemxfMHJMSjBWeGI4NnpSYUZoY2NLMktKNnRfYjk5cjlWYXhTMDdZekhOWm8?oc=5"
+      "kw": "갤럭시 잘 팔리더니…삼성 엑시노스 부활 기지개",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNjYtak1QTTB1U3BEaGUtZUl0b2tTZnA2QUxqRER6d0hlTUVINzViZHVCbmZCUzM0UTc3SERTN2xuQjNYdFMzQ3BXMTBnNEU?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "갤럭시 잘 팔리더니…삼성 엑시노스 부활 기지개",
+      "kw": "피지컬 AI, 너 내 동료가 돼라…HD현대가 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNjYtak1QTTB1U3BEaGUtZUl0b2tTZnA2QUxqRER6d0hlTUVINzViZHVCbmZCUzM0UTc3SERTN2xuQjNYdFMzQ3BXMTBnNEU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5"
     }
   ]
 }
