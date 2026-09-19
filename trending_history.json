@@ -1,40 +1,32 @@
 {
-  "updated_at": "2026-09-19 10:19",
+  "updated_at": "2026-09-19 15:05",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "\"인간이 읽을 수 없는 지능이 나타났다\"…선 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oMUhIWmhjOVdtRVlULWJ1eXBGNS12VUsxTlFnYmRhU1ZiU29EMUhlZFFLYzF0SVhZTFNTemstVGFvT1lBWWc?oc=5"
+      "kw": "\"앤트로픽 클로드로 오픈AI 뚫었다\"…약점 찾",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OVnhUbjlpRS0walplMWFYbWZsenRMaTkzUGJiMGEzclJDbHJLWUdNcldwb2wwMUQ0ZTNiUC1QODRZVDFlWFE?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "펼치자 화면이 스르르… ‘아이폰 듀오’ 미리 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qWU81blB0dzR2V0xiaTFDYmdFeHRWd2dGb0xsdlFrSTA5d0Q1T2pQR2tQNEpaMlFfYUswcjEzRDNwdUU5aUhNb3c1NGtmcmc?oc=5"
+      "delta": "-",
+      "type": "same",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVpeXl3TmV1MVBnaWIybEwycDZKWEdCcW5zZjEwUVBWRURPMjlLVTFIcktmT20zMEVMb0xtdWkxc2FOOGdvWEFEaHY5UjM4LXpObExJTEhqU04zU2c2MXhHaFdsbG5qYVpvbnN3M0VrRXV6cUJKNDE4enJHWlNaUzVjOA?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "사람 지시 안따르는 AI 어쩌나...오픈AI,",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YYkQ2U24xOHhXazF4NVRqNHV0V2ZSd2hkUWJZMWVQWVFLNkVJYlltVzBGYl9aNktGMkJRblRmRW4zZ25BaVE?oc=5"
+      "kw": "\"GPU는 잊어라\" 경쟁사도 품은 엔비디아, ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRF9sUHpTbF9xQVJKeGl0dmp5T3JQeGt4TFRpc3VqWTFjb2hnMXBFeVpDRUhmdVhLeElLbk1XZldLLXgwclYwZGlPbjAtalF4QXRnZ1hMOG91dw?oc=5"
     },
     {
       "rank": 4,
-      "top": false,
-      "kw": "“아침 8시부터 긴 줄, 매장 열리자 박수”…",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSmZDR0gtNXRHZjlOWmRqSThSQTVZb2NRZHd2RGJoWDQyT0tIZ0Nvb0pjRXBTb3JkXzZ3LXExWVhLUmJ1QmgzSlhEYzV5azR2aE5wWkF3?oc=5"
-    },
-    {
-      "rank": 5,
       "top": false,
       "kw": "北배지 가슴에 달고, 손엔 삼성 갤럭시폰?",
       "delta": "▲ 1",
@@ -42,12 +34,20 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LX1FJSHBXc29JZGVjUUVRSENmZWpRNWtLbW5PS04tMmhhUjdRRlpWZl9WeExZVkJsbXZEZUowUTFxR0pMV2Rwbl8xVFhZWWhicDZKMi0wWE0zQlBXRDNLaFc4a3luWGoxMjhVaGZpcWpoVUgyMzVHbktoOHRhQQ?oc=5"
     },
     {
+      "rank": 5,
+      "top": false,
+      "kw": "아이폰18",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nOE9wUGZLRnFnZU5NQnhkcUxXcEdpR0FuNEhHQ041b0hCeEJsc2RlY21mNzF2MmZTME9hNFVSTFBGS0psRkxON1VqbFJDVlU1TEcwUnczVUwyQdIBX0FVX3lxTE9fbE5UWlY1MVhBVDJvYV9LWlJkQTU0dHowNExvYWFUTHhnWWw1MXNraVc3VVBtTjQ4d0dEMGY0R0lSZExYNUxUV0tuOU1BYlJDdWZ4TF96NllqTHBWajBR?oc=5"
+    },
+    {
       "rank": 6,
       "top": false,
-      "kw": "\"맙소사\" 대체 뭘 봤길래…\"다 죽는다\" 뛰쳐",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Sd1BLb21JQ3FmYU95QkJoUlVwWjZFaUE0RGd4M0o3STVUWjkzaGV6TDZqRFVNZUdOVGlTMVkzenZhbGpMSkhQUFVmeGZ2dEE?oc=5"
+      "kw": "갤럭시 잘 팔리더니…삼성 엑시노스 부활 기지개",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNjYtak1QTTB1U3BEaGUtZUl0b2tTZnA2QUxqRER6d0hlTUVINzViZHVCbmZCUzM0UTc3SERTN2xuQjNYdFMzQ3BXMTBnNEU?oc=5"
     },
     {
       "rank": 7,
@@ -60,18 +60,18 @@
     {
       "rank": 8,
       "top": false,
-      "kw": "갤럭시 잘 팔리더니…삼성 엑시노스 부활 기지개",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNjYtak1QTTB1U3BEaGUtZUl0b2tTZnA2QUxqRER6d0hlTUVINzViZHVCbmZCUzM0UTc3SERTN2xuQjNYdFMzQ3BXMTBnNEU?oc=5"
+      "kw": "\"맙소사\" 대체 뭘 봤길래…\"다 죽는다\" 뛰쳐",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Sd1BLb21JQ3FmYU95QkJoUlVwWjZFaUE0RGd4M0o3STVUWjkzaGV6TDZqRFVNZUdOVGlTMVkzenZhbGpMSkhQUFVmeGZ2dEE?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "비트코인 50주선 돌파…갤럭시리서치, 바닥 가",
+      "kw": "AI 투자 과잉론에도...젠슨 황 \"내년 엔비",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wSVl4VTFOeW4zc1M4cnk2MFdCUHdJVlZYd2RsWEVYejhDRElQQVYyU013V25hYWJaNkg2QnlycWhZY09mdmZOeUZvT0cxYjZ3eXI1Z1JEVDdKX1poX1ZYdg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUFoVzF6dk01WVAxSEM1QjV0a1hMRDk3ZXRQR1NfMlNtVDZ6dl82ZzR5dVlDdWNpeHJDa1NIOVo0Nm8yMWZGRXdidE9OUVZZc1EyRWRlYlBUNWFMenpGZ0NMTzExczJSUjlyZjFDRUdQRk5aaHVmdlMwNmItVzNfRlR4Zw?oc=5"
     },
     {
       "rank": 10,
