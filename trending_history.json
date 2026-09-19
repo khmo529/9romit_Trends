@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-19 20:15",
+  "updated_at": "2026-09-19 23:33",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "329만원 아이폰 듀오 직접 접어보니…폴드8과",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSW5SVWtXeU5ldW93OUktbEtDY3pLTC1jaVRKOUNsRHBGRWhOVDRjbUV3UjhRT0FVa0dlSncwOTFlYlRQYW5raGFpSUVIUXM1bFJBRWRqM3JDVjlDZDNMdTgyTngxZTRqTktfZTVmb3JMNFhSX1llUElsUkhuVmpPaw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "\"앤트로픽 클로드로 오픈AI 뚫었다\"…약점 찾",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OVnhUbjlpRS0walplMWFYbWZsenRMaTkzUGJiMGEzclJDbHJLWUdNcldwb2wwMUQ0ZTNiUC1QODRZVDFlWFE?oc=5"
     },
     {
@@ -45,33 +45,33 @@
       "rank": 6,
       "top": false,
       "kw": "‘딥러닝 노벨상’ 힌턴 “AI 통제 남은시간 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YMGdadEJ5VW1oTWVhcTZvZXNMTnJUSThCYVdfYzhCdmZuLXlROHI5R1pCcXhFaVp1ZnNvclFWOXgzU0xGX0lHcXpSaU9SV3M?oc=5"
+      "delta": "-",
+      "type": "same",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JdmVhR25Kc25nWmlRMHdKbWhlaXk1NnpfU09famNWMXRJNXhYYlQxM2ViRENsRXNKeU16RXZCYWdUaVlYeHc?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "AI 투자 과잉론에도...젠슨 황 \"내년 엔비",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUFoVzF6dk01WVAxSEM1QjV0a1hMRDk3ZXRQR1NfMlNtVDZ6dl82ZzR5dVlDdWNpeHJDa1NIOVo0Nm8yMWZGRXdidE9OUVZZc1EyRWRlYlBUNWFMenpGZ0NMTzExczJSUjlyZjFDRUdQRk5aaHVmdlMwNmItVzNfRlR4Zw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"인간이 읽을 수 없는 지능이 나타났다\"…선 ",
+      "kw": "삼현, 2세대 로봇 액추에이터 개발…내년 7월",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oMUhIWmhjOVdtRVlULWJ1eXBGNS12VUsxTlFnYmRhU1ZiU29EMUhlZFFLYzF0SVhZTFNTemstVGFvT1lBWWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSldMZHVjYnVwdjZxYUtVRjA4Umx4c3NyenBDRlVBb0hRazJwc0Y1OTJkYjU0Wm9rSVNIeXBhdDF0Q3F1UmF3c1lqZ3hNdERNcGhHMUZ3?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "테슬라",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NRktkNGxGZWFNREZtY0Ytb2ZWYUpIZ2cxY2NUSHdUbmxSMXpnTU9XSEl6Sl9LZkVUcTZRc2VRWi1wbkppMXRZZFlSWTJtUQ?oc=5"
+      "kw": "구글, AI 문제 해결에 ‘재귀적 자기개선’ ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWVRYWWM4SzZ2cjZaczE4NkQzTWdJNENvRVJaZFNuVFZzb3pzcDVycnFqdmRObmpJWE9ZRjBvdS1jMklLNkJ0N3NQRFkxOHZlMGhvWk51V3NxRWpad3I5bnRsQmlXRTZxdXc?oc=5"
     }
   ]
 }
