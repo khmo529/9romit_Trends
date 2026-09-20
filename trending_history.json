@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 04:10",
+  "updated_at": "2026-09-21 06:41",
   "keywords": [
     {
       "rank": 1,
@@ -53,33 +53,33 @@
       "rank": 7,
       "top": false,
       "kw": "비밀번호·코인 지갑 털던 악성코드, 이젠 ‘로",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXpVdUpMSXRZQXFuLUNVdXhzRmEzTEdaSU5PNGZWMGlMYS1IeFRmX0tSSHhhOVEwUEJFQ05mdzhpLVhMZzZLSV9pYVVCUWFnRjh1d19HZVloSjlnajhzZ0QwVWllUmtwZ3FKSmRKVkFGSy12Vm5PbVpMaUc3OUFnVmxwRQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "\"AI 시대 퇴출 1순위\" 공포 덮쳤는데…'귀",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CejlZY1dHdTFPZmFLMV91dGVoaU1IUDIwSW0wWUhSaWdYMzJOaldXU3VzOGYxUndYaFhCSWd2d2NUcWEyZENGX0lPblVzWEZLMk1xOVVfWjB0QQ?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "\"오픈AI, 매출 10배 늘어도 2030년까지",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmYXh4QlRGcUZuN0k3QlVBMkNPWmZxMHE5QlQtdDlES1h6YW01VjNzT0RUdC1PZ1VsWnM3OVhjQ3ZLODVHWS1Zc3p4RUFKZ28?oc=5"
+      "kw": "“문장 생성 버렸다”…판단 전용 AI ‘제브’",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONWpzOUhFT25aLThZcXp3MGtXQTBOYk9xTE9OY2Y0aE10QTJRTXdyUTNtZXcxQ2VCZHluNUw2MDFidkdPLTZmejltRVl5ZE5GUUh4WUl4N0E0Yzlxd3VMeUtldTRmQU14RXc?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "“문장 생성 버렸다”…판단 전용 AI ‘제브’",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONWpzOUhFT25aLThZcXp3MGtXQTBOYk9xTE9OY2Y0aE10QTJRTXdyUTNtZXcxQ2VCZHluNUw2MDFidkdPLTZmejltRVl5ZE5GUUh4WUl4N0E0Yzlxd3VMeUtldTRmQU14RXc?oc=5"
+      "kw": "애플도 이제 코인처럼?…290조 몰린 서학개미",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkX3A2Zmlwem1VTExWWktXV0RGMFJkR3YwcXExbHhleFJhWm9sODlMTHJuZlpibHgxMUs2V0lpRTBfSVlhT3Jac19OQkFuMmxXY3Qyc19KUVRhUQ?oc=5"
     }
   ]
 }
