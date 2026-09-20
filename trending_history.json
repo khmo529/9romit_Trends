@@ -1,40 +1,32 @@
 {
-  "updated_at": "2026-09-20 16:50",
+  "updated_at": "2026-09-20 21:43",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "\"제미나이도 탈옥했다\"…구글, AI 에이전트 ",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dTlmZDNJU2x3eHdYS2twS0xsYjd5TkhjbDhmMmhVQlY1Q3RMMTAtaW43Z19iQUZ1NkZtc2xPb1JYTkVBc1lweUxIc3NxZDQ?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "329만원 아이폰 듀오 직접 접어보니…폴드8과",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSW5SVWtXeU5ldW93OUktbEtDY3pLTC1jaVRKOUNsRHBGRWhOVDRjbUV3UjhRT0FVa0dlSncwOTFlYlRQYW5raGFpSUVIUXM1bFJBRWRqM3JDVjlDZDNMdTgyTngxZTRqTktfZTVmb3JMNFhSX1llUElsUkhuVmpPaw?oc=5"
+      "kw": "“애플 폴더블 내놨는데, 삼성이 웃네요”… 이",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uQlZMZE9zX05OSVdlanQ1LXBjV0J3Ui1xZWlGQzhMX2FKazdmZV9qUzRUcDhnd0x2ang3ekQxU1F1X3lhZXRzM2ZuRHNqU3M?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "\"GPU는 잊어라\" 경쟁사도 품은 엔비디아, ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRF9sUHpTbF9xQVJKeGl0dmp5T3JQeGt4TFRpc3VqWTFjb2hnMXBFeVpDRUhmdVhLeElLbk1XZldLLXgwclYwZGlPbjAtalF4QXRnZ1hMOG91dw?oc=5"
+      "kw": "北배지 가슴에 달고, 손엔 삼성 갤럭시폰?",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LX1FJSHBXc29JZGVjUUVRSENmZWpRNWtLbW5PS04tMmhhUjdRRlpWZl9WeExZVkJsbXZEZUowUTFxR0pMV2Rwbl8xVFhZWWhicDZKMi0wWE0zQlBXRDNLaFc4a3luWGoxMjhVaGZpcWpoVUgyMzVHbktoOHRhQQ?oc=5"
     },
     {
       "rank": 4,
-      "top": false,
-      "kw": "아이폰18",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQzIwa1ZYdG5fbFNIb3RBYVc2Y25rVTV1di1TVWJoWmJYejN6NV9adjJYV3NYUG1FcnNiRExiSXA4RkxHY001WDZkQTliQVl0V24tNzlB?oc=5"
-    },
-    {
-      "rank": 5,
       "top": false,
       "kw": "\"AI 속도조절은 담합\"…앤트로픽 등 AI 4",
       "delta": "▲ 1",
@@ -42,44 +34,52 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQZE9EcHdsclM1WEp4SHBTd0pnRl9IZHpJYXpLYkM4YjlkaWNwUnhncW1DNElETk9fVzFWZUlGeS1zT1RDb2JkYlc2bG9Oa2s?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "top": false,
       "kw": "\"오픈AI, 매출 10배 늘어도 2030년까지",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "▲ 1",
+      "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmYXh4QlRGcUZuN0k3QlVBMkNPWmZxMHE5QlQtdDlES1h6YW01VjNzT0RUdC1PZ1VsWnM3OVhjQ3ZLODVHWS1Zc3p4RUFKZ28?oc=5"
+    },
+    {
+      "rank": 6,
+      "top": false,
+      "kw": "아이폰18",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQzIwa1ZYdG5fbFNIb3RBYVc2Y25rVTV1di1TVWJoWmJYejN6NV9adjJYV3NYUG1FcnNiRExiSXA4RkxHY001WDZkQTliQVl0V24tNzlB?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "애플도 이제 코인처럼?…290조 몰린 서학개미",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkX3A2Zmlwem1VTExWWktXV0RGMFJkR3YwcXExbHhleFJhWm9sODlMTHJuZlpibHgxMUs2V0lpRTBfSVlhT3Jac19OQkFuMmxXY3Qyc19KUVRhUQ?oc=5"
+      "kw": "비밀번호·코인 지갑 털던 악성코드, 이젠 ‘로",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXpVdUpMSXRZQXFuLUNVdXhzRmEzTEdaSU5PNGZWMGlMYS1IeFRmX0tSSHhhOVEwUEJFQ05mdzhpLVhMZzZLSV9pYVVCUWFnRjh1d19HZVloSjlnajhzZ0QwVWllUmtwZ3FKSmRKVkFGSy12Vm5PbVpMaUc3OUFnVmxwRQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "비밀번호·코인 지갑 털던 악성코드, 이젠 ‘로",
+      "kw": "“문장 생성 버렸다”…판단 전용 AI ‘제브’",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXpVdUpMSXRZQXFuLUNVdXhzRmEzTEdaSU5PNGZWMGlMYS1IeFRmX0tSSHhhOVEwUEJFQ05mdzhpLVhMZzZLSV9pYVVCUWFnRjh1d19HZVloSjlnajhzZ0QwVWllUmtwZ3FKSmRKVkFGSy12Vm5PbVpMaUc3OUFnVmxwRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONWpzOUhFT25aLThZcXp3MGtXQTBOYk9xTE9OY2Y0aE10QTJRTXdyUTNtZXcxQ2VCZHluNUw2MDFidkdPLTZmejltRVl5ZE5GUUh4WUl4N0E0Yzlxd3VMeUtldTRmQU14RXc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "젠슨황이 점 찍은 ‘이것’…AI 개발 늦춘다는",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1T2NuWV9CcDJ6ek9TeC1OU2VfSG1FU3dQdFVTZnV4S3FwdzRIX2d5WnY1NzhjOXdaQVVBdUhEX013Q0Q3ZUxrc1JpYkRFb0E?oc=5"
+      "kw": "애플도 이제 코인처럼?…290조 몰린 서학개미",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkX3A2Zmlwem1VTExWWktXV0RGMFJkR3YwcXExbHhleFJhWm9sODlMTHJuZlpibHgxMUs2V0lpRTBfSVlhT3Jac19OQkFuMmxXY3Qyc19KUVRhUQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "설거지하고 빨래 개는 데 몸통 필요한가요…‘천",
+      "kw": "젠슨황이 점 찍은 ‘이것’…AI 개발 늦춘다는",
       "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oa1ZWbk9ZdDJiTm11QllYcHFjdm9mLVJHZVV1RlRjMjV4WWFfQ3FpUm9HMUJtZjJKVXgtbTNoNDJESGJ5enVaT19jYXlJZ2NEdVNNUXVwNFZCZ9IBX0FVX3lxTE1ocFo0MFlFb0gwVHAzODM4TzJOMzRXMURsd3E5cUNWX2Y2dHBtbVBTYXk4R0dPQTEwa3JLbWRlQlN3bDBCcDZXRWtrbnA3aUVtb3M0R3lWSXJBeW5LNEhV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1T2NuWV9CcDJ6ek9TeC1OU2VfSG1FU3dQdFVTZnV4S3FwdzRIX2d5WnY1NzhjOXdaQVVBdUhEX013Q0Q3ZUxrc1JpYkRFb0E?oc=5"
     }
   ]
 }
