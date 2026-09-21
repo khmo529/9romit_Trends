@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-09-21 11:11",
+  "updated_at": "2026-09-21 17:03",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "\"비밀 다 털어놨는데\"…챗GPT 대화·토큰까지",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FSDF5N3djWG12OTlpZ2RGQzFqMzg5OGIxdzYtclRyRjAzMDdjNElTWkpMUU85NHdfTTNFdG5yMFN1QW9mSmlsN0JyS3U2aGc?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "\"제미나이도 탈옥했다\"…구글, AI 에이전트 ",
+      "kw": "테슬라",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dTlmZDNJU2x3eHdYS2twS0xsYjd5TkhjbDhmMmhVQlY1Q3RMMTAtaW43Z19iQUZ1NkZtc2xPb1JYTkVBc1lweUxIc3NxZDQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VYWRNTnJFZGsycW1WZUpRV20tMlk5MDNzWV9kanA1aGRva2V6ZzBsTFljdEpDLXgwd0xFd3hGWmNsU3ZJUUdIbldLbzNXWVE?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "“애플 폴더블 내놨는데, 삼성이 웃네요”… 이",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uQlZMZE9zX05OSVdlanQ1LXBjV0J3Ui1xZWlGQzhMX2FKazdmZV9qUzRUcDhnd0x2ang3ekQxU1F1X3lhZXRzM2ZuRHNqU3M?oc=5"
+      "kw": "AI 속도조절은 ‘안돼’라더니…트럼프 父子, ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xSGVHb1BSTnhLMU1ncWVDcHFVbnliVlpkMlhDZUZRMElzektmeVUxNFpEZTRQclJaTkFQYkx4RFlJQkY0cUUwbWI5bnhrWUU?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "국산 AI칩 ‘아톰맥스’, 日1400만건 요청",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0bHFWTzMxaTNrRGV3R2hUYVJPRGRGN2F1VUJEZHgwMDFfTEtGU0tQekVWNllObWMtTEk3SEJTa19kN2otOFE?oc=5"
+      "kw": "애플 \"아이폰 듀오 화면 주름, 애플에 책임 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyS2ZTcDVIZHdxM1NwX3gyUzhHY01mWUFTTXlTTF85Z0V3M2FCWW5hdTdmOWJJUWdiSHFMdTBLdE5kN3NQT2IyQTNnUUpORjA?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "北배지 가슴에 달고, 손엔 삼성 갤럭시폰?",
-      "delta": "▼ 2",
+      "kw": "국산 AI칩 ‘아톰맥스’, 日1400만건 요청",
+      "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LX1FJSHBXc29JZGVjUUVRSENmZWpRNWtLbW5PS04tMmhhUjdRRlpWZl9WeExZVkJsbXZEZUowUTFxR0pMV2Rwbl8xVFhZWWhicDZKMi0wWE0zQlBXRDNLaFc4a3luWGoxMjhVaGZpcWpoVUgyMzVHbktoOHRhQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0bHFWTzMxaTNrRGV3R2hUYVJPRGRGN2F1VUJEZHgwMDFfTEtGU0tQekVWNllObWMtTEk3SEJTa19kN2otOFE?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "“문장 생성 버렸다”…판단 전용 AI ‘제브’",
-      "delta": "▲ 3",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONWpzOUhFT25aLThZcXp3MGtXQTBOYk9xTE9OY2Y0aE10QTJRTXdyUTNtZXcxQ2VCZHluNUw2MDFidkdPLTZmejltRVl5ZE5GUUh4WUl4N0E0Yzlxd3VMeUtldTRmQU14RXc?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "HBM4",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Vjh3N19GWVozNlJWYmh5N19XVkhZMlpuektNalR5VTFnZy1ac184d2xYbEROVXJVM3A4SmtwWUd1NHF0YXo2dUZMU0ZSazVyRVHSAVNBVV95cUxNR05QWkptNlVCbXR6OV9wc1FFd3BWUzJaRG1SVWlybmcxQjBwYmxDRXJFOVNhd0JLa0pMUXkyWHFiUlNaQ3ktR2xQNDRzaTdwUVlfNA?oc=5"
+      "kw": "‘통설’ 뒤집은 GPT-6 아스트라, 108년",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZktoSkhzZ3JuYUYxNlZkeDM4WFlUSzJkTEg5cTZ6LXJWUkUwZDlUMnZGT2JIQkVfZlhtNkExTGFUeVc4cERRVl9ySjhDY3lkRUhKOGRRMmZnWDdKa0pYSS04VGpBYmJtbXc?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"200만원 맞아?\" 아이폰 환불 사태 터진 ",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yMWltRm9Wc2lidHhlS29EQjFQSUFJNnFSU3AzempUb2phWEx1TWFQZnRlRXMtalQ4TXM3T0JSa1pLLVVfVWg0N0ZTUlVSb0pYTV9kRnlkTGRPQQ?oc=5"
+      "kw": "오픈소스 AI는 뒤처진다는 , 중국이 뒤집었다",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tVXJjanM1OVZqZndENFV2eWc3bUFEalJvWHJ0Q0NLNHlHcERSNExybGRUaFRfOW1NRTNPZnB6UFMzRXBsalpqQVhzODJwSXdXVzF2RGxISlFKZw?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "삼현, 북미 휴머노이드 로봇 액추에이터 수주…",
+      "kw": "“왜 앰뷸런스에서 엔지니어가 내려?”... 로",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yTzhMa2JPU2VBS19sUmd5MThabFBxWHdyOEpHM0JYMG12ck9TclplcXFBaEFaRkhhVXJHQWplM2N0V1NFMV9hN3pUWjJjM2tnSEZuUjRyWnpRdlp2UW5teXF2dW9ZTmtvRTFFUHcxTTJKdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTR2T1hTblRJRzhEX3R1cU5vaUhwX2p6ZVZsbnY1VjBvYTRCeHFNWGg5NjQ5NFJWR0c4cmpwRWpoMTVESTNfOGFkN1NnRVhaRlVGNGRJWU5zbzlNTW9TNE1HdFJPVEV6VWZBZVVJV1h4XzZ2ZEhnT1hhMWlSMXRjVEQ0WQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "\"개발속도 함께 늦추는건 담합\" … 美 AI ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16d1ZsQUNkSlo4VFRsc3B0akdlaTltZXhJSy1FbE95RlF4UmV3bTJlYzJHY00xUGhaSHd3ZGtCZG5iRDZ3UkZNRDBkazlHQQ?oc=5"
+      "kw": "\"200만원 맞아?\" 아이폰 환불 사태 터진 ",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yMWltRm9Wc2lidHhlS29EQjFQSUFJNnFSU3AzempUb2phWEx1TWFQZnRlRXMtalQ4TXM3T0JSa1pLLVVfVWg0N0ZTUlVSb0pYTV9kRnlkTGRPQQ?oc=5"
     }
   ]
 }
