@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 17:03",
+  "updated_at": "2026-09-22 00:11",
   "keywords": [
     {
       "rank": 1,
@@ -13,28 +13,36 @@
       "rank": 2,
       "top": true,
       "kw": "테슬라",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VYWRNTnJFZGsycW1WZUpRV20tMlk5MDNzWV9kanA1aGRva2V6ZzBsTFljdEpDLXgwd0xFd3hGWmNsU3ZJUUdIbldLbzNXWVE?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "AI 속도조절은 ‘안돼’라더니…트럼프 父子, ",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xSGVHb1BSTnhLMU1ncWVDcHFVbnliVlpkMlhDZUZRMElzektmeVUxNFpEZTRQclJaTkFQYkx4RFlJQkY0cUUwbWI5bnhrWUU?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "애플 \"아이폰 듀오 화면 주름, 애플에 책임 ",
+      "kw": "엄마 장례 날짜는 언제가 좋을까?...AI 챗",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyS2ZTcDVIZHdxM1NwX3gyUzhHY01mWUFTTXlTTF85Z0V3M2FCWW5hdTdmOWJJUWdiSHFMdTBLdE5kN3NQT2IyQTNnUUpORjA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWmZtUUpUSi1LaHNmbFBfVU1OOEczYXZ3c21zTGlwa1kwTkNpX1dteWQ2MkRZWGpTOVpEbWdQVk9hWklwaU50b2NSc3QtTVh1V2c?oc=5"
     },
     {
       "rank": 5,
+      "top": false,
+      "kw": "애플 \"아이폰 듀오 화면 주름, 애플에 책임 ",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyS2ZTcDVIZHdxM1NwX3gyUzhHY01mWUFTTXlTTF85Z0V3M2FCWW5hdTdmOWJJUWdiSHFMdTBLdE5kN3NQT2IyQTNnUUpORjA?oc=5"
+    },
+    {
+      "rank": 6,
       "top": false,
       "kw": "국산 AI칩 ‘아톰맥스’, 日1400만건 요청",
       "delta": "▼ 1",
@@ -42,44 +50,36 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0bHFWTzMxaTNrRGV3R2hUYVJPRGRGN2F1VUJEZHgwMDFfTEtGU0tQekVWNllObWMtTEk3SEJTa19kN2otOFE?oc=5"
     },
     {
-      "rank": 6,
-      "top": false,
-      "kw": "“문장 생성 버렸다”…판단 전용 AI ‘제브’",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONWpzOUhFT25aLThZcXp3MGtXQTBOYk9xTE9OY2Y0aE10QTJRTXdyUTNtZXcxQ2VCZHluNUw2MDFidkdPLTZmejltRVl5ZE5GUUh4WUl4N0E0Yzlxd3VMeUtldTRmQU14RXc?oc=5"
-    },
-    {
       "rank": 7,
       "top": false,
-      "kw": "‘통설’ 뒤집은 GPT-6 아스트라, 108년",
+      "kw": "‘삼성 반도체 신화’ 권오현, KAIST 이사",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZktoSkhzZ3JuYUYxNlZkeDM4WFlUSzJkTEg5cTZ6LXJWUkUwZDlUMnZGT2JIQkVfZlhtNkExTGFUeVc4cERRVl9ySjhDY3lkRUhKOGRRMmZnWDdKa0pYSS04VGpBYmJtbXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWExZQ2tEUTIzWWxxMXZtWG44NzAtWkYxUDdxbEtPYl9tTXZmMzVRUVh6UUxiaEhMcldTWGZxRE1BV2pVS1E2ZlRKbEp2cWxGbmVSdEVnUG1NZm5MZi1qRGh1bHlZYVVxWGh4WF9HSzZNek9CNzJZYzQ1bnFFRzZCVHo1dw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "오픈소스 AI는 뒤처진다는 , 중국이 뒤집었다",
+      "kw": "언어 장벽도 이제 없다…구글, '실제소통 이해",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tVXJjanM1OVZqZndENFV2eWc3bUFEalJvWHJ0Q0NLNHlHcERSNExybGRUaFRfOW1NRTNPZnB6UFMzRXBsalpqQVhzODJwSXdXVzF2RGxISlFKZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTkzbURlY3dxWUpwbjBVZE43bW96RllYRGlwbVI3dXBMM2ppM3NwV0Vaem5SX1JyNlFMVFNTeFhzLUREUXd6S0VpbU9RYzBxMElTSjd0eHBxbGZQMDBXSXVlTjJWTG56TWFDZTN0bXZHcUt2WG1mbW1KczZnT2lDTA?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "“왜 앰뷸런스에서 엔지니어가 내려?”... 로",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTR2T1hTblRJRzhEX3R1cU5vaUhwX2p6ZVZsbnY1VjBvYTRCeHFNWGg5NjQ5NFJWR0c4cmpwRWpoMTVESTNfOGFkN1NnRVhaRlVGNGRJWU5zbzlNTW9TNE1HdFJPVEV6VWZBZVVJV1h4XzZ2ZEhnT1hhMWlSMXRjVEQ0WQ?oc=5"
+      "kw": "“문장 생성 버렸다”…판단 전용 AI ‘제브’",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONWpzOUhFT25aLThZcXp3MGtXQTBOYk9xTE9OY2Y0aE10QTJRTXdyUTNtZXcxQ2VCZHluNUw2MDFidkdPLTZmejltRVl5ZE5GUUh4WUl4N0E0Yzlxd3VMeUtldTRmQU14RXc?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "\"200만원 맞아?\" 아이폰 환불 사태 터진 ",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yMWltRm9Wc2lidHhlS29EQjFQSUFJNnFSU3AzempUb2phWEx1TWFQZnRlRXMtalQ4TXM3T0JSa1pLLVVfVWg0N0ZTUlVSb0pYTV9kRnlkTGRPQQ?oc=5"
+      "kw": "앤트로픽 ‘성장성 의문’·오픈AI ‘현금 고갈",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wR0lKVEJQTXJxU0FxTEwtLUNGR25yczlZVjZ0a1VJNlg3RTM1YWpLTGdvVVhfTWpJNGt3MjlSdmVuYnZJRGhibzhpM2lXVEE?oc=5"
     }
   ]
 }
