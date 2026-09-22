@@ -1,40 +1,48 @@
 {
-  "updated_at": "2026-09-23 02:06",
+  "updated_at": "2026-09-23 05:17",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "테슬라",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRaWc3VzBtZXNJdGlyQWNrWUxvMm1hUEd2RWhDMVNmNU00a0VjUTNMZW1WSVgyOUhoMUkwa040WTkzTHhPeUFBWTN2NEhwWWFM?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "“AI가 인류 죽인다?”…‘2030년 종말론’",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43bHc4elFHNkFzaHVNcm1PZ19fbTFOazNmNmo0QzRldlVrTEk1Nlh0eUp0a1ZENzJQQ2FNZGlBcWJWQjdlZmc?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "텍사스, AI 데이터센터 허가 전면 중단",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0Y3WEI5Wm5BeGZUaXlqRkF1VFp6aUJZWTFLWVVDa25zcjQ2ZE5KNnlPcXpFRk93RXpYSWkwZl9KMGFLZGcyNkJPRzNRaDhZTEtreU52N1hYYXpDb0ZNaHRlaG1RMXgyY2ljVlZEUXlFX1VDN2U1NTNvVkR6bjdsbkk0aw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "뉴욕 월가, AI 데이터센터에 갈수록 회의적…",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DNDJGT243enpzT2dfVEhNcFN6QzV6WDFtYWhpR3N3RFJsLVZfLVI4MjNxSjZ1b1FpSlNocGJKdmM0Zkhqemc?oc=5"
     },
     {
       "rank": 5,
+      "top": false,
+      "kw": "“엔비디아 잘난 척도 끝이다”…알리바바 신형 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HOEFxV1U4VlA2cDYtbE1yY25BNjVwOU9QTFBGSEI0VnBQLWxyRDJ5eUFwR05sb3plQXVfc3VOZzZpaWFLRXc?oc=5"
+    },
+    {
+      "rank": 6,
       "top": false,
       "kw": "챗GPT보다 75배 빠른데 비용은 170분의 ",
       "delta": "▼ 1",
@@ -42,7 +50,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXdDZEVZU2x0MWtWTWF0UW0zUld4STdWSmtSOHZfc25LQVlzWTQteDlFSVhpMVo3QTcyVndIV2REU0pBVjEtS1hrSy00NFZvLW5xb2I3N0wwZDFtaUYyVXpOa3pYV3BOOHB4eHZ6Sm82OTRtM1V0Q0hWako0clZEY2VtYw?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "top": false,
       "kw": "쿵푸 군무 中로봇 군단, ‘아갓탤’ 결승행…“",
       "delta": "▼ 1",
@@ -50,15 +58,15 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qblpwbW9qUk1kYWdwWGRkYWpSTjR0dF80MHNiWTNnWGplOFhrVTNLYXFKWE1McXZnVXlzVi01TXI2c2l1N0NmTGVxUy15bTZMVnZreTNZUjlPT1lsNHdlLWZiMmxhZWJ1ekFlbENWcWlmZUnSAWZBVV95cUxNWHRKQVpUZ3FJLTBaQ3kyMkdkRmhKdjZ0eElTRFdFUGFtWEZkWGg5RElJbEdrc0pIaUE4VDlEcjRyMHBNcm02NGpNaG9yeVowbEtTWVYzMVNZbVZNczBDb2kxVFBlY1E?oc=5"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "top": false,
       "kw": "위험한 지시 100번 중 97번 시도… AI에",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "▼ 1",
+      "type": "down",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWjRzdVBGTkpkUkhIUG9WWVVRRTNFMG83SVU5bDFXWFlGS2pmTEZBbWZQQVhzaHk2V0VxRTQzR1gyb0U5bkdKejFOU3NhUWljS1VFaS1DWmcxbnpNcWFSMWNCVHc1SU1IMXZRNGFadzB2V0NfOGV1WG9HTzcycFo3aFA4WQ?oc=5"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "top": false,
       "kw": "'5조원 투입'…AI 데이터센터에 승부 건 '",
       "delta": "▼ 1",
@@ -66,20 +74,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bek10QURvZ2pTNkpmcjJlXzdUNHBRRjFLQnBBLWlPWlUwUjUwbkVoOHd2cXQ0cHF5Vmd2cFlmMUtLSHpGS0ktZzE0RGF0NEJVLWJMWktpaGdIUQ?oc=5"
     },
     {
-      "rank": 9,
-      "top": false,
-      "kw": "‘통설’ 뒤집은 GPT-6 아스트라, 108년",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZktoSkhzZ3JuYUYxNlZkeDM4WFlUSzJkTEg5cTZ6LXJWUkUwZDlUMnZGT2JIQkVfZlhtNkExTGFUeVc4cERRVl9ySjhDY3lkRUhKOGRRMmZnWDdKa0pYSS04VGpBYmJtbXc?oc=5"
-    },
-    {
       "rank": 10,
       "top": false,
-      "kw": "애플 \"아이폰 듀오 화면 주름, 애플에 책임 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BeGlwdXJHT3lYVGNxUEw1c1NtelpENUh1MmZfbUFxOU5ibWg4YlVsSldiSmc1MWFERy01UnZIVmhRdTQwQUI1ejVUVFdDSWpzV0VrNjJR?oc=5"
+      "kw": "‘통설’ 뒤집은 GPT-6 아스트라, 108년",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZktoSkhzZ3JuYUYxNlZkeDM4WFlUSzJkTEg5cTZ6LXJWUkUwZDlUMnZGT2JIQkVfZlhtNkExTGFUeVc4cERRVl9ySjhDY3lkRUhKOGRRMmZnWDdKa0pYSS04VGpBYmJtbXc?oc=5"
     }
   ]
 }
