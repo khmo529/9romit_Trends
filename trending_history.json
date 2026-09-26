@@ -1,69 +1,85 @@
 {
-  "updated_at": "2026-09-26 06:42",
+  "updated_at": "2026-09-26 09:14",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "'불가항력 통지' 오라클 5% 급락…AI 데이",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUpnaDRNeC1fRVA2eGxRVTFqS2pDX2ZpTU9tVzNwdVdLbGthQnFhVDFHV0U2T2VINDd0Y19RVFkyTWw2S0xLTkxmS0xfa2JKU0NNNFBRUkxIVGF3dllqQlVNWUhfZzRjbXhPTTd5cFJ6M1RLZjdYVjdKaUktczl2Nw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "아이폰18",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoSEhFckdhdWtRWkVoY3VNNlcxNGhyYTM0anFTdDJ3VXduSmFHa2g3VTlWb19mRC04Q0pMMkZOTU45alFYZEE?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "리플 전 CTO도 감탄한 AI 시트콤 'XRP",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWlpbE1rRzhMbHllVlpCbHVqRkxvc3Mwem9DcktZbFljaUNJcGFVN19SRXNpQlhlbGN3UmZGMnphTjB5ZUNYSFF1WTlhYUM1d3FKTWV0TkxXVVNVMVQ2WGZEVjdJcGllUW50U2xUOC1Ib2M3cUkzMmZYdGIxVDNIT0cwTjBOVmxN?oc=5"
+      "kw": "구글북 899달러, 원가 구조에 물음표... ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iMFdIcUxLSU9GdjFQRTc5bmZVSWNMZTN3cGhRYkhOQTctVGZaNTdaMVU3ZWZZRUluQXBuNkNOWTBsWlMxaGx6Z18xODJZT3hmTGotMW9R?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "\"제미나이 4 조기 \"… 구글 딥마인드 수장,",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OWRBQ3BWb1l5SlBsb2RHVm1OVVhrZDNlaDgxVFBQcE5CRTJRSGJibm02X2c2eVp4LXc4eHdhOGdtamNHeHVpelA1Y05ETDhfcFdwUzc3d3Bfb1FZc1MwR2dRLWJsYnF5R0E?oc=5"
+      "kw": "이것 따라 딱 5분만 해보세요. 드디어 나도 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlowSjZ4Nm9WMTVHTk9xTWpvdEZWNERDTnhNOUN3aGI5UWlhclBGTGFEYjBmUkFBLVo0bWd5aEt6WjBkbEFKOVQtQ1h0RVpQbVpndktFVmNnMGNid0lTYlUzQi11Z3o2dEZ3X2YyQm1sWlRBbGlqNzhtX3l5Wk43WlR6WF9FQ0kyUnhr?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "테슬라",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lek9UMUViZjJYdHJhcEFubVpxNDdNTURKNmlnaGYwc2ZnRk1NUjhVb2pzYmRXN1VWb1FvamtyS29JLXZ4aFluejlWNElpYXgyRnVXV2RBZHprZw?oc=5"
+      "kw": "리플 전 CTO도 감탄한 AI 시트콤 'XRP",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWlpbE1rRzhMbHllVlpCbHVqRkxvc3Mwem9DcktZbFljaUNJcGFVN19SRXNpQlhlbGN3UmZGMnphTjB5ZUNYSFF1WTlhYUM1d3FKTWV0TkxXVVNVMVQ2WGZEVjdJcGllUW50U2xUOC1Ib2M3cUkzMmZYdGIxVDNIT0cwTjBOVmxN?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "오픈AI·앤트로픽, UN서 'AI 인간 통제 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yc2o2Q0sxbXNQeXlYeHNQNTNSSHJENWhGamxsclozVzAxSE5PZnBtVkxxNmpmeWxyckhBa1ZWQW0zQnNhWnk2OUc4TUtUdw?oc=5"
+      "kw": "오픈AI 에이전트, 챗GPT 이용자 이미지 5",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQVE4Vm44RVducUxMQ2pQWlZBeUNzQVJzRnlFbk9XbXRLS1BHQXJRcEwzS1MwZEhvREdsZ1VNZHVhRUhKekgxSW1vNDB1T0k?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "트럼프 “초지능 논의”…시진핑 “AI 인간이 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBabUt6bGVrUEZKTTFSOGM2dWhHLXFnbExjakZrMEo4bm41SXNFZ1dpb3JXSzR2bEhWYkl3OWJwT01QQTFXU3BnZGZGZkhIendRNlVmbXk3Xy0yTmtiUWl0ZFFYNmt6S29kZnZwWEpqMmxsYjDSAWZBVV95cUxQQzdBV3Fqd3E3c20tQlFOcnRCNWo0OHZRSjlQaG1WTk5lcXRDdEl0NVU5V2JGNXVya3JUa2xJVk9keUpwMWZGZFRZbEd3TFg1cHZ1cXFfTlpKaU1nQTdyU0FKUWdXNmc?oc=5"
+      "kw": "\"제미나이 4 조기 \"… 구글 딥마인드 수장,",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OWRBQ3BWb1l5SlBsb2RHVm1OVVhrZDNlaDgxVFBQcE5CRTJRSGJibm02X2c2eVp4LXc4eHdhOGdtamNHeHVpelA1Y05ETDhfcFdwUzc3d3Bfb1FZc1MwR2dRLWJsYnF5R0E?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "'갤럭시S 살 거면 추석에?'…15만원 인상 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IeFlBYU1pY3VYeERmbVFGMHNXdkdDR1BadjRwMW0tWlF3WTg4b3IxTU1mR0YtbUtwM0Z6X2xqZjJ1WGlJYUE?oc=5"
+      "kw": "테슬라",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lek9UMUViZjJYdHJhcEFubVpxNDdNTURKNmlnaGYwc2ZnRk1NUjhVb2pzYmRXN1VWb1FvamtyS29JLXZ4aFluejlWNElpYXgyRnVXV2RBZHprZw?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "‘통설’ 뒤집은 GPT-6 아스트라, 108년",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZktoSkhzZ3JuYUYxNlZkeDM4WFlUSzJkTEg5cTZ6LXJWUkUwZDlUMnZGT2JIQkVfZlhtNkExTGFUeVc4cERRVl9ySjhDY3lkRUhKOGRRMmZnWDdKa0pYSS04VGpBYmJtbXc?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "오픈AI·앤트로픽, UN서 'AI 인간 통제 ",
+      "delta": "▼ 4",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yc2o2Q0sxbXNQeXlYeHNQNTNSSHJENWhGamxsclozVzAxSE5PZnBtVkxxNmpmeWxyckhBa1ZWQW0zQnNhWnk2OUc4TUtUdw?oc=5"
     }
   ]
 }
