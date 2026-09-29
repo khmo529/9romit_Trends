@@ -1,56 +1,48 @@
 {
-  "updated_at": "2026-09-30 00:11",
+  "updated_at": "2026-09-30 05:03",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "구글 떠난 연구원 “AI는 스스로 자란다, 해",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "50조원이 날아갔다… 시진핑이 극찬한 中 로봇",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3RXNzFzT245T2RrT25OY3BwNjRRXzFQaHhTWkdTRXNIMVdNSEduNU1wY0pWR0dpcXJhMFZWTWs2OXFJazktQW1EdXR1TkFtOUhpN0J4NnZfcHcxMlhqN2EycnJodDQzcW9mSGtxZ3hiZFhWSG5vbUVMT2xxZXE3S2lralk4cTc2?oc=5"
+      "kw": "엔비디아, 美 사상 최대 자사주 매입…\"'AI",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ycGluZ09fLVBGcDAzTk9sRG5selgwcGVHQktNajZQNHplMjBmOG1RWHE1akxLdncyb0tadFpzSjhxMFZDX2dtVWVDenpJRzg?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "현대차 로봇개 '스팟' 더 똑똑해진다…이상 점",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV05ZUXBCV1c0WERuaHprTVNCNUZqRC1FTkRKZlFqUGo5Zm9CdHUyWU5RWno5N1VLbDVHc3o3aHZmU2ljMWxMb2xDekhlVmpsTnlhSGx4UjQ1X3pkbm9BWXlsWC04RGl0V2dIRHVSUlkybWxvNk5UaEh0VjJNQWdKcw?oc=5"
+      "kw": "50조원이 날아갔다… 시진핑이 극찬한 中 로봇",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3RXNzFzT245T2RrT25OY3BwNjRRXzFQaHhTWkdTRXNIMVdNSEduNU1wY0pWR0dpcXJhMFZWTWs2OXFJazktQW1EdXR1TkFtOUhpN0J4NnZfcHcxMlhqN2EycnJodDQzcW9mSGtxZ3hiZFhWSG5vbUVMT2xxZXE3S2lralk4cTc2?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "대형 막히자 '9㎿'로 몰려 …수도권 소형 A",
+      "kw": "인형 두고 \"빵 아니면 찔러라\"…AI 로봇팔 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16dUg0TkhzQ2xYdk1kV1NiUG1QUWZ3RTA3RFdTQlk1SU9PcHpRSEdNY3Z5SG02SE5ySWo4M3p0YW1qbnZETXZoOGlBRjRPUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yOWFVbEZtOG0zbFFSMmt3MHRad0ExemJpa3ByZDJlczJMMHhsN185RHFwcndRMEg4ZFpwbE41NVdMd290VUNSM0w0dmxLa3M?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "오픈AI 훈련 멈추자 반도체주 휘청, 보안주는",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTURuQ3BpZ25GbkpLdmtVMnJnYkJ5em4yR1E4YnktY2NVaHQyY0twVTYyZVRHS3VncjdxUW5DNWdycVY3R1dHaTVfNDlqbWFGSTl5eUlnQXlkRE92UWsyWUphMWVtX2Y1NklxUlRrY1JDMWl3dDMwN3EzUEM5eEhucQ?oc=5"
+      "kw": "현대차 로봇개 '스팟' 더 똑똑해진다…이상 점",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV05ZUXBCV1c0WERuaHprTVNCNUZqRC1FTkRKZlFqUGo5Zm9CdHUyWU5RWno5N1VLbDVHc3o3aHZmU2ljMWxMb2xDekhlVmpsTnlhSGx4UjQ1X3pkbm9BWXlsWC04RGl0V2dIRHVSUlkybWxvNk5UaEh0VjJNQWdKcw?oc=5"
     },
     {
       "rank": 6,
-      "top": false,
-      "kw": "“AI 잘 쓰는지 보겠습니다”…취준생들 “어디",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45d19tcm5nc01vZGEwS0w3OHJRY2xQQ0RZd3FSVmpicHA1N280eTZfbmJyMnRDUkRwc3VfaXgtc0R6T3JjaVJUM3BFLXppRzFTUTVWMzhQN0Q0d9IBX0FVX3lxTE55a0V1bmpaRHhWRkVOclQ1QmtJSFZlMjRpOVRkeDhDZ1puTXd3QnlfeERXclFUc0E4TWtIbVlCSV90RmpPd2paR1h0Sktid1hMWEdwWUg2bW9YQU5ocldJ?oc=5"
-    },
-    {
-      "rank": 7,
       "top": false,
       "kw": "원전·AI·반도체 결합한 ‘FNDC 시대’ 온",
       "delta": "▲ 1",
@@ -58,28 +50,36 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmc2cnJhakNSdDJDSm1obVVBU2ZuUEdJZXczd1NsaGludjYyY2hXYTU5enhNOUNZUGNZM2puSW1ldklvV2QteGRFb3FYNTJFVXpCdDdsb2F6VExpR2RJY0JpcC1KUHNGTU94NDBndVJQUDVGX0NnNnZDeFhnc21RMlpTR2x6bFF5?oc=5"
     },
     {
+      "rank": 7,
+      "top": false,
+      "kw": "오픈AI 훈련 멈추자 반도체주 휘청, 보안주는",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTURuQ3BpZ25GbkpLdmtVMnJnYkJ5em4yR1E4YnktY2NVaHQyY0twVTYyZVRHS3VncjdxUW5DNWdycVY3R1dHaTVfNDlqbWFGSTl5eUlnQXlkRE92UWsyWUphMWVtX2Y1NklxUlRrY1JDMWl3dDMwN3EzUEM5eEhucQ?oc=5"
+    },
+    {
       "rank": 8,
       "top": false,
-      "kw": "AI 데이터센터에 쏟아붓더니…“2031년 8천",
+      "kw": "경찰, 코스모로보틱스 압수수색…로봇 35억 허",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EQUk0NzJWblNQU3pJczB4aWpPWE5jT0EtTTRHU1pIS2VmR3ZTZF9DZVBKc2Vrc1ptbC0td3J5OWMxWC1XeXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MQnJOOWhoM0JRQlVrQ09NQW1XLTFZRXI3d09NLVRNaFNlYTdVWGJwTXdKWWxWeEpXVm5YSm9ONHNhaG9UQ2J1WGZlNmpEZFR4Snc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "반도체서 데이터센터로…삼성 6개사, 美 AI ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaURXX29vbTAxSTFOSVpZRWZmNFRWUG5CVkFsRnNIR0JOQmVMLXczYm1VWGhGQWtnY1Q2dWxYczYzZ1JmRDVSOWtJS0RIQUZ4dkZGcWJheDczQQ?oc=5"
+      "kw": "“미국 AI 넘으려면 미국 칩 필요”… 중국 ",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzBtQlF2ZVBobnNHYUhSU3dzZWxFenFjWm9jbEhsVnhtc25fS29ybEo3Q1pvY1Rub1ZLLTV3X1ZfOGxJbWhYdVh6NWpiMDlsMzlnTHQ1VHhqZzJ5S2NVY2JXczY0N2k3VHoyQVd5UVlCM1o5RVU4YTdkVnhuTm9JWG9aUQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "“미국 AI 넘으려면 미국 칩 필요”… 중국 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzBtQlF2ZVBobnNHYUhSU3dzZWxFenFjWm9jbEhsVnhtc25fS29ybEo3Q1pvY1Rub1ZLLTV3X1ZfOGxJbWhYdVh6NWpiMDlsMzlnTHQ1VHhqZzJ5S2NVY2JXczY0N2k3VHoyQVd5UVlCM1o5RVU4YTdkVnhuTm9JWG9aUQ?oc=5"
+      "kw": "반도체서 데이터센터로…삼성 6개사, 美 AI ",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaURXX29vbTAxSTFOSVpZRWZmNFRWUG5CVkFsRnNIR0JOQmVMLXczYm1VWGhGQWtnY1Q2dWxYczYzZ1JmRDVSOWtJS0RIQUZ4dkZGcWJheDczQQ?oc=5"
     }
   ]
 }
