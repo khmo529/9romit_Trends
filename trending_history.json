@@ -1,24 +1,16 @@
 {
-  "updated_at": "2026-09-30 18:06",
+  "updated_at": "2026-10-01 01:00",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "50조원이 날아갔다… 시진핑이 극찬한 中 로봇",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3RXNzFzT245T2RrT25OY3BwNjRRXzFQaHhTWkdTRXNIMVdNSEduNU1wY0pWR0dpcXJhMFZWTWs2OXFJazktQW1EdXR1TkFtOUhpN0J4NnZfcHcxMlhqN2EycnJodDQzcW9mSGtxZ3hiZFhWSG5vbUVMT2xxZXE3S2lralk4cTc2?oc=5"
-    },
-    {
-      "rank": 2,
-      "top": true,
       "kw": "아이폰 600",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "▲ 1",
+      "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2b0xHNmZ6Z211V2ZVcjVtU1BKOE8ydlRSenZLS3QzM3ZjMGJsY05wa3R2dUk5anFNNVNVaXlKR19DQk5jd0dHdUJLa3JsM290MFJFd0otXzctdw?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "top": true,
       "kw": "“시키지 않아도 알아서 일한다”…오픈AI, 2",
       "delta": "▲ 1",
@@ -26,60 +18,68 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUDBPQ19seVlqdFhfU1BmNkpHVmVCcFdyTTBtbmlEWFRwWGtrYjh2cnppZlNBRGFGdFJCYUlLV3FPVm90Z2pWUFRGNHl5QQ?oc=5"
     },
     {
-      "rank": 4,
-      "top": false,
-      "kw": "삼성전자, AI 데이터센터 수요 최상단으로…K",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxV2NhSkJCM3VqVWZQNEtrM2J6OU5POHAySG1vbDF2NndpUHBtZmxwanl5cnZHUFV1WDdEMGplYS1xakpRMHc?oc=5"
-    },
-    {
-      "rank": 5,
-      "top": false,
-      "kw": "“AI 10년내 인류 전멸”…구글·MS 떠난 ",
+      "rank": 3,
+      "top": true,
+      "kw": "‘AI로 인류 종말’…구글·MS 떠난 소아레스",
       "delta": "NEW",
       "type": "new",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QTHRzdGxmZHI4bVNkM2xJNFY5dDdabmJIUUVUMTV2ekk3dHBlcmstQTFsQmE2anVzaDVKX1o5T3FqWk5rckZNUVdCRlFfRE1TSFBlanF3aTZSY3RRTDZmRVhIRU1ub1ljdzJ3aV9sWQ?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "top": false,
-      "kw": "2분기 1위했지만 쫓기는 로보락...국내 로봇",
+      "kw": "50조원이 날아갔다… 시진핑이 극찬한 中 로봇",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3RXNzFzT245T2RrT25OY3BwNjRRXzFQaHhTWkdTRXNIMVdNSEduNU1wY0pWR0dpcXJhMFZWTWs2OXFJazktQW1EdXR1TkFtOUhpN0J4NnZfcHcxMlhqN2EycnJodDQzcW9mSGtxZ3hiZFhWSG5vbUVMT2xxZXE3S2lralk4cTc2?oc=5"
+    },
+    {
+      "rank": 5,
+      "top": false,
+      "kw": "사용 중단하려는 임원에게 \"그러면 당신 비밀 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0ZZTWlNT1FuQUFYbzlkNkMwNEdXSHBlN2hpa1JKNV85a2xQRklNc01pel83Ti03MkE5ZVFXQkVCRXRfUU5qd0VwN2pIMnVvV29OVW9MSEhZRk0tSnVPNjEtY29ZSm43YTFuQ0lITl9qS1VjcE91ajBVWlJKRGN4cVJfaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW80QklZMjNsQU85c0kydlNDYV9YNWpSOEpUM252N25obEZwOS0wUG5CSTVXWXFoQ2N3a2paQ1Z6SG9uVUNCOGt1UTNKaEV5c1otNUE4UmtYSEtQa2Qta0VqOHlMMWluWWlQbW4xc3pTUl9MbUNuNFd6azhvM0hHMjhTQQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "top": false,
+      "kw": "아이폰18",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3RENWRvWGp1T1hRX3BIWFBGUUxvcWlfZE53THdqTEFPNzJpSTB0dzlaSWxaRkFTQlZEdHN6VktNMDBCTTNJVFhid3h3RmQ1WWdNcDc0QTRDQXJpYjlxT0QyNDZjaWcyWEtjdm9IWXZ5U1dySER6OFU2SlN0aEZkekpB0gGWAUFVX3lxTE5HaXZCX2lNeTlpRUZDeUp0cEFnaEpQWUtMVUNTaU05bVVmaHowNmVkb0xNakhqd3JRWnprNExQQzFiQ0dudzZDcHJsN1ZPTmp0V0VISFRCVlBSUFhGXzNyeGtjVDl0VEROX19Jc3NXMzVBYktOWnNrWVhha2VIdXl6S0tDZnN0Y1ctX1dSQ1IwTHlGaUlFdw?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "\"아스트라급 지능을 5분의 1 에\"…오픈AI,",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zMVZyOTFucndmMEtvNGtXcmZocjhvN3J5bFpGbEUtOHhGMjB4MHNlN0xpdllENXR5TW90QXExOVMycWV0WWRSbWpPTVZTTXVYUnl6RTExYU1rV0FkV2dyRU1GOUhaMGJyckE?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "아이폰18",
+      "kw": "'엑추에이터 아니네'…현대차그룹 피지컬AI 핵",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3RENWRvWGp1T1hRX3BIWFBGUUxvcWlfZE53THdqTEFPNzJpSTB0dzlaSWxaRkFTQlZEdHN6VktNMDBCTTNJVFhid3h3RmQ1WWdNcDc0QTRDQXJpYjlxT0QyNDZjaWcyWEtjdm9IWXZ5U1dySER6OFU2SlN0aEZkekpB0gGWAUFVX3lxTE5HaXZCX2lNeTlpRUZDeUp0cEFnaEpQWUtMVUNTaU05bVVmaHowNmVkb0xNakhqd3JRWnprNExQQzFiQ0dudzZDcHJsN1ZPTmp0V0VISFRCVlBSUFhGXzNyeGtjVDl0VEROX19Jc3NXMzVBYktOWnNrWVhha2VIdXl6S0tDZnN0Y1ctX1dSQ1IwTHlGaUlFdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWElHUFl5UVBwNGwtSXZwTGpnUlZpZ0JWYzFFWmdMYTU4allRSVd4WFdYWWY5SFVPRHRQWG9xcVRJZE90QkE?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "자율주행·AI 에이전트 혁신 이끈다… '국가 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BS1pweWt1Y0Q4Um55WnBfTF9NcnZZYkFaYmNaeVhKMS1Cekl3blJlX3VwYWVEVGEtdEZVTDJ3cG55eUkwQlpQTkR5eGo5UTJ3bzlaT2NR?oc=5"
+      "kw": "현대차 로봇개 '스팟' 더 똑똑해진다…이상 점",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV05ZUXBCV1c0WERuaHprTVNCNUZqRC1FTkRKZlFqUGo5Zm9CdHUyWU5RWno5N1VLbDVHc3o3aHZmU2ljMWxMb2xDekhlVmpsTnlhSGx4UjQ1X3pkbm9BWXlsWC04RGl0V2dIRHVSUlkybWxvNk5UaEh0VjJNQWdKcw?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "현대차 로봇개 '스팟' 더 똑똑해진다…이상 점",
-      "delta": "▼ 5",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV05ZUXBCV1c0WERuaHprTVNCNUZqRC1FTkRKZlFqUGo5Zm9CdHUyWU5RWno5N1VLbDVHc3o3aHZmU2ljMWxMb2xDekhlVmpsTnlhSGx4UjQ1X3pkbm9BWXlsWC04RGl0V2dIRHVSUlkybWxvNk5UaEh0VjJNQWdKcw?oc=5"
+      "kw": "엔비디아, 11월 서울서 AI 데이 연다…삼성",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2cWNieDBZS09PZEc0ZVFoWS1fdG8wbXQtMWwzQ2xjbURXQzNmNlkyRjN4dnZ5X0VYTVE2Rm40WDBwdTJOMWF3czZWa1hrQQ?oc=5"
     }
   ]
 }
