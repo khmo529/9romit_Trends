@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-10-01 05:37",
+  "updated_at": "2026-10-01 09:14",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "“시키지 않아도 알아서 일한다”…오픈AI, 2",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUDBPQ19seVlqdFhfU1BmNkpHVmVCcFdyTTBtbmlEWFRwWGtrYjh2cnppZlNBRGFGdFJCYUlLV3FPVm90Z2pWUFRGNHl5QQ?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "삼성전자, AI 데이터센터 수요 최상단으로…K",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XckRscUFZUkVjTTlyWW9pMHVuamlaalFiMjJoS0N6NHRMNEkyTUJrMTZzVDY0WGlVMnNnbEdiNDhDYl92LUlFdWt6aGFuNVE?oc=5"
+      "kw": "‘AI로 인류 종말’…구글·MS 떠난 소아레스",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QTHRzdGxmZHI4bVNkM2xJNFY5dDdabmJIUUVUMTV2ekk3dHBlcmstQTFsQmE2anVzaDVKX1o5T3FqWk5rckZNUVdCRlFfRE1TSFBlanF3aTZSY3RRTDZmRVhIRU1ub1ljdzJ3aV9sWQ?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "‘AI로 인류 종말’…구글·MS 떠난 소아레스",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QTHRzdGxmZHI4bVNkM2xJNFY5dDdabmJIUUVUMTV2ekk3dHBlcmstQTFsQmE2anVzaDVKX1o5T3FqWk5rckZNUVdCRlFfRE1TSFBlanF3aTZSY3RRTDZmRVhIRU1ub1ljdzJ3aV9sWQ?oc=5"
+      "kw": "삼성전자, AI 데이터센터 수요 최상단으로…K",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XckRscUFZUkVjTTlyWW9pMHVuamlaalFiMjJoS0N6NHRMNEkyTUJrMTZzVDY0WGlVMnNnbEdiNDhDYl92LUlFdWt6aGFuNVE?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "아이폰 600",
-      "delta": "▼ 3",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2b0xHNmZ6Z211V2ZVcjVtU1BKOE8ydlRSenZLS3QzM3ZjMGJsY05wa3R2dUk5anFNNVNVaXlKR19DQk5jd0dHdUJLa3JsM290MFJFd0otXzctdw?oc=5"
     },
     {
@@ -44,34 +44,34 @@
     {
       "rank": 6,
       "top": false,
-      "kw": "아이폰18",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3RENWRvWGp1T1hRX3BIWFBGUUxvcWlfZE53THdqTEFPNzJpSTB0dzlaSWxaRkFTQlZEdHN6VktNMDBCTTNJVFhid3h3RmQ1WWdNcDc0QTRDQXJpYjlxT0QyNDZjaWcyWEtjdm9IWXZ5U1dySER6OFU2SlN0aEZkekpB0gGWAUFVX3lxTE5HaXZCX2lNeTlpRUZDeUp0cEFnaEpQWUtMVUNTaU05bVVmaHowNmVkb0xNakhqd3JRWnprNExQQzFiQ0dudzZDcHJsN1ZPTmp0V0VISFRCVlBSUFhGXzNyeGtjVDl0VEROX19Jc3NXMzVBYktOWnNrWVhha2VIdXl6S0tDZnN0Y1ctX1dSQ1IwTHlGaUlFdw?oc=5"
+      "kw": "마이크론 · 예상 상회…AI 데이터센터 매출 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtemRxekZNSXpLeE5wNXJIOFR6alBxMUpxa1JnV1RGcXU3cl80b3YxbzJDc3JaRkJpRXU5Z3FpNDczUjdkeFIwLXdZNEVFSTJJYzZLc3kyTkRkTEl3bFd6OW5uNFBYTjDSAWxBVV95cUxQaTV4ZDdXN3I4OEQxenJ4LTBKNDJlYldELU1DQjlOdC1QZEF6bHRFVktJM2hvQVdIaVItWkFlYUJDU0R1MENMRWFGZFB1QWRwZG4tRmlhMVhQZG5fdDZieXZPWkxPY3BXREUzM3Q?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "\"아스트라급 지능을 5분의 1 에\"…오픈AI,",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zMVZyOTFucndmMEtvNGtXcmZocjhvN3J5bFpGbEUtOHhGMjB4MHNlN0xpdllENXR5TW90QXExOVMycWV0WWRSbWpPTVZTTXVYUnl6RTExYU1rV0FkV2dyRU1GOUhaMGJyckE?oc=5"
+      "kw": "아이폰18",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3RENWRvWGp1T1hRX3BIWFBGUUxvcWlfZE53THdqTEFPNzJpSTB0dzlaSWxaRkFTQlZEdHN6VktNMDBCTTNJVFhid3h3RmQ1WWdNcDc0QTRDQXJpYjlxT0QyNDZjaWcyWEtjdm9IWXZ5U1dySER6OFU2SlN0aEZkekpB0gGWAUFVX3lxTE5HaXZCX2lNeTlpRUZDeUp0cEFnaEpQWUtMVUNTaU05bVVmaHowNmVkb0xNakhqd3JRWnprNExQQzFiQ0dudzZDcHJsN1ZPTmp0V0VISFRCVlBSUFhGXzNyeGtjVDl0VEROX19Jc3NXMzVBYktOWnNrWVhha2VIdXl6S0tDZnN0Y1ctX1dSQ1IwTHlGaUlFdw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "LG엔솔·LS일렉트릭·LS전선...AI 인프라",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RRFVIVHFha29fdF9aV1ZwY01rYVJ2VWpZb0JVbW5zOUxsMzhfNmNwczAwNFdIeFpQUjZJTmZNdk5qYV9Ec2c?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "'엑추에이터 아니네'…현대차그룹 피지컬AI 핵",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWElHUFl5UVBwNGwtSXZwTGpnUlZpZ0JWYzFFWmdMYTU4allRSVd4WFdYWWY5SFVPRHRQWG9xcVRJZE90QkE?oc=5"
+      "kw": "SFA, 레인보우로보틱스와 '로봇 기술 공동개",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUtNQ2VGYkl4TGhQd2h2RWJFZlZvdHY2N1NDNVVIMWFWY2RBQjBMQV9YcHUzQkxNMzhkUHFhSmh0Z19MZ2h1U1RpaHhjUEtkRVFBN0JVbzhiTXN5TFY5R0c4Q1NGWmYyZUZzMlBGU3BpendlUVN6dTdCUUc4NU0waQ?oc=5"
     },
     {
       "rank": 10,
