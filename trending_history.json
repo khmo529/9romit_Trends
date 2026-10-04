@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-10-05 05:15",
+  "updated_at": "2026-10-05 08:20",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "테슬라",
-      "delta": "▲ 3",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwQTZkbFU3aE82ZGFwaHY0NUo4VHlaRlhDRzFjekZ1b1ZTYmFDWjlhUkYzeXUyb0JacF91SjRmRnd0NFlWSXVqdjk5WVhBRVJiQ2xDUno3ZHZ6dw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "AI, 비밀번호 5번 틀리면 잠기는 것 알고 ",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54ODBLMjBRTmxKbDVDM1NELTlpWFNKd3BZM3d0ZURELW9CVmRBWHNDcFE5M09jZHNVdEZpZ3h3Z2MyZGhzWWx4OHJOay1kRjg?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "\"10월 코인 왕좌는 누구?\"… AI 모델들,",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUZnbWliSUt4LUwwVmFTbnBxYjE0RGpMYXNoSXFDbU5OX3lKcEhSbWNqMkhkZWx3U040UFZaTGpSaHpPcnpNdFdqYUdVRVFvbFJGODZUUHl6dE9RLUVVazh1N1FOQk1kR0w5Y0IyRUpkSDN1UHhKZmMxN3dtSE1aVDhkc3prVlU?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "\"놓친 늑대 세는 법, 버그 찾는 데도 통할까",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDVPYlhhUFFRQmZUajdjSXZuaXJSRDEzaUxvVUQ3WlFPZ0N1SXk2M3pNTHh1bThPa1dkZnAwSkpScWY2R3J4eGlUQUxuV1BOQlZDNFEwbDBhdk9oaFhwN1R0aDdHVnhLeWg0RF9rbkU4SmV0NUNDSWt5dmR5WXF6cTZMTQ?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "8700조 쏟아붓는데… AI데이터센터, 전력·",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNVhoTXNPVXJZVFFtV2dXY0VnODVFcG5zbWh6TE42V0tXSkp5Mk1hdXlGc2MzSXFiSFRSTzFNWmZnWDBiZXVoSVZrejFlcmM?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "오픈AI 내부 모델, 종료 일정 알아채고 '생",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObDEzblMyVWJ6NWluVkpMMlpyZDM0NkdUUHVUQUlfS21VOG9jMlJJbFFaOGphbUJHVUN5YUcwU1BFTEVOb0doUEt3U0ljeE11NkgyMU9SQURKVldaSGY2RTdNRVAwaVhDYVE?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTVBQTXBhLVMzMVhOTFJmcktZeUZJNFVtZ3U4NE5GM0VxRl9pRUV6d3JUMU9sQmZrSUJHTk9HUm9zZUZwcFdmd3VVQjRUNXdiWVdsb2FR?oc=5"
+      "kw": "지상전에 로봇 대세…우크라, 러에 빼앗겼던 영",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpeFJMRWZlUWdxcGdKaEdzMGQ0T1FKM1Q2NndvMDg0VjFJNE1BZUNTOENaMFlVT0sya0JXSy1aUjBNdHNfRnI4Y2lWREFsWVh1eDBBeW9MczI2aVXSAWBBVV95cUxPbmlyZ3VBc3pmNG45M0tHOFNWQ3hwaVJybk81XzQxLTk0MUdHT1FaWHVGRVJYYmk4MHdfZzFtbFBYV1R2aFNyVzN4ZWpQNkRTQml1YzJXUGU2eEdjRjdZUGk?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "“AI 전력 확보”… 美 빅테크, 원전 장기고",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Y2xtaVIwaksxbWVzcFVmUWZXY010YlQ2OVBGcWdCSl9fTWNNSjc4NlNOUXZ1M2xmUVhOZUxja055czRDc1JkVEJEanY1ZHc?oc=5"
+      "kw": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTVBQTXBhLVMzMVhOTFJmcktZeUZJNFVtZ3U4NE5GM0VxRl9pRUV6d3JUMU9sQmZrSUJHTk9HUm9zZUZwcFdmd3VVQjRUNXdiWVdsb2FR?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "지상전에 로봇 대세…우크라, 러에 빼앗겼던 영",
-      "delta": "▼ 3",
+      "kw": "“AI 전력 확보”… 美 빅테크, 원전 장기고",
+      "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpeFJMRWZlUWdxcGdKaEdzMGQ0T1FKM1Q2NndvMDg0VjFJNE1BZUNTOENaMFlVT0sya0JXSy1aUjBNdHNfRnI4Y2lWREFsWVh1eDBBeW9MczI2aVXSAWBBVV95cUxPbmlyZ3VBc3pmNG45M0tHOFNWQ3hwaVJybk81XzQxLTk0MUdHT1FaWHVGRVJYYmk4MHdfZzFtbFBYV1R2aFNyVzN4ZWpQNkRTQml1YzJXUGU2eEdjRjdZUGk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Y2xtaVIwaksxbWVzcFVmUWZXY010YlQ2OVBGcWdCSl9fTWNNSjc4NlNOUXZ1M2xmUVhOZUxja055czRDc1JkVEJEanY1ZHc?oc=5"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "‘터미네이터’ 슈워제네거 제안대로…AI 로봇,",
-      "delta": "▼ 2",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjMVpJaElWS2NVRFJGaDBnOW5HWXRBYTNqSTc5NFZ6Ymk3T3ViVGlkNVMzWThyWDJGOXRJV0ZEOVMxWUQ5WkZseF9OR1dhdmh0STBmRTh2WFRrWjZmekEzR09JYUs5STczM1NB?oc=5"
     }
   ]
