@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-04 15:05",
+  "updated_at": "2026-10-04 21:36",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "‘터미네이터’ 슈워제네거 제안대로…AI 로봇,",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjMVpJaElWS2NVRFJGaDBnOW5HWXRBYTNqSTc5NFZ6Ymk3T3ViVGlkNVMzWThyWDJGOXRJV0ZEOVMxWUQ5WkZseF9OR1dhdmh0STBmRTh2WFRrWjZmekEzR09JYUs5STczM1NB?oc=5"
+      "kw": "“로봇 늘수록 사람 더 필요”…포드 CEO가 ",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nQUtFd09yRUtCYzlCTzhvQXE5bkNVUHRqQkRidlRwNnR4SWVNRk5NY21ET1VDNDd1YU5pTEdueHlOUlhsOFE?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "“로봇 늘수록 사람 더 필요”…포드 CEO가 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nQUtFd09yRUtCYzlCTzhvQXE5bkNVUHRqQkRidlRwNnR4SWVNRk5NY21ET1VDNDd1YU5pTEdueHlOUlhsOFE?oc=5"
+      "kw": "‘터미네이터’ 슈워제네거 제안대로…AI 로봇,",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjMVpJaElWS2NVRFJGaDBnOW5HWXRBYTNqSTc5NFZ6Ymk3T3ViVGlkNVMzWThyWDJGOXRJV0ZEOVMxWUQ5WkZseF9OR1dhdmh0STBmRTh2WFRrWjZmekEzR09JYUs5STczM1NB?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "\"10월 코인 왕좌는 누구?\"… AI 모델들,",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUZnbWliSUt4LUwwVmFTbnBxYjE0RGpMYXNoSXFDbU5OX3lKcEhSbWNqMkhkZWx3U040UFZaTGpSaHpPcnpNdFdqYUdVRVFvbFJGODZUUHl6dE9RLUVVazh1N1FOQk1kR0w5Y0IyRUpkSDN1UHhKZmMxN3dtSE1aVDhkc3prVlU?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "‘충직한 AI’가 일으킬 반란",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2dRREdZbEpwaHlCMVlkcEpVRFBpU2xDZEdrN1NyYktPY082RUZHak5lcjhtXzBDQ2NzSERxVlBUWG5XVkZJWklIbXFsdnBubDJ5amozQXJCanktS043d01QMHpIM08wbUV3NGNXQzMxYWhFNDRnVGFhN1dKazBnTERsNnpWd3NPeGhLTkNLMF9XQ0ta?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "테슬라",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5"
+      "kw": "오픈AI 내부 모델, 종료 일정 알아채고 '생",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObDEzblMyVWJ6NWluVkpMMlpyZDM0NkdUUHVUQUlfS21VOG9jMlJJbFFaOGphbUJHVUN5YUcwU1BFTEVOb0doUEt3U0ljeE11NkgyMU9SQURKVldaSGY2RTdNRVAwaVhDYVE?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nd1A5eEptbUhxMTA4NlRURVJjNjJTNy1fck1HSzRyOXFRUUNvaGFyUmNKV1Y4dUFLaDk0X1hOaGIzT3p2Mml3dU1rT0ZqUV94a0RNbDNQcEFVc2hXRFpkbU1TNUNuWFJjTXc?oc=5"
+      "kw": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는",
+      "delta": "▲ 4",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTVBQTXBhLVMzMVhOTFJmcktZeUZJNFVtZ3U4NE5GM0VxRl9pRUV6d3JUMU9sQmZrSUJHTk9HUm9zZUZwcFdmd3VVQjRUNXdiWVdsb2FR?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "일반 PS5 생명 연장, 프로에만 있던 'AI",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kMDk5dEVRMkRqeVBTWFA2ZjdIRGJROWFGR0JRUTlSb1lnWTgza0YtdU1mWTdxbzhMN1dNSjJyN0htSGg5bWMwS1FrR2paMG5TZThSWHRIa0x5dGlhd1E?oc=5"
+      "kw": "테슬라",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "'모두의 AI'가 일상을 바꾼다…어떤 변화 생",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fd2lZQ181NFMzQmRLV0stMDJOb0Riay10UUFKQ0J2c0xlQ3M2VWNzek5XWDZhTl9LaDRtR2xwSUs1ZG1NczhpVHBBMDhWWjZ3bWVZRGlR?oc=5"
+      "kw": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' ",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nd1A5eEptbUhxMTA4NlRURVJjNjJTNy1fck1HSzRyOXFRUUNvaGFyUmNKV1Y4dUFLaDk0X1hOaGIzT3p2Mml3dU1rT0ZqUV94a0RNbDNQcEFVc2hXRFpkbU1TNUNuWFJjTXc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "아이폰 듀오 생산 난항에 거센 비판…\"이럴 거",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkT0U5d3ByUm5neUU2Q2s5ZXgwWGhaQ3JTTnJpSkRqM3pLeEZ6Y1lmSmt4d3dNY2lIaHZra1I4eHRLN2xNNk53RzZzLXhWaEFZWWlQdFRR?oc=5"
+      "kw": "“새끼손가락 묶고 하루 일해봤더니”…휴머노이드",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb3M2aFBHUnVoWUNBSzdPNmVXSHNBc3Z2ZmFWSDhUZ2plelh3d2RFVTk2aHRUajZMVjB2MUUxeFpHU2pEYmdPb3JDblU1dHdBVkRjVUhkVDFjd9IBX0FVX3lxTE1obXFqVEpUOURFM2o1UmtOOUtIbFFhdUxpQ1FMRU9lVXhmVHRkVHRpdEJwZ1B3a2Y3WVFIWWtfTlZUd1g5M1pXOGRkelZOQnlxZEpHOXZqMjZxOGg1dy1Z?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTVBQTXBhLVMzMVhOTFJmcktZeUZJNFVtZ3U4NE5GM0VxRl9pRUV6d3JUMU9sQmZrSUJHTk9HUm9zZUZwcFdmd3VVQjRUNXdiWVdsb2FR?oc=5"
+      "kw": "일반 PS5 생명 연장, 프로에만 있던 'AI",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kMDk5dEVRMkRqeVBTWFA2ZjdIRGJROWFGR0JRUTlSb1lnWTgza0YtdU1mWTdxbzhMN1dNSjJyN0htSGg5bWMwS1FrR2paMG5TZThSWHRIa0x5dGlhd1E?oc=5"
     }
   ]
 }
