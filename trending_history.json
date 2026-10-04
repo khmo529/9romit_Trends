@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 06:32",
+  "updated_at": "2026-10-04 09:12",
   "keywords": [
     {
       "rank": 1,
@@ -36,50 +36,50 @@
     {
       "rank": 5,
       "top": false,
-      "kw": "키보드계의 회전초밥 등장이오, 구글의 미친(P",
-      "delta": "▲ 1",
+      "kw": "테슬라",
+      "delta": "▲ 2",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UWmNTSnNvYUR3U1IyWkhaRVFFVFFqRVRUMURaeVd3NkZtdEFGQ29zU2xldG5IeXdNRGZ6VFNZN0pTY2U2TlB4UnNlZEstRzduVTZMMXVuano0aF81ckE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "\"현대차가 일찍 찍었다\"더니…'2.7조→13조",
+      "kw": "AI '생각의 사슬' 무력화되나…'순환 깊이'",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfTl81U2lsRFJGTmRlSVFNU2JJSzBBTVdVcVBpNVdPVmRsbWJwNmxBTmdTal9GMTNCMkVGNnlfdDVyUWF6LUpHOVM2SFk2a0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGdDByQWlWZmlEb0dpQi1oelV6OVJEYXJOVVBmenEwVEpVaU0xOFhEQ3BlMjI1cFdENzJiNDVER2xlTWFJb3dVeWZCT2wzby1USGVFczZBLW5ud3lRcHhpRURjTktUWEJjWnc?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "테슬라",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5"
+      "kw": "키보드계의 회전초밥 등장이오, 구글의 미친(P",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UWmNTSnNvYUR3U1IyWkhaRVFFVFFqRVRUMURaeVd3NkZtdEFGQ29zU2xldG5IeXdNRGZ6VFNZN0pTY2U2TlB4UnNlZEstRzduVTZMMXVuano0aF81ckE?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "아이폰 듀오 생산 난항에 거센 비판…\"이럴 거",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RTlpvaDhZU2xSV1ZZZUdlTUlhT2RCcVN4eWx4dy1lZloxekhENXM4bHpDbFVLX1FXdDBmeVFIRnZwcldUWWc?oc=5"
+      "kw": "\"현대차가 일찍 찍었다\"더니…'2.7조→13조",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfTl81U2lsRFJGTmRlSVFNU2JJSzBBTVdVcVBpNVdPVmRsbWJwNmxBTmdTal9GMTNCMkVGNnlfdDVyUWF6LUpHOVM2SFk2a0E?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "'모두의 AI'가 일상을 바꾼다…어떤 변화 생",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fd2lZQ181NFMzQmRLV0stMDJOb0Riay10UUFKQ0J2c0xlQ3M2VWNzek5XWDZhTl9LaDRtR2xwSUs1ZG1NczhpVHBBMDhWWjZ3bWVZRGlR?oc=5"
+      "kw": "아이폰 듀오 생산 난항에 거센 비판…\"이럴 거",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RTlpvaDhZU2xSV1ZZZUdlTUlhT2RCcVN4eWx4dy1lZloxekhENXM4bHpDbFVLX1FXdDBmeVFIRnZwcldUWWc?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "서울대·KAIST·연세대에 ‘AI 통신망’ 깐",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjR3b2xYOWFBQTg0OWlqUi1xMVR2WGdZMzZsbnR5SXM0Rm1sRzJ1TjhzZzBjQjZtbENabmtQT1ozMU50Wkc1a3dVRWowa2I4cEFONHNvUHdQcVdiWTVDLVVVS2w0ODlqenU0ZndGOHpRdmM2WlZja2ZsSkVxc1VEMw?oc=5"
+      "kw": "'모두의 AI'가 일상을 바꾼다…어떤 변화 생",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fd2lZQ181NFMzQmRLV0stMDJOb0Riay10UUFKQ0J2c0xlQ3M2VWNzek5XWDZhTl9LaDRtR2xwSUs1ZG1NczhpVHBBMDhWWjZ3bWVZRGlR?oc=5"
     }
   ]
 }
