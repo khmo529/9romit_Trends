@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 18:17",
+  "updated_at": "2026-10-06 03:37",
   "keywords": [
     {
       "rank": 1,
@@ -20,13 +20,21 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "“클로드 맥스 누구나 한달간 무료” 신청했더니",
+      "kw": "LG전자, 美서 5GW 규모 AI 데이터센터 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNkRaVEZDRXlCenpVcUU1YTZmQ1ZvTDcwX0ZFQllSWkdHMENWNDd6bEZoeG5GQVpaTVlBNENpeUQyTUdEb01lOXlFOURsQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpsZVc2eXhZOUVGNVZFS3FUYmlTX0t3Yzk1azhWVVdlNmxHWUozUUdySDBpQTZVaVgyZVQwVlZzcVV4TW5MdW5ZMkdjWFlsOWFVR0lFb0h5ZUNfS2ZES0RzenEwaUNiMGVxdENCaUplbHdvdkdVNGFQZTBicW1xQlJwUQ?oc=5"
     },
     {
       "rank": 4,
+      "top": false,
+      "kw": "\"소버린 AI 한다더니\" 공무원용 AI에 외산",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2syTXZzeW15b0poSnl4ZDNBWFlreExZR0NFUE5CTUxwX1Q2V3IwR0tXYkxqQW5tY2xzR2RVcU1nd2VMUENxQ0tWSWdqTmh6cFdNNWdrazMtTDNuMVNWeGF1SzNQWXpTWHd0Z1l2YWNwXzNvdUIxNm1sbHFZemVGUVo3MA?oc=5"
+    },
+    {
+      "rank": 5,
       "top": false,
       "kw": "\"10월 코인 왕좌는 누구?\"… AI 모델들,",
       "delta": "▼ 1",
@@ -34,52 +42,44 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUZnbWliSUt4LUwwVmFTbnBxYjE0RGpMYXNoSXFDbU5OX3lKcEhSbWNqMkhkZWx3U040UFZaTGpSaHpPcnpNdFdqYUdVRVFvbFJGODZUUHl6dE9RLUVVazh1N1FOQk1kR0w5Y0IyRUpkSDN1UHhKZmMxN3dtSE1aVDhkc3prVlU?oc=5"
     },
     {
-      "rank": 5,
-      "top": false,
-      "kw": "\"놓친 늑대 세는 법, 버그 찾는 데도 통할까",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDVPYlhhUFFRQmZUajdjSXZuaXJSRDEzaUxvVUQ3WlFPZ0N1SXk2M3pNTHh1bThPa1dkZnAwSkpScWY2R3J4eGlUQUxuV1BOQlZDNFEwbDBhdk9oaFhwN1R0aDdHVnhLeWg0RF9rbkU4SmV0NUNDSWt5dmR5WXF6cTZMTQ?oc=5"
-    },
-    {
       "rank": 6,
       "top": false,
-      "kw": "지상전에 로봇 대세…우크라, 러에 빼앗겼던 영",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpeFJMRWZlUWdxcGdKaEdzMGQ0T1FKM1Q2NndvMDg0VjFJNE1BZUNTOENaMFlVT0sya0JXSy1aUjBNdHNfRnI4Y2lWREFsWVh1eDBBeW9MczI2aVXSAWBBVV95cUxPbmlyZ3VBc3pmNG45M0tHOFNWQ3hwaVJybk81XzQxLTk0MUdHT1FaWHVGRVJYYmk4MHdfZzFtbFBYV1R2aFNyVzN4ZWpQNkRTQml1YzJXUGU2eEdjRjdZUGk?oc=5"
+      "kw": "“클로드 맥스 누구나 한달간 무료” 신청했더니",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNkRaVEZDRXlCenpVcUU1YTZmQ1ZvTDcwX0ZFQllSWkdHMENWNDd6bEZoeG5GQVpaTVlBNENpeUQyTUdEb01lOXlFOURsQQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "6만명 몰린 AI축제, 더 커져 돌아왔다…'A",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZlZqMlExN0NUSHRlTVpDbGltMWlIRVVEWmw4SEhxV2htREpGUFVIcTVHY2RmNm96Vk9BNTlMcWI0N2d6Y2o1RmNQbGh6WlBoa2x5akNn?oc=5"
+      "kw": "\"놓친 늑대 세는 법, 버그 찾는 데도 통할까",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDVPYlhhUFFRQmZUajdjSXZuaXJSRDEzaUxvVUQ3WlFPZ0N1SXk2M3pNTHh1bThPa1dkZnAwSkpScWY2R3J4eGlUQUxuV1BOQlZDNFEwbDBhdk9oaFhwN1R0aDdHVnhLeWg0RF9rbkU4SmV0NUNDSWt5dmR5WXF6cTZMTQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "박정호 \"AI와 로봇 발전의 끝은 결국 우주,",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2tUVERsQXAwaGxaQU44RTJQUWx5ck1TMnZlQTMzcTJwSFVtVGhBOGhOMElpVFZNcTFYazMwc3J1YVpnV1ZMdHRieW5NRVFvejlDSGctbS1FcUxKMzVXbUJ0d1M3NXlZOUJSaG44MmNfQ2xPMGNjdWRjczhLSkJoOA?oc=5"
+      "kw": "6만명 몰린 AI축제, 더 커져 돌아왔다…'A",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZlZqMlExN0NUSHRlTVpDbGltMWlIRVVEWmw4SEhxV2htREpGUFVIcTVHY2RmNm96Vk9BNTlMcWI0N2d6Y2o1RmNQbGh6WlBoa2x5akNn?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "8700조 쏟아붓는데… AI데이터센터, 전력·",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNVhoTXNPVXJZVFFtV2dXY0VnODVFcG5zbWh6TE42V0tXSkp5Mk1hdXlGc2MzSXFiSFRSTzFNWmZnWDBiZXVoSVZrejFlcmM?oc=5"
+      "kw": "삼성·현대차 로봇투자 나섰지만 … 韓로봇 생태",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndDdlU3BwZXd1N0gwUG1CajhIRGxXRDgzNkp2MHJhSkYxTlhVdUhUTk5kU0VXTW90QjF1bHN3QmlwVUUxMUo0QXQyNkxOYzg?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTVBQTXBhLVMzMVhOTFJmcktZeUZJNFVtZ3U4NE5GM0VxRl9pRUV6d3JUMU9sQmZrSUJHTk9HUm9zZUZwcFdmd3VVQjRUNXdiWVdsb2FR?oc=5"
+      "kw": "지상전에 로봇 대세…우크라, 러에 빼앗겼던 영",
+      "delta": "▼ 4",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpeFJMRWZlUWdxcGdKaEdzMGQ0T1FKM1Q2NndvMDg0VjFJNE1BZUNTOENaMFlVT0sya0JXSy1aUjBNdHNfRnI4Y2lWREFsWVh1eDBBeW9MczI2aVXSAWBBVV95cUxPbmlyZ3VBc3pmNG45M0tHOFNWQ3hwaVJybk81XzQxLTk0MUdHT1FaWHVGRVJYYmk4MHdfZzFtbFBYV1R2aFNyVzN4ZWpQNkRTQml1YzJXUGU2eEdjRjdZUGk?oc=5"
     }
   ]
 }
