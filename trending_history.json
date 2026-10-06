@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-06 15:39",
+  "updated_at": "2026-10-06 22:44",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "\"AI, 이대로 가면 인류 멸망 엔딩\"…섬뜩한",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OFMwOHJRU3NicUUyN1hFOFBuX1BLRFZLUzJYX0dnVUNJMl9JS19xcW11aUVpU0VqdHRHWnVmV2NDd091eXBKRnpCSlJXcnBCMlJFcHBLM2pTZw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "AI 해킹 한 방에 뚫린 위챗… 미국이 중국에",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFpYVWtlbEpzczRGNGU0eVBybjdFTkdxUHdQWnhpMFlEQ1FWSHloek42ckdWdlVxckpmaFlpVGhjWk5VSFVUNlY3d2JnSlR4Z2tJR3pzeTFabWdFOWowR21aS25FaV9jU1B4YW9sU1ZDVVUzd3ZUcG1NOVd5N3lMUG1Sc3AwY2tS?oc=5"
+      "kw": "국감장서 악수하고 춤춘 中 로봇… 배경훈 \"우",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalU2LUhBNFRCWHpnVUk1dVZZNmY0TGNlU1FzcWpiTXlESkR2LWxPSWlrWXpmNjU3UUtUdXBwNHpidGNhX29ZM3RRZUlsS2Rkb3RhcFo3SXQySm5NT0ZMOVpYdjZ0Nk5NcERuUjQwTjZkRHZyemlpVkpiRkVpSVJJR2hZUQ?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "LG전자, 美서 5GW 규모 AI 데이터센터 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpsZVc2eXhZOUVGNVZFS3FUYmlTX0t3Yzk1azhWVVdlNmxHWUozUUdySDBpQTZVaVgyZVQwVlZzcVV4TW5MdW5ZMkdjWFlsOWFVR0lFb0h5ZUNfS2ZES0RzenEwaUNiMGVxdENCaUplbHdvdkdVNGFQZTBicW1xQlJwUQ?oc=5"
+      "kw": "AI 해킹 한 방에 뚫린 위챗… 미국이 중국에",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFpYVWtlbEpzczRGNGU0eVBybjdFTkdxUHdQWnhpMFlEQ1FWSHloek42ckdWdlVxckpmaFlpVGhjWk5VSFVUNlY3d2JnSlR4Z2tJR3pzeTFabWdFOWowR21aS25FaV9jU1B4YW9sU1ZDVVUzd3ZUcG1NOVd5N3lMUG1Sc3AwY2tS?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "고속도로 '노는 땅'에 AI데이터센터 짓는다",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mbnAtY1UwMTNycDRJNjE0ZUJ2OGdEU2lLdlpTZ1pmNWlOMjFFbnkzRWlrNHJSN1JFa3J1T3NNd2QtM0VfWmRVOEZqSjhhQWVUQjc2OFRpSWpFZw?oc=5"
+      "kw": "LG전자, 美서 5GW 규모 AI 데이터센터 ",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpsZVc2eXhZOUVGNVZFS3FUYmlTX0t3Yzk1azhWVVdlNmxHWUozUUdySDBpQTZVaVgyZVQwVlZzcVV4TW5MdW5ZMkdjWFlsOWFVR0lFb0h5ZUNfS2ZES0RzenEwaUNiMGVxdENCaUplbHdvdkdVNGFQZTBicW1xQlJwUQ?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "6만명 몰린 AI축제, 더 커져 돌아왔다…'A",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZlZqMlExN0NUSHRlTVpDbGltMWlIRVVEWmw4SEhxV2htREpGUFVIcTVHY2RmNm96Vk9BNTlMcWI0N2d6Y2o1RmNQbGh6WlBoa2x5akNn?oc=5"
+      "kw": "고속도로 '노는 땅'에 AI데이터센터 짓는다",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mbnAtY1UwMTNycDRJNjE0ZUJ2OGdEU2lLdlpTZ1pmNWlOMjFFbnkzRWlrNHJSN1JFa3J1T3NNd2QtM0VfWmRVOEZqSjhhQWVUQjc2OFRpSWpFZw?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "금융사 7곳 해킹, 중국 AI 때문? \"틀렸다",
+      "kw": "방어에 14억 쓰는데 커피 한잔값에 뚫려 …'",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40OGVLSFR2UmxQOFAwOFE2MDNhTzJTcjVIbDlYR1FCYzR2YnlQWGxyNHZ1R0Q1RGZfQWVRSXluZ0dyRjVmWjEtQ1J5Q1gxZzVXaVAxQg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBY0hhWXFFWHVYRUFnQW4waW9NSFJrYnR5QlR6azhwY0Z1Y0JEYXdTcklXbk94aUtFV3NBamEwSnZyelFLTTlUQW9ydHJReHBIMFE?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "테슬라",
-      "delta": "▼ 6",
+      "kw": "6만명 몰린 AI축제, 더 커져 돌아왔다…'A",
+      "delta": "▼ 2",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwQTZkbFU3aE82ZGFwaHY0NUo4VHlaRlhDRzFjekZ1b1ZTYmFDWjlhUkYzeXUyb0JacF91SjRmRnd0NFlWSXVqdjk5WVhBRVJiQ2xDUno3ZHZ6dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZlZqMlExN0NUSHRlTVpDbGltMWlIRVVEWmw4SEhxV2htREpGUFVIcTVHY2RmNm96Vk9BNTlMcWI0N2d6Y2o1RmNQbGh6WlBoa2x5akNn?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "구글, 'AI 프로' 국내 한정 40% 할인.",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45TjdJZkVJazhhcG5URXlzdGV0cHN2WHYyM3lIR2wzaEZkVkUxVFgtclVwMXNfamVBSUpRc0RPWEpUUFVZT1FZT1hkRjdyQlBhQzZWT3drT3lYOWxDQWNjQy1TU3ZMVTV1Umc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "‘최종진짜최종v3’ 파일 넘치는 회사, 똑똑한",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFZdENKcllrTzdobjNsWjlVcWFremJwbjE0UlRkdlFPcXBiU20tYWZ1UGFGRDVOQVFCZmN3M3M5LVVNSTVtY1BVRm1lSTk0WmVYdnBxalVjbzZGcFZzRFRqQU95aUc2TGlvTlpLbUh1bXZSckN3UVJ3X0NnRW5PX0JaUQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "\"놓친 늑대 세는 법, 버그 찾는 데도 통할까",
+      "kw": "한미반도체, 삼성전기서 245억 장비 수주..",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDVPYlhhUFFRQmZUajdjSXZuaXJSRDEzaUxvVUQ3WlFPZ0N1SXk2M3pNTHh1bThPa1dkZnAwSkpScWY2R3J4eGlUQUxuV1BOQlZDNFEwbDBhdk9oaFhwN1R0aDdHVnhLeWg0RF9rbkU4SmV0NUNDSWt5dmR5WXF6cTZMTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWWlOQWFFYUIyeDc4aTVsaWpkRmFRYXJrQ3V4emhUMEFoSHhkNnVVZFNNVUVwektYM2hRSDYzWmczaDllRDB3QkJVU2huVkRka2FWXzYzRzRkOFNTYXlsYWVDc2NReFEwT0JWeFY2VFFUVDJXbmprbDRIZWhrN2o2cnJJVQ?oc=5"
     }
   ]
 }
