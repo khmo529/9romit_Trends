@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 01:47",
+  "updated_at": "2026-10-08 06:41",
   "keywords": [
     {
       "rank": 1,
@@ -12,73 +12,73 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "로봇이 집 짓고 집안엔 AI 비서…건설의 미래",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRVVuRFpwamFaRW1LdjJjY3E4UVJhM3Z3NEZrb2puRTlneERDSkZnZWxNWmd3Vmg3NVpUYnZUOTZwSDMxS2xkMDNJY2g4Q2JPbWN1RG1vZjlLZw?oc=5"
-    },
-    {
-      "rank": 3,
-      "top": true,
       "kw": "테슬라",
       "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2toOHY0ZFI2MVZ6LVRUUnk5d0dwS2IxMVI4VXMtcDZhd0lJc1B4d2k0UUwwT0NDYnBNQnBEc19lYS1HQ2hZVFh5MzlUSm1LN3hnTFlVY0JUakR4V0FEZGNFVlVNUDd4MjFVdmljNGpISVV4QVE4U1haTFc0NnhjcklhUGTSAZgBQVVfeXFMTlZ3b3JrRF8wUW5MdGd3QmxldHhRTVFNZHlmQVVuc1c5aW10YWNXa2VpYVF3RjJfTndlTGdJSTZ0dl92dFBldi11Ry1YM3g3eUFvZEVKYjNkZXdGVHdtek5xVmliQTgxNy1OcEpROXlENmtlSVVvVHlIVWV2Ykk3V3RKd0lnbGFGdE9xUlJpeE81SzZIZkZ0b3A?oc=5"
     },
     {
+      "rank": 3,
+      "top": true,
+      "kw": "로봇이 집 짓고 집안엔 AI 비서…건설의 미래",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRVVuRFpwamFaRW1LdjJjY3E4UVJhM3Z3NEZrb2puRTlneERDSkZnZWxNWmd3Vmg3NVpUYnZUOTZwSDMxS2xkMDNJY2g4Q2JPbWN1RG1vZjlLZw?oc=5"
+    },
+    {
       "rank": 4,
       "top": false,
       "kw": "방어에 14억 쓰는데 커피 한잔값에 뚫려 …'",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBY0hhWXFFWHVYRUFnQW4waW9NSFJrYnR5QlR6azhwY0Z1Y0JEYXdTcklXbk94aUtFV3NBamEwSnZyelFLTTlUQW9ydHJReHBIMFE?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "매디슨 황, 11월 방한 확정…韓 과 '피지컬",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Sc085bnlObklsWWVaT0N1Vl90SUM4eFdiNldjTmxjdkt5cXRCM3FrNVpsZUdqaS1jQWR4a0JSTGJYdmxBeEpVdlZvSTd3dzVWV3A5dEFaa09mRWZTZlJpRjl4dFpCTFXSAWxBVV95cUxNdlR5TXpaVjBsWk92MTQ4eV82WF9sbUhZb0dkeWlZSFotMjZHUWlXdjRTRG1XcHczeHVxQ192N0xzVlMzMzNtbjNwc0Q4cjYwdUNBN1dvT2IzSDFyQ3BBLXpXQUlmTmlfUjFMelg?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "국감장서 악수하고 춤춘 中 로봇… 배경훈 \"우",
-      "delta": "▼ 4",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalU2LUhBNFRCWHpnVUk1dVZZNmY0TGNlU1FzcWpiTXlESkR2LWxPSWlrWXpmNjU3UUtUdXBwNHpidGNhX29ZM3RRZUlsS2Rkb3RhcFo3SXQySm5NT0ZMOVpYdjZ0Nk5NcERuUjQwTjZkRHZyemlpVkpiRkVpSVJJR2hZUQ?oc=5"
+      "kw": "AMD 리사 수, 삼성·SK 수장 잇따라 만나",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVVJZEpESzRLaXNScTZZVjI2ejN6VDZxVmFTSUxsSTdZU1pCdW1HbzN6YjdNRTNiVGFQbk1hQ0FJRW1CUy15ZnJ2YlBOYU9jUVNoRy1kc3pYN1NZZ2w0d1ppS2tCN3B4NVJ4TkVaQWtKc3VjNlFLdWtJNWgyMm1GNGphQQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "AMD 리사 수, 삼성·SK 수장 잇따라 만나",
+      "kw": "‘아스트로봇’도 PC에서 켜졌다…PS5 에뮬레",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVVJZEpESzRLaXNScTZZVjI2ejN6VDZxVmFTSUxsSTdZU1pCdW1HbzN6YjdNRTNiVGFQbk1hQ0FJRW1CUy15ZnJ2YlBOYU9jUVNoRy1kc3pYN1NZZ2w0d1ppS2tCN3B4NVJ4TkVaQWtKc3VjNlFLdWtJNWgyMm1GNGphQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UMXlnb2s4TVZvbjJITjJQSFJtSDJPd2hsbVdMb09uV2FjM0lIN1M0bEFrN3dwdTdVU3c0UGNJREdRV25wWVpQcFJOeE45M1dmbG93TlBXdmM2Qmlvd0E?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "갤럭시S27 울트라, 충전 속도 개선되나…\"5",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZR1VINEpZR0M0UzNCNzllRnNmTTdMT2FoRWNKbXZpek1IcWdNd08xZVMxWWdHVHVnVklpTTM4emhKamE0RUtCOHRQNVZGRDJhY2JRSWZR?oc=5"
+      "kw": "메타 ‘뮤즈’부터 오픈AI ‘닷츠’까지, 24",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJUVVSaHFCN3p2dHFUVTJJY3QyMExHMEhOOGdLVF8zUFZjeXo3VWU2Y2xXQmlNRHh0ejNYdGFhZmVvMXRSc3lZcmFHdUZPTlh2UEhz?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "\"베이조스가 믿는 AI 전문가\"..보스턴다이나",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TcHNocnY4cXhvS041cDJoMGEwenJTMFlHcUVDLVZvM3dIdmh5bVJVdnhEeGwwU3duS3NUN1dxLU91STlhSW83dGZHWllzb1VyRi1aWjNvUUxrSkdiODVQRzFfVVZyNGJKQ01fMdIBckFVX3lxTE1wVmdzSUpsS2N2ZnlaXzZWVmxRMG00RWEyMDY4UmhBQktBVV9DTml6enh0Qk5rUEJWMFRwX1pJVzBwMlNsQlJmNUpDVzlXQUY3RWRRRE03eFJFUHpkcTVyS3l2cXc2UGhWR29oeHAwaDcwdw?oc=5"
+      "kw": "갤럭시S27 울트라, 충전 속도 개선되나…\"5",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZR1VINEpZR0M0UzNCNzllRnNmTTdMT2FoRWNKbXZpek1IcWdNd08xZVMxWWdHVHVnVklpTTM4emhKamE0RUtCOHRQNVZGRDJhY2JRSWZR?oc=5"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "\"말 한마디면 알아서 척척\"…KT ‘모두의 A",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSFBXWmlkWExkZHcxZmN6SHVBNmEwYkw0U2ljWDNnNE5TQ1JPa2ZvRXJjVDVRS2dWN3NrbnpMalFaM1BPNS01N3NyaDBXNE9BeWxpZ0p3?oc=5"
     }
   ]
