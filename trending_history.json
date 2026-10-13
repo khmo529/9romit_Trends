@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-13 04:32",
+  "updated_at": "2026-10-13 10:42",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "엔비디아 GPU의 수명이 AI 버블을 결정한다",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVjJaTU11RFg3RmRMY3o1WUxCYm02eVZDTGxEdl9hMmdXVXExS0d0NzZvVWNaVDhqZ1FBWVJTUmJQcE1tQjlBY21CR0RYTXRkMDQtMXVmZkRFZw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "전기차 말고 AI·脫중국…새 동력 찾은 K배터",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wdVVKOVFLSU9VZWx2STVwdG1RbGNkUWVhbGcwVDNFbDdBVWFpTUttYzB1bnRaSHBsLTJQQ1RtTndVbXFldXhZNHR2d1UwMzM2eFRFSEVNbzFTZw?oc=5"
+      "kw": "갤럭시S27 ‘울트라 형제’ 프로 만든다…고가",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WekpFVjBTSEZlaWxIakRWWFh4MjdiTTA1akYwZHlEZlpjMFIxRHBpOVJpdC04VFdnQ1I3b0N4WWUwY1ZkcGEzUGNsWWlUdjlZWVdYaXVR?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "AI 병목 뚫는 ‘빛의 고속도로’… 美 주문 ",
+      "kw": "“모두가 연극 하고 있다”... AI 감속론 ",
       "delta": "▲ 1",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0h3VmZNdEVmeGJjSTdNUEhUV2tyUVRmbjlKaE9NNnI2NzZ5M19DdlQ1dFV0R3ltRl9IOFRBNFVvTVlUZUNQZWxld0t6WHR5YUIxaVM1ZnJ2YlU5UE1nTDFHcjEwR0tFNjVHeTJyQWR1emtFLUlvOWtmSHJVdmZULVdRYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVElTbXZRa0dvWnF2Y2pUYXo3TGZTWGRUN2ZtTTlCQjduakxPRFJWa2Q4NDRXbUt6cTUyZzdLWFBlZkFlRHkxVl93SzRhSHJNV194M0ZlbktLYmRzTHVHZkxyWTBaSUFTbWs1MFlvWEhxaFVGMjVmSUgydEhrbUYzYzBYaw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "“모두가 연극 하고 있다”... AI 감속론 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVElTbXZRa0dvWnF2Y2pUYXo3TGZTWGRUN2ZtTTlCQjduakxPRFJWa2Q4NDRXbUt6cTUyZzdLWFBlZkFlRHkxVl93SzRhSHJNV194M0ZlbktLYmRzTHVHZkxyWTBaSUFTbWs1MFlvWEhxaFVGMjVmSUgydEhrbUYzYzBYaw?oc=5"
+      "kw": "전기차 말고 AI·脫중국…새 동력 찾은 K배터",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wdVVKOVFLSU9VZWx2STVwdG1RbGNkUWVhbGcwVDNFbDdBVWFpTUttYzB1bnRaSHBsLTJQQ1RtTndVbXFldXhZNHR2d1UwMzM2eFRFSEVNbzFTZw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "\"갤럭시S27 울트라, 화면 확 바뀐다\"…3가",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUm51ZHFJdUUyaUdLX3hHbXVhSVJhRkQwX1NMb0tuTk13UkNEWjNCUXdYczJadkp3Yk13SnhIRmRjUHB6Vy1MenpXZ0g3TGRMSDA0NGx3?oc=5"
+      "kw": "메타, 오픈AI·앤스로픽에 도전장…최고 성능 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xbWdBRHpod0hadU9DR2o1aWttTHhkM0FOcC1jZmN2V3JQc1M1Tk1EUmYxUmphR2ZOaXVER2lseG4zNkxFb21XYWtLUmJ0QQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "\"갤Z폴드8이 90만원?\"…단통법 폐지 후 '",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YY3JCVjhZTGhhU1lZbk1WOG1wSUhSdVFaZDdLMmpTdVJzbUlUTHJDb3FGXzA0YjJ4R1AzWnNJNWxXd2EtYndUcGxlZWhnQklMSWNGLU5JVFlMUmlrT1ZfMjRXR0RRYkXSAWxBVV95cUxPakxlNDNsNEhBRlQ2bVc2V2JZdGtzUVMtN3lXWnVndFpCMlNkbG9oMWNNMmNsQ1F4dVRtdGp4c2lGQzRCUDhHQWNxV2ZENTFqcDhoRWc1RF9jazd1N3V4Q0ZDTmhBMEJVWVI3SC0?oc=5"
+      "kw": "구글, 네이버 석달째 앞섰다…챗GPT 1800",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW9jLU15TGVBZ2lHUnh3YTV3S05yWndMeEItZlpscTlfZ3YyU0laRldjalhVS09PNV94cTQ0cXE3XzZtemZPRXFtSW9ZVnp6Q0RJV1cwamNhZ04wNXlHYlVRSkE1VGVrRFd3aTN3MHZrOTJPX3RCaTkxeWtnSkQ1NA?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "구글, 네이버 석달째 앞섰다…챗GPT 1800",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW9jLU15TGVBZ2lHUnh3YTV3S05yWndMeEItZlpscTlfZ3YyU0laRldjalhVS09PNV94cTQ0cXE3XzZtemZPRXFtSW9ZVnp6Q0RJV1cwamNhZ04wNXlHYlVRSkE1VGVrRFd3aTN3MHZrOTJPX3RCaTkxeWtnSkQ1NA?oc=5"
+      "kw": "독일 길거리서 로봇이 10대 성추행…SNS 중",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTTUzOTZobzJlV3FPLUVxOVlXUzNNZTdwSW9pMHc1OWlEVHNHX3pJeFJjbnRBM2FQQzNTRmdjMkZtaFdhdElfdmIwYVU2UFRCZlhxQXFPZDBSRDg3YWlOUjJZMGdTdmM?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "AI 신약 설계부터 뇌질환 신약까지…빅파마가 ",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUM1UEJTU2U5Uk5OdDhjNXdpUVR2c1E1Nnp6VkZxRHhjSXJITnpmN2tmNC1hVExoZ0c0aEZuLUtFUlVpYjc0bDlfRUh2c0ZxUkhEZXdlT0lXdXpvWk93ckZXRlZBMW1mMkVCOTV6V2haRFRpbTQ3RW8xTm5PMWJ0em5pWEFEVGfSAZsBQVVfeXFMTWtidHM5UThQRmtIY0Y1bC1VR01OQkV3MWNVeXRCZmFLcHF1UlBfZHNVVXppZEJxZW5lMG9qVTJ6cV83SC1iOVBkZ25nM05pVFI0N1ZTSEljbjRwR3pJZVEzMkdvU3lwZ0M4eVZoTlVqRTRWV0RWTFk2b0xJV2JIXzR3alNjMU5scFBZcXNUTHR4ZGRtR2pHeGNPVE0?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "와인셀러에 와인대신 GPU...내 집 안 AI",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWUwV19DbEM1dS0yeVR4OG1zNkdFZTYwWjJEYTF5RWVTOTN5MDNYc1RIa2FrX21EajNuaFJ1elBSVVRUeTNOZDFKc2J5M0t1Ti1PeGlieUh1dFBfR0JYS19uejhrWGx2azd1cWNFSWU1Wm5BdXlxQmFudEo1NWJFVVlOZw?oc=5"
+      "kw": "테슬라",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KVzdIcDdaYnQ3SDh3amh5SFFfTmRaUkU2VUlBUUVBV0E2NUJadk00RThVNUtPQ2g3LVo3RmlfbVlqVG1vcGNDQ1NRZUF2SEZBNGNfMUNR?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "테슬라",
+      "kw": "NVIDIA GPU는 OpenAI의 GPT-6",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KVzdIcDdaYnQ3SDh3amh5SFFfTmRaUkU2VUlBUUVBV0E2NUJadk00RThVNUtPQ2g3LVo3RmlfbVlqVG1vcGNDQ1NRZUF2SEZBNGNfMUNR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqYVgwOEZtWG1UUFlwa083UzRwcGR6VnpKT0twTldkZHZNalZzQVMwams1NUdrT3dPNzhZbnEtSmgtRWF1R1BoN2NSdmVZWWR4VTZsNDFHSmRoYUlGVUowR01JYUtHeXhXc1QzTGpiNzUxN1Y4?oc=5"
     }
   ]
 }
