@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-15 04:49",
+  "updated_at": "2026-10-15 07:48",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "美 최대 반도체 장비 행사에서 아침부터 샴페인",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmhkczlKbGFWR2JsSkFRTWlWZGhhQ2ZrRTVsUjNYeTlQeUVobklSUW5FVjNMN01taUhnaTRHNEVJeElhQ0hNekFBMEhEUjdNZ0k2VUZ3YkNydkx2TUxycHFNMW95Y0VxSzQ2dFZ3czN3cW9Vc3Vhb1p2WGRxV0tWVTdtMA?oc=5"
+      "kw": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EYzJKUUFObk1ScU4zdXhsMGdDQl9LUlRXWmJiUWhjTHIxMi1kYTZxTk9jb0hmWWFkQzRhV1dlZjJWR0hvaUJva1VpY2tPV0VfcUxvREFGUUZDd2lnRWdINmtCYWFEeVl3SFE?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "\"아이폰, 단돈 200원에 팝니다\"…'눈물의 ",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GYVpsM2ZZcmg3RW9NZjkwN0hUakt0c0RZaWFfeDBuRUI4S21uVk9uVXVQaEE3SGpyR1dSUkZCYlhlbFhmTDBpS1VPQXY5T1BLOVB3blVkMXI5UQ?oc=5"
+      "kw": "LG전자, 애플과 AI홈 생태계 확장... I",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mM2ZIdXZUb1N5SlRUcjJsMGNNMUVHSmZDTll4QmhXVUxsem5Mb0pPd2VFbkphMGttN0JYU1dqUGswbm9aZ1pBanl0QVY5NVVFekgtSUVR?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EYzJKUUFObk1ScU4zdXhsMGdDQl9LUlRXWmJiUWhjTHIxMi1kYTZxTk9jb0hmWWFkQzRhV1dlZjJWR0hvaUJva1VpY2tPV0VfcUxvREFGUUZDd2lnRWdINmtCYWFEeVl3SFE?oc=5"
-    },
-    {
-      "rank": 4,
-      "top": false,
-      "kw": "LG전자, 애플과 AI홈 생태계 확장... I",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mM2ZIdXZUb1N5SlRUcjJsMGNNMUVHSmZDTll4QmhXVUxsem5Mb0pPd2VFbkphMGttN0JYU1dqUGswbm9aZ1pBanl0QVY5NVVFekgtSUVR?oc=5"
-    },
-    {
-      "rank": 5,
-      "top": false,
-      "kw": "엔비디아 \"LG와 피지컬AI 협력 고도화…곧 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zYXo0UWNZbUw4T0pfTWVjOWJNOWlVWk9KN2tOX3hIWmQyNXkzS2RBTGhrR0d2bnoxaVllZERsWXdwbGhNUk4ybFRpUGNWQXBkQm5UdFZ1TzR5dw?oc=5"
-    },
-    {
-      "rank": 6,
-      "top": false,
       "kw": "\"전 국민에 AI 에이전트 하나씩\"…카카오, ",
-      "delta": "▲ 1",
+      "delta": "▲ 3",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNbGpna1ZUTkN1WFBnOG9qbFdFVmtLVlRnWlB3b3otRFNHS1NzVGRKbk1DNGFteUc3VzJWQldvQlhyTF9tSlZGenlRblFhMkdkVk0tWEZ3?oc=5"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "top": false,
       "kw": "SKT·LGU+, 갤럭시·아이폰에 '5G SA",
-      "delta": "▲ 1",
+      "delta": "▲ 3",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BOVVkSTBxQi1oZU9OOWZmQUtIS251c0pPNjRsVGhNeEFXY1VYXzc0b2hIQW9VbjVtMnVEbXI5VGdYVlVRWlkzN2JoUQ?oc=5"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "top": false,
       "kw": "\"월 할부금만 16만원\"...이통사, '아이폰",
-      "delta": "▼ 2",
-      "type": "down",
+      "delta": "▲ 3",
+      "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSFdtRkNVbFN0eS1KWFkzcDY3QXNNSzFoQmJNamlmaHZmcUpUZDJlSThfeUVnbEhldE5FWi1vay1pd3UzNzkxOEpFR1draE5iTWxXaW5n?oc=5"
+    },
+    {
+      "rank": 6,
+      "top": false,
+      "kw": "엔비디아 \"LG와 피지컬AI 협력 고도화…곧 ",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zYXo0UWNZbUw4T0pfTWVjOWJNOWlVWk9KN2tOX3hIWmQyNXkzS2RBTGhrR0d2bnoxaVllZERsWXdwbGhNUk4ybFRpUGNWQXBkQm5UdFZ1TzR5dw?oc=5"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "오픈AI·앤스로픽, “6~12개월 내 AI 대",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHBVYVVVWkNmWURZUEVuazBLLWR1TkxrX2ZON2k5c1dScUdRS2oyT2JlcVNaQVhyc1hMcFBtaHFjYUE5SEVZN1lWLWUtdVpVZXVVMWpTOWVVd0hwcElBcmM0OEgtR2U1UUU4VG85LVhnMkFVMUVldk1ZUVZvSFpZeERHTQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "top": false,
+      "kw": "앤트로픽 ‘자가복제 AI, 강제종료 저항하고 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnZqZ0hfaE1OMHFtSW5OREE3T2l2VVlMVk91a1JzS0FnQ01OZ0tpd1RPVDh0dlVCbUV6cHVfTnJpdGxIelBKbjY1endSNWxRemNLLXJsVmMxQ0hLZDVzbXBkNHY0N0ZxdllFdWhJMXg4M3g5Q194TWVOaXZQbzVyV2NB?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "오픈AI·앤스로픽, “6~12개월 내 AI 대",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHBVYVVVWkNmWURZUEVuazBLLWR1TkxrX2ZON2k5c1dScUdRS2oyT2JlcVNaQVhyc1hMcFBtaHFjYUE5SEVZN1lWLWUtdVpVZXVVMWpTOWVVd0hwcElBcmM0OEgtR2U1UUU4VG85LVhnMkFVMUVldk1ZUVZvSFpZeERHTQ?oc=5"
+      "kw": "오픈AI 임원회의실 TV뒤에 웬 휴지뭉치? 도",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TVEEwSmNNOU5HQm9zbkR6LTdjZFA3T0tjM3g0S2FSWGJCRWpsNlMzSG8xWkJtRGhDWG45WS1QYi15bENhb09kTXQ0ZXBsb25yeTJ0bU5YS0lkQVJQY0tabDBZQTdoZVRUbUxDNklHSGNLRGhMX2fSAWZBVV95cUxOQk0zbFd1V001SVRHdy15U2NpQ0dJRm9TOXBMVktucGdqb3BkSGY0T3k3WGlOdlpFOEYwR2k3QjQ4eGVMYWhIdkVpbXliYzlHcW9HSmdkWnF5ZFJBUVoyZzRIWW9XMUE?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "오픈AI 임원회의실 TV뒤에 웬 휴지뭉치? 도",
+      "kw": "“AI 기술은 앞서가는데 데이터센터가 없다”…",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TVEEwSmNNOU5HQm9zbkR6LTdjZFA3T0tjM3g0S2FSWGJCRWpsNlMzSG8xWkJtRGhDWG45WS1QYi15bENhb09kTXQ0ZXBsb25yeTJ0bU5YS0lkQVJQY0tabDBZQTdoZVRUbUxDNklHSGNLRGhMX2fSAWZBVV95cUxOQk0zbFd1V001SVRHdy15U2NpQ0dJRm9TOXBMVktucGdqb3BkSGY0T3k3WGlOdlpFOEYwR2k3QjQ4eGVMYWhIdkVpbXliYzlHcW9HSmdkWnF5ZFJBUVoyZzRIWW9XMUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtS082UGxFUW9fdlFzQlFSVTFYY2xBbmtUajR2ZFEtSW1FNWNyMURKR0JVMjdzSzNDakhSUmtXSGdzd0YxUzZEbldGWTZ6dw?oc=5"
     }
   ]
 }
