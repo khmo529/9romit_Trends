@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 00:54",
+  "updated_at": "2026-10-16 04:32",
   "keywords": [
     {
       "rank": 1,
@@ -12,45 +12,37 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "'0' 두 개 빠진 거 아냐?…'4조 잭팟' ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXlZSkRZelZaWmFsUUljX0NTV1EzeVdkcHZLNHR0UnhkSFBwWmVPZHdSWE5scm55TE9DTVJFNGdLblViSTlmYmVDUU5XMWhnS05KY2JKSXV3Zw?oc=5"
+      "kw": "‘AI 해킹’ 금융권이 뚫렸다",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNVy1EUEJEYWt1cExoQkZCQm9fZmZHc2pyY0dGUUd6U1NiUUROMnFMWGZNVDlVeEFIa2ozSlBnYmFweGFFNng5NWdzaVlBNThZZDh2Sg?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "‘AI 해킹’ 금융권이 뚫렸다",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNVy1EUEJEYWt1cExoQkZCQm9fZmZHc2pyY0dGUUd6U1NiUUROMnFMWGZNVDlVeEFIa2ozSlBnYmFweGFFNng5NWdzaVlBNThZZDh2Sg?oc=5"
+      "kw": "‘AI 지각생’ 애플은 왜 스피커 에 다시 뛰",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVI3dGpjWnZ3eXQteDFYWHQ0ajNsMTdxN0ZWb2tQOUR4WW9sMnhfa3ZWQlJKb3hyUDl5X3ZLV1N5MjhCQUlFNEY0Vm5ON3h2NjJsTGxOTWVZT3BRQm95M3pKajMzbmh4WWtLUy1mSllONjE3TFA5QmxWNjJZMmEtLU1n0gGWAUFVX3lxTE1zSjQ2cktUdHhqcjh2TjFOdlc4WjNiRVEyaTFmLXVLLTlHZnJhbTJoZkZ1eVdRUUdhSzZFVkQxczFNa2l5N1F5WFhxUzN5b3Qyc01xTVVmdDl0Q3VKVzh2MmI2cl81NjVrTHJCOUluclc0bzJ1aFd0OVJZZ0czYzR5aHdtbEJzYm9MbzVNNkhCRHdpa2Q0Zw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "‘AI 지각생’ 애플은 왜 스피커 에 다시 뛰",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVI3dGpjWnZ3eXQteDFYWHQ0ajNsMTdxN0ZWb2tQOUR4WW9sMnhfa3ZWQlJKb3hyUDl5X3ZLV1N5MjhCQUlFNEY0Vm5ON3h2NjJsTGxOTWVZT3BRQm95M3pKajMzbmh4WWtLUy1mSllONjE3TFA5QmxWNjJZMmEtLU1n0gGWAUFVX3lxTE1zSjQ2cktUdHhqcjh2TjFOdlc4WjNiRVEyaTFmLXVLLTlHZnJhbTJoZkZ1eVdRUUdhSzZFVkQxczFNa2l5N1F5WFhxUzN5b3Qyc01xTVVmdDl0Q3VKVzh2MmI2cl81NjVrTHJCOUluclc0bzJ1aFd0OVJZZ0czYzR5aHdtbEJzYm9MbzVNNkhCRHdpa2Q0Zw?oc=5"
+      "kw": "모든 준비 완료: 전 세계 PC 앱 생태계, ",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFpYck8zazM3eG9lTVVwWmU5VHowWVRBRXdNODk5Y1JRNjFadFNlcjVoaWZyOGRGMjM3UU9qSEwxWkIzOExCdDdhSEZfUlFUWGFEZ0twWFo5ZUpyV0lmbWxkVnJMSkY1UWpxNjkydEZpWlZ6M2RrblpRUm1VaEpBNHBR?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "모든 준비 완료: 전 세계 PC 앱 생태계, ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFpYck8zazM3eG9lTVVwWmU5VHowWVRBRXdNODk5Y1JRNjFadFNlcjVoaWZyOGRGMjM3UU9qSEwxWkIzOExCdDdhSEZfUlFUWGFEZ0twWFo5ZUpyV0lmbWxkVnJMSkY1UWpxNjkydEZpWlZ6M2RrblpRUm1VaEpBNHBR?oc=5"
-    },
-    {
-      "rank": 6,
-      "top": false,
       "kw": "장인의 ‘손맛’과 암묵지, AI·로봇에 전수…",
-      "delta": "-",
-      "type": "same",
+      "delta": "▲ 1",
+      "type": "up",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWW1TdnQtZWVGNGxsVHVnRkVFa2dyTHZ3MTRUcExkdE9UQktEb1gxaUVGUHdLeTE1UjlRaW1tbm1hTkM3QW1WWU11UVJHYjRMRkpZdkQtaDYzQUtfV1luOXNEQ1E2Tmk0VVBoMGM3WmE2S2p3VVhoOWZSNWE0QWJvaXduUQ?oc=5"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "top": false,
       "kw": "애플, 세계 두번째 종가 기준 ‘시총 5조달러",
       "delta": "▲ 1",
@@ -58,28 +50,36 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtQ2ZkRG14TUpEU0QwX1VfYjBhdFVSMFAzWTlJVlg3b1RqVG05dk5jazFTQXdFbE0wTmVreFVfV2hDQmVXZFVhVUVWOGVpUQ?oc=5"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "top": false,
       "kw": "“AI 기술은 앞서가는데 데이터센터가 없다”…",
-      "delta": "▲ 2",
+      "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtS082UGxFUW9fdlFzQlFSVTFYY2xBbmtUajR2ZFEtSW1FNWNyMURKR0JVMjdzSzNDakhSUmtXSGdzd0YxUzZEbldGWTZ6dw?oc=5"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "top": false,
       "kw": "\"월 할부금만 16만원\"...이통사, '아이폰",
-      "delta": "▼ 5",
-      "type": "down",
+      "delta": "▲ 1",
+      "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSFdtRkNVbFN0eS1KWFkzcDY3QXNNSzFoQmJNamlmaHZmcUpUZDJlSThfeUVnbEhldE5FWi1vay1pd3UzNzkxOEpFR1draE5iTWxXaW5n?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "삼성 첫 스마트 안경 '갤럭시글래스', 이렇게",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vVlNTOHNKMzBQeTdSb2JaV05lTzdGTTlNQWlWc2hRVThBakJvQTJENnVWNzlsSExMZ05qUG04eDQ5cGhqLXRQdThJanJhZV9JWGFFR2Nn?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "삼성 첫 스마트 안경 '갤럭시글래스', 이렇게",
+      "kw": "AI 의인화 괜찮나…\"AI도 보호해야\" vs ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vVlNTOHNKMzBQeTdSb2JaV05lTzdGTTlNQWlWc2hRVThBakJvQTJENnVWNzlsSExMZ05qUG04eDQ5cGhqLXRQdThJanJhZV9JWGFFR2Nn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HV3lJdWFZVUhvTGpNVnNrcjhLak1fM2FfRU02Tlp3bmYteHlRZEFzWlk1ZDJLOW9DZk8zT3lhbzFONUd3bkFPVWZCZlg2OG1qcTc4aUpn?oc=5"
     }
   ]
 }
