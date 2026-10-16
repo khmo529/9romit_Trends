@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 03:29",
+  "updated_at": "2026-10-17 06:33",
   "keywords": [
     {
       "rank": 1,
@@ -21,57 +21,57 @@
       "rank": 3,
       "top": true,
       "kw": "아이폰에 중국산 메모리?…애플 CEO “메모리",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qYnF6b1RTTlc1Q0E3QzRYYnYwRmpPSDhZT1JfQkV2N3JlNU5RQkcxVkZWaEQzeEpsNHBJcW81bGE4dFZxOU5vZjhUUFhRQQ?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "테슬라 FSD",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81UW4tTWZuSTlnZ3JLeTN2dEFZMG9CeVYtd2FnZld0Z05Qd1RiUWhULWJqdGxTcmpQTmJZc0RiZzdtcG1ZUFZpR09oRThjamQzZ2x2ZVQ0VEduWmNPUnZvajA4c0VtZXd1MC0temFaTHdXWjAzN1hSVG5Qamp0czTSAZMBQVVfeXFMTWpnVWxMcko1OTlRRWR0bzRRR013WmE4eFBMZTJISkpxWFpKcG52ajNESGdmSllnUVN6clZoVlltTkh5Tk9CVGhjbEltMTNGdDczdE12YkxVQnRpZTZLS25zZzVKRGc0SkpjVjJiZU8yNHMtSUtHNTRjX3V2WHJlc3ZfTEROTGprd3VIeEpRbnJfRVlj?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "챗GPT PC버전 일부 접속 오류 발생…이용자",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVmZYS1BOVmVWbFpEN29ONEV6S3ZyajV1U3ZZb0V1U1h3NkFDOUZsdDBOXzNvUmdYMHBySHFQU25FTEJaTkhQcDdEQld4el9rdzRnd2JzQnoyR2hKXzI1ZmMyUlNlSllu?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "현대차 푸네 공장, 로봇 204대가 조립 척척",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rZmJiN1IzQ29SOXl1Vk9vSmZIRHhZVERvMFRzNXF0U1hNZnBzNmk0NjZnYmdZOElNM2p3X3F5V1puU3pkcmxGSkEtOUR6V1NhREFlcXRaTGYxY0Y0aWxLNXVJbXdPVEZlSHhBUFMxV2RoTy1SX1HSAWZBVV95cUxQWkN4VzBMX21xTjlXNFdyR1d1dVNCaTBWSkxWU05HSXgwNHItbDRSQlpUYVozSm0tLXVlQUVxZWxGZHNGZVJ1RXhaVDlHNFQ2QXdGeXJvZzBLNlZWSW1wNW04c3l0QVE?oc=5"
+      "kw": "바둑과 수학에서 개인 비서까지… ‘나만의 AI",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkNNSGdpRkZvSzVWRmVwZWlkSWp6Q214cDdaYy1VWkpGN055a3R5REJQVU81eHhPYW9uWm5mYWM3TTZSN3lkcFpKTGE3U2hlN2JWQ1NSYndzSzRsbVVTdVZ5b09lY3RVRlFqT05MVFFzajBDR3h2UzAwRi1xQmduNHlUTQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "바둑과 수학에서 개인 비서까지… ‘나만의 AI",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkNNSGdpRkZvSzVWRmVwZWlkSWp6Q214cDdaYy1VWkpGN055a3R5REJQVU81eHhPYW9uWm5mYWM3TTZSN3lkcFpKTGE3U2hlN2JWQ1NSYndzSzRsbVVTdVZ5b09lY3RVRlFqT05MVFFzajBDR3h2UzAwRi1xQmduNHlUTQ?oc=5"
+      "kw": "\"요약하고 그림 그리던 AI 앱은 끝\"… 성인",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFJmN3RPN0hYdGF4alBpYWl2bkFaYVA2Mm9hQnFHeVF1REEtTXFJWUFwNm5qazBKLUpkbkNSTjQyV1hUb2lBdFFDR1Z5Z0p5U1ZSV2pJT1NfS0F6NEJvVjZZelNTal91ZkY4ZVM2aWdjd2w5OEVWU1ZCLUNaOFVBSGVsRQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"요약하고 그림 그리던 AI 앱은 끝\"… 성인",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFJmN3RPN0hYdGF4alBpYWl2bkFaYVA2Mm9hQnFHeVF1REEtTXFJWUFwNm5qazBKLUpkbkNSTjQyV1hUb2lBdFFDR1Z5Z0p5U1ZSV2pJT1NfS0F6NEJvVjZZelNTal91ZkY4ZVM2aWdjd2w5OEVWU1ZCLUNaOFVBSGVsRQ?oc=5"
+      "kw": "보안인증 없는 구글폼…개보위 에 쓰였다",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VNzhONlpOdU9ZR1FkS3lOS1RkaVZYVEdTRG9wc1otTlU5aXZHWTVpXzVRbXNrd2tmOGg3dDBFbTBycnlveGpwaFFJZWhKdw?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "보안인증 없는 구글폼…개보위 에 쓰였다",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VNzhONlpOdU9ZR1FkS3lOS1RkaVZYVEdTRG9wc1otTlU5aXZHWTVpXzVRbXNrd2tmOGg3dDBFbTBycnlveGpwaFFJZWhKdw?oc=5"
+      "kw": "車용접은 로봇, 부품 넣는 건 사람… 자동화 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHdWaWdwZ01PT3p4d1VGQUxjblFKUVM5aFJTbHBJekZwWTFsazBucC1KSElEc0VydkNMSThRa3RzSFc1aFQ1cHd0ZFVEQWRXY2c0dEJubjFUQmNXbmNtTmlJUXJGeVE0Qm83RXF1Ym1yU25XUU45YVJvU0t1R3JPb0FsUVNCMFNPQnMzRjZRbw?oc=5"
     },
     {
       "rank": 10,
