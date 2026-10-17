@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 01:01",
+  "updated_at": "2026-10-18 03:37",
   "keywords": [
     {
       "rank": 1,
@@ -13,8 +13,8 @@
       "rank": 2,
       "top": true,
       "kw": "\"애플2로 바꿔줄게\"…잡스 편지 덕에 '애플1",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNngtM0djVjdjSU9xclZVVWhNOXExLUJPSmtldGFTZC1LWWF1aDdhRnlZUlJaczgzaC1tSGYtWlJzWFMzMUJPcjZmSDIwNUpWU2pJbE5n?oc=5"
     },
     {
@@ -29,32 +29,32 @@
       "rank": 4,
       "top": false,
       "kw": "삼성이 꽉 잡은 폴더블 에 애플이 뒤늦게 뛰어",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFd2E1QnZxU1NUSmdreWhjZllwMFNUT0kzOERrWWlyRU02V0R5bXpINTRmc1M1UVA1emQ3bE9DdmFEdTF5RmZpaWdLUTlGMU1FUTNTMzI2eFF3YXM?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "AI 거품 붕괴 뒤 구제금융, 비트코인에 호재",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vdzVtM1VCZk5VbHY1UlhuTzhnOFNxZmJfT3pIWEhTVURxVUU0N1k5d2F4U1lGOGhGbjJFX2NhclU4Q0ZESTJkanltZENfUUNoeXlvTFhBcDJfYjctbzlQQg?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "자금난에 발목잡힌 AI 데이터센터 들",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWTVZdk1TNWFmYUI4TzNPbmI1cGY1RllIcDJnSXpPeFB3S2wyRmJEUUp1d0JJS3YyemV5Si1oU2wyU1FWYVNiWFZNNlRMbkItWUpUb1Q1N2xZdVZkLU5YbGxBWWFwZTkwRGhrdEJsdXY5V3c2WFBTOGhRR0NQMFJmTkZsVQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "테슬라 FSD",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1RWUy1YNXBtM18teW1ZLWpiaDVvYWZyVGhhd1pSY0c3bmluNW1TMkxjejRLNnp5U1k1NUJnS0gyVDc0MXRJdlU5M0hBdXV5dEl2QmtNdlFBU1l2YkRjY0FKR0NvdW8xODFmNVM0VjNlX2hhbXhRZ2lfSTk4Y2steg?oc=5"
     },
     {
@@ -69,16 +69,16 @@
       "rank": 9,
       "top": false,
       "kw": "삼성 첫 스마트 안경 '갤럭시글래스', 이렇게",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vVlNTOHNKMzBQeTdSb2JaV05lTzdGTTlNQWlWc2hRVThBakJvQTJENnVWNzlsSExMZ05qUG04eDQ5cGhqLXRQdThJanJhZV9JWGFFR2Nn?oc=5"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "스마트폰 한 대 300만원…삼성·애플은 왜 고",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04M200NjZlYUxoQjJJN09yXzVGRXduUnJ4Um5zcWZjemdWR1dMdVJfbXBBQlhCb0NsVi02OTdIN3lTMFRMcFdiUzVCblhJam9NNFBrY2ZzMEh3b0XSAWBBVV95cUxPeUZsUGxoYU9zZDFVXzktamFvMU81Mk1tcDZGZHN5MEtIeDU1ZkV2Vm0xNTROOTlKejJtNG5GY2g0SUx4d1lBZkUtOE9leXNIRXZkQ1ZfX3JYXzRVNU1ZX00?oc=5"
     }
   ]
