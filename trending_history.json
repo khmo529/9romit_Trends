@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 06:07",
+  "updated_at": "2026-10-18 08:14",
   "keywords": [
     {
       "rank": 1,
@@ -7,39 +7,39 @@
       "kw": "테슬라",
       "delta": "-",
       "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XbXNBZHRFTnA2ckV5bVlGTXM4Q2psUVhodS1teXdkUmJ1QmE0QkRGR053dkNSc05aZFBLaVN3SWxOZnpoVjNhcmhfTUxUTXI2VEpTN2NISnNfS0lh?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ma2ViVTRNUndaQlN1NnhtWlpFYlR2MFRmYTR3TXc0aGJyZWhFYnV0ei14RENPakVSejJxN21ldmZLQllMY1ZDQjl4bWxhS3NzODRRbi0wbHlHd9IBX0FVX3lxTE5oS0E5bUJWN04wMXRTZE1mV0ltdFdHcWFMSDJ3ZWw3eGllUmN6bE5BeU04b3NFT0haUDdJNzhQVUpub1RQWV85WjJENms4N2JobE9KZzJaa0VzREtZa2VR?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "AI에 '인간 20명' vs '서버 1대' 누",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VmYxN2MyMDhTQWRpLW5NdG1IckpFRmJWakNUcW4zcko5QXNmbl9NNzl5Q1JmMlpva1Z0MVVDQWVtcGZPYzd6Q09tdnRxdlhYQ0NKQ2d3?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "\"애플2로 바꿔줄게\"…잡스 편지 덕에 '애플1",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNngtM0djVjdjSU9xclZVVWhNOXExLUJPSmtldGFTZC1LWWF1aDdhRnlZUlJaczgzaC1tSGYtWlJzWFMzMUJPcjZmSDIwNUpWU2pJbE5n?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "삼성이 꽉 잡은 폴더블 에 애플이 뒤늦게 뛰어",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFd2E1QnZxU1NUSmdreWhjZllwMFNUT0kzOERrWWlyRU02V0R5bXpINTRmc1M1UVA1emQ3bE9DdmFEdTF5RmZpaWdLUTlGMU1FUTNTMzI2eFF3YXM?oc=5"
+      "kw": "테슬라 FSD",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1RWUy1YNXBtM18teW1ZLWpiaDVvYWZyVGhhd1pSY0c3bmluNW1TMkxjejRLNnp5U1k1NUJnS0gyVDc0MXRJdlU5M0hBdXV5dEl2QmtNdlFBU1l2YkRjY0FKR0NvdW8xODFmNVM0VjNlX2hhbXhRZ2lfSTk4Y2steg?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "테슬라 FSD",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1RWUy1YNXBtM18teW1ZLWpiaDVvYWZyVGhhd1pSY0c3bmluNW1TMkxjejRLNnp5U1k1NUJnS0gyVDc0MXRJdlU5M0hBdXV5dEl2QmtNdlFBU1l2YkRjY0FKR0NvdW8xODFmNVM0VjNlX2hhbXhRZ2lfSTk4Y2steg?oc=5"
+      "kw": "삼성이 꽉 잡은 폴더블 에 애플이 뒤늦게 뛰어",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFd2E1QnZxU1NUSmdreWhjZllwMFNUT0kzOERrWWlyRU02V0R5bXpINTRmc1M1UVA1emQ3bE9DdmFEdTF5RmZpaWdLUTlGMU1FUTNTMzI2eFF3YXM?oc=5"
     },
     {
       "rank": 6,
@@ -52,34 +52,34 @@
     {
       "rank": 7,
       "top": false,
-      "kw": "AI 거품 붕괴 뒤 구제금융, 비트코인에 호재",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vdzVtM1VCZk5VbHY1UlhuTzhnOFNxZmJfT3pIWEhTVURxVUU0N1k5d2F4U1lGOGhGbjJFX2NhclU4Q0ZESTJkanltZENfUUNoeXlvTFhBcDJfYjctbzlQQg?oc=5"
+      "kw": "LG전자, '로봇 SW 플랫폼' 조직 신설..",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aVFh2TUZsZUdUUU1SdlV3bjVkeHJrY0FMMTBwUndCdFYtbWlSLV9MeFlKUmhtX1NseTVRX3lMSVZ0NmhtdGttSlFBSm81WVFvN2ZHbW9n?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "LG전자, '로봇 SW 플랫폼' 조직 신설..",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aVFh2TUZsZUdUUU1SdlV3bjVkeHJrY0FMMTBwUndCdFYtbWlSLV9MeFlKUmhtX1NseTVRX3lMSVZ0NmhtdGttSlFBSm81WVFvN2ZHbW9n?oc=5"
+      "kw": "AI 거품 붕괴 뒤 구제금융, 비트코인에 호재",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vdzVtM1VCZk5VbHY1UlhuTzhnOFNxZmJfT3pIWEhTVURxVUU0N1k5d2F4U1lGOGhGbjJFX2NhclU4Q0ZESTJkanltZENfUUNoeXlvTFhBcDJfYjctbzlQQg?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "삼성 첫 스마트 안경 '갤럭시글래스', 이렇게",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vVlNTOHNKMzBQeTdSb2JaV05lTzdGTTlNQWlWc2hRVThBakJvQTJENnVWNzlsSExMZ05qUG04eDQ5cGhqLXRQdThJanJhZV9JWGFFR2Nn?oc=5"
+      "kw": "스마트폰 한 대 300만원…삼성·애플은 왜 고",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04M200NjZlYUxoQjJJN09yXzVGRXduUnJ4Um5zcWZjemdWR1dMdVJfbXBBQlhCb0NsVi02OTdIN3lTMFRMcFdiUzVCblhJam9NNFBrY2ZzMEh3b0XSAWBBVV95cUxPeUZsUGxoYU9zZDFVXzktamFvMU81Mk1tcDZGZHN5MEtIeDU1ZkV2Vm0xNTROOTlKejJtNG5GY2g0SUx4d1lBZkUtOE9leXNIRXZkQ1ZfX3JYXzRVNU1ZX00?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "스마트폰 한 대 300만원…삼성·애플은 왜 고",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04M200NjZlYUxoQjJJN09yXzVGRXduUnJ4Um5zcWZjemdWR1dMdVJfbXBBQlhCb0NsVi02OTdIN3lTMFRMcFdiUzVCblhJam9NNFBrY2ZzMEh3b0XSAWBBVV95cUxPeUZsUGxoYU9zZDFVXzktamFvMU81Mk1tcDZGZHN5MEtIeDU1ZkV2Vm0xNTROOTlKejJtNG5GY2g0SUx4d1lBZkUtOE9leXNIRXZkQ1ZfX3JYXzRVNU1ZX00?oc=5"
+      "kw": "전 오픈AI 연구원 “AI 내부 읽을 수 있다",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZmZFQTBJN0hsWmhjYXRldDNULVMtUXJ2MnVPemJOQVh5RVpHZm5DNDdkQlNVRHdBQ3A4T1RhUzdOSHdVWU42eUE3OF81VER0T2ktb2NKSnZFb09wQ3VpZ29uTkV0RDhxc0E?oc=5"
     }
   ]
 }
