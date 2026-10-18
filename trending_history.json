@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 08:14",
+  "updated_at": "2026-10-18 10:16",
   "keywords": [
     {
       "rank": 1,
@@ -29,16 +29,16 @@
       "rank": 4,
       "top": false,
       "kw": "테슬라 FSD",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1RWUy1YNXBtM18teW1ZLWpiaDVvYWZyVGhhd1pSY0c3bmluNW1TMkxjejRLNnp5U1k1NUJnS0gyVDc0MXRJdlU5M0hBdXV5dEl2QmtNdlFBU1l2YkRjY0FKR0NvdW8xODFmNVM0VjNlX2hhbXhRZ2lfSTk4Y2steg?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "삼성이 꽉 잡은 폴더블 에 애플이 뒤늦게 뛰어",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFd2E1QnZxU1NUSmdreWhjZllwMFNUT0kzOERrWWlyRU02V0R5bXpINTRmc1M1UVA1emQ3bE9DdmFEdTF5RmZpaWdLUTlGMU1FUTNTMzI2eFF3YXM?oc=5"
     },
     {
@@ -52,34 +52,34 @@
     {
       "rank": 7,
       "top": false,
-      "kw": "LG전자, '로봇 SW 플랫폼' 조직 신설..",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aVFh2TUZsZUdUUU1SdlV3bjVkeHJrY0FMMTBwUndCdFYtbWlSLV9MeFlKUmhtX1NseTVRX3lMSVZ0NmhtdGttSlFBSm81WVFvN2ZHbW9n?oc=5"
-    },
-    {
-      "rank": 8,
-      "top": false,
-      "kw": "AI 거품 붕괴 뒤 구제금융, 비트코인에 호재",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vdzVtM1VCZk5VbHY1UlhuTzhnOFNxZmJfT3pIWEhTVURxVUU0N1k5d2F4U1lGOGhGbjJFX2NhclU4Q0ZESTJkanltZENfUUNoeXlvTFhBcDJfYjctbzlQQg?oc=5"
-    },
-    {
-      "rank": 9,
-      "top": false,
       "kw": "스마트폰 한 대 300만원…삼성·애플은 왜 고",
-      "delta": "▲ 1",
+      "delta": "▲ 2",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04M200NjZlYUxoQjJJN09yXzVGRXduUnJ4Um5zcWZjemdWR1dMdVJfbXBBQlhCb0NsVi02OTdIN3lTMFRMcFdiUzVCblhJam9NNFBrY2ZzMEh3b0XSAWBBVV95cUxPeUZsUGxoYU9zZDFVXzktamFvMU81Mk1tcDZGZHN5MEtIeDU1ZkV2Vm0xNTROOTlKejJtNG5GY2g0SUx4d1lBZkUtOE9leXNIRXZkQ1ZfX3JYXzRVNU1ZX00?oc=5"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "top": false,
       "kw": "전 오픈AI 연구원 “AI 내부 읽을 수 있다",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZmZFQTBJN0hsWmhjYXRldDNULVMtUXJ2MnVPemJOQVh5RVpHZm5DNDdkQlNVRHdBQ3A4T1RhUzdOSHdVWU42eUE3OF81VER0T2ktb2NKSnZFb09wQ3VpZ29uTkV0RDhxc0E?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "\"500㎏ 짐도 번쩍\"…4m 초대형 휴머노이드",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZmZFQTBJN0hsWmhjYXRldDNULVMtUXJ2MnVPemJOQVh5RVpHZm5DNDdkQlNVRHdBQ3A4T1RhUzdOSHdVWU42eUE3OF81VER0T2ktb2NKSnZFb09wQ3VpZ29uTkV0RDhxc0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GamNjT3pnVTQyQXNoVzI2UXA2VGRxN3lHSnQ3VlFDLWp1cHRpSVZfa3pPc09mMXR3bTJhQWtGWmpVQVdSV1c3WkhMN2tGWGF0WVh5UlNR?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "퀄컴 AP ‘발열 문제’…갤럭시 울트라 ‘스냅",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tUFB2b3hRN012Q1hweHFsQ2lRWkN4b0JRTGczYWI4eGN4alBCMWw3M1J3amxiLVdRVy00ZkstZ052UGxuWHRaYkRlaXpaT3RGdEHSAVNBVV95cUxPeklSb3BSdUx3allCU2xDeEE4NkEtdmJQWDZYUGYyRWczMjhmNzhPQjdNMktOcTJzem1KdVRCRElPLU4yelYyWFNQMWduQjBzYXkyVQ?oc=5"
     }
   ]
 }
