@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 07:00",
+  "updated_at": "2026-10-19 09:16",
   "keywords": [
     {
       "rank": 1,
@@ -13,41 +13,41 @@
       "rank": 2,
       "top": true,
       "kw": "테슬라 FSD",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1RWUy1YNXBtM18teW1ZLWpiaDVvYWZyVGhhd1pSY0c3bmluNW1TMkxjejRLNnp5U1k1NUJnS0gyVDc0MXRJdlU5M0hBdXV5dEl2QmtNdlFBU1l2YkRjY0FKR0NvdW8xODFmNVM0VjNlX2hhbXhRZ2lfSTk4Y2steg?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "공장 데이터 쥔 현대오토에버…현대차 피지컬AI",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Y2ZobGs2VUxIb0xIYXRDSWtJX3czN244S0FDYjl3QjJIXzRzQzlaYVJMc0JwZnFDcFJTUzJtTTZ3UUFtWVNKTV9VWkRFaUdSUlVIaXd6dFFUUQ?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "머스크 \"美 부채 해결할 유일한 길은 AI·로",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYW5aSXV5NnkxcnVvcG5NaEhCZkNqTjNEVnNVWHNTRGhVUFhkNlphaVVTUTFXY1piU1NvVEdzVC1FcEZTTEg5RVNGdTQ1enI0djkwbEptNl9JQ0t4U2JyTTRfTWJud2JBbzR3cl9CUEp3SnIwT0JwdlFJc1BOZUVNMG5RSQ?oc=5"
+      "kw": "아이폰 듀오, 사전 예약 시작 직후 ‘매진’.",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkloMDlGd0xJTHduVGhNdFRrbkRqMGxOZnZUVi1oQVdLTHRIcmZ5eUZYUXQ3Sm9rUUw4R3dSZV9LMWhGZmliaDBFbkgwcjEzZUh0MzExV3FCZV9nYkdDV0ludG12MVRyT0w5ZTUtSkRtOTdKTXh2dzhsOE9keDF6YkNOYw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "'AI 심장'이라는데…데이터센터는 왜 '동네북",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUWgxRWVrd0l4LU1Bb041NGp0TnZtUHNFXzZ1WEdXR0tsZ1ZLekhaQ3dXQmtPOFVRZFh5ejBNSUpZSUtxVzUzYTUzZFR3YTVtMUdDTTFJaDgyUQ?oc=5"
+      "kw": "머스크 \"美 부채 해결할 유일한 길은 AI·로",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYW5aSXV5NnkxcnVvcG5NaEhCZkNqTjNEVnNVWHNTRGhVUFhkNlphaVVTUTFXY1piU1NvVEdzVC1FcEZTTEg5RVNGdTQ1enI0djkwbEptNl9JQ0t4U2JyTTRfTWJud2JBbzR3cl9CUEp3SnIwT0JwdlFJc1BOZUVNMG5RSQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "아이폰 듀오, 사전 예약 시작 직후 ‘매진’.",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkloMDlGd0xJTHduVGhNdFRrbkRqMGxOZnZUVi1oQVdLTHRIcmZ5eUZYUXQ3Sm9rUUw4R3dSZV9LMWhGZmliaDBFbkgwcjEzZUh0MzExV3FCZV9nYkdDV0ludG12MVRyT0w5ZTUtSkRtOTdKTXh2dzhsOE9keDF6YkNOYw?oc=5"
+      "kw": "'AI 심장'이라는데…데이터센터는 왜 '동네북",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUWgxRWVrd0l4LU1Bb041NGp0TnZtUHNFXzZ1WEdXR0tsZ1ZLekhaQ3dXQmtPOFVRZFh5ejBNSUpZSUtxVzUzYTUzZFR3YTVtMUdDTTFJaDgyUQ?oc=5"
     },
     {
       "rank": 7,
@@ -60,26 +60,26 @@
     {
       "rank": 8,
       "top": false,
-      "kw": "AI에 '인간 20명' vs '서버 1대' 누",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VmYxN2MyMDhTQWRpLW5NdG1IckpFRmJWakNUcW4zcko5QXNmbl9NNzl5Q1JmMlpva1Z0MVVDQWVtcGZPYzd6Q09tdnRxdlhYQ0NKQ2d3?oc=5"
+      "kw": "“갤러그에 마리오 넣어줘” 이게 된다고?… A",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1hfUWZqYzZsbEVpWi1BWjVTTmc4M1dzTHVOMEtycU5GZ3ZScV93c0hsT05HN3c1N2UwSlM1ejBkRXN2R04xNXExZHhEUk1hc3htY2Z4OF84WGFadzFJd0tPRzFNeXhMYlhQc3JSWG5KSmdlVUZ1NDJLNkFRSkFzYkNFOA?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "트럼프가 “AI 쓰지 마” 하자…IMF 성명서",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWdyTVZpYWh1dDNlNDh2YlMzdnh2TTl0eVA4b0k3N0x2VWVqQ1VXWmRNbE1CMGtMMHdKeUgxODJmRG9zTmVET2N2MFZIbnMyVjBDR2dvaU9nQ1BQc2E1Smx1T0x6MDZYTk81dUlEazNJcDVUbE9PLWpUZ0MxSGtpLQ?oc=5"
+      "kw": "발전소 누비는 로봇... 컴컴한 600m 배관",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFpubXlydF9BUnRhdVc0d0hBcW5lM0VabVNtODBCX1hNVU0xWVRFOVRLZUhPTlJUNEFJSzVfbmluNm5IX1RGRlZMdXRORzlGd096N2FSaFpXeFhkekVoenpxa1NRSVdkQjNoUk0tcmlaZ1kwOE1mQmQtVGZJRkxkUm9aX0PSAZgBQVVfeXFMTjBMUmtlcU53bjNoYVlfTjdjdGxQLXlGeVBqQnRONlZSdE5hZFluS1lfTzNEbXk4bUtwbTd1ZmpIQl9aaDFUQmkybXJCWVpIbURsaUtjQlpUSTNtai1oVVYyY1ZwMUkxalNYWVVkZ0lRZUlRZ3F6WlgyTURDZDF0aGlJc05Xa0M0OWZxQTNoM0lfVUhta21vUjM?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "전기먹는 하마 AI 반도체 열·손실 잡는다…'",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ScGJSYVYzLVA3d25ha2hxTzU2LXI2UlNGaUk2NkcwUm4ycTNDWi1vbzZIVDFSVzBiWG1CYWtENWRzRk9UeTJERmhTNF9MRVRzY0JBOVM3S1BVaUluNG5fTUstUTlkdG9fSmfSAW9BVV95cUxPTjRDYlpBZFYzaGNhUDZQTDNsMzdibW5qM19JdW1tMzdFc3JNYk1rT3FFR3A4YWsxSmlTaTBmOUZQSVZTODRwQUFrZ0p0Qi1uS1BEelczVlFQQXZueC10R3F6RlROaEluc1l4UFIyVlU?oc=5"
+      "kw": "AI에 '인간 20명' vs '서버 1대' 누",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VmYxN2MyMDhTQWRpLW5NdG1IckpFRmJWakNUcW4zcko5QXNmbl9NNzl5Q1JmMlpva1Z0MVVDQWVtcGZPYzd6Q09tdnRxdlhYQ0NKQ2d3?oc=5"
     }
   ]
 }
