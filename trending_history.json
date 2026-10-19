@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 09:16",
+  "updated_at": "2026-10-19 13:57",
   "keywords": [
     {
       "rank": 1,
@@ -28,13 +28,21 @@
     {
       "rank": 4,
       "top": false,
-      "kw": "아이폰 듀오, 사전 예약 시작 직후 ‘매진’.",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkloMDlGd0xJTHduVGhNdFRrbkRqMGxOZnZUVi1oQVdLTHRIcmZ5eUZYUXQ3Sm9rUUw4R3dSZV9LMWhGZmliaDBFbkgwcjEzZUh0MzExV3FCZV9nYkdDV0ludG12MVRyT0w5ZTUtSkRtOTdKTXh2dzhsOE9keDF6YkNOYw?oc=5"
+      "kw": "\"월급쟁이 남자 만나기 싫어요\"…AI 대박에 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ud2liS25IeDhwRDBEeFN0dGlRamhJaEZiempMR2FVUXU3cWQ0UWJzT2xoN3p6QWVTMkQtam0zRmljeHhtYU9idWZlX0k2dENPZlBCNDlxOGpxY2dRRUVOag?oc=5"
     },
     {
       "rank": 5,
+      "top": false,
+      "kw": "아이폰 듀오, 사전 예약 시작 직후 ‘매진’.",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkloMDlGd0xJTHduVGhNdFRrbkRqMGxOZnZUVi1oQVdLTHRIcmZ5eUZYUXQ3Sm9rUUw4R3dSZV9LMWhGZmliaDBFbkgwcjEzZUh0MzExV3FCZV9nYkdDV0ludG12MVRyT0w5ZTUtSkRtOTdKTXh2dzhsOE9keDF6YkNOYw?oc=5"
+    },
+    {
+      "rank": 6,
       "top": false,
       "kw": "머스크 \"美 부채 해결할 유일한 길은 AI·로",
       "delta": "▼ 1",
@@ -42,44 +50,36 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYW5aSXV5NnkxcnVvcG5NaEhCZkNqTjNEVnNVWHNTRGhVUFhkNlphaVVTUTFXY1piU1NvVEdzVC1FcEZTTEg5RVNGdTQ1enI0djkwbEptNl9JQ0t4U2JyTTRfTWJud2JBbzR3cl9CUEp3SnIwT0JwdlFJc1BOZUVNMG5RSQ?oc=5"
     },
     {
-      "rank": 6,
-      "top": false,
-      "kw": "'AI 심장'이라는데…데이터센터는 왜 '동네북",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUWgxRWVrd0l4LU1Bb041NGp0TnZtUHNFXzZ1WEdXR0tsZ1ZLekhaQ3dXQmtPOFVRZFh5ejBNSUpZSUtxVzUzYTUzZFR3YTVtMUdDTTFJaDgyUQ?oc=5"
-    },
-    {
       "rank": 7,
       "top": false,
-      "kw": "“수능 문제 보자 5초 만에 답이 눈앞에”…A",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZS1kZUxtcndORmsxaWc2ZE9UNHppaUFsdHhqamdzekl3LWtSSEc0OHhRNkd0ME5BMDZkTXdtdkpXQmswQm41azFNQUE5d3Y1SzlYSzdjUFJRNVZ2NVJaXzl1ZEhKRzIxS01pTW1NVTYzemhNVnfSAWZBVV95cUxQYy1KejRaTjM4bXhOcjJLRE92alF1d3BWd0l3NUJnV0hVWFVUdzRybE9Fbk1rYTBSS05WR0JBM29rS0pzdUx3TEJxYmxMWmdRajBTZkNnRS1aV214c0k3cTh5YnRKakE?oc=5"
+      "kw": "갤럭시 카메라 만들던 나무가, 글로벌 휴머노이",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45RWZ5Q2ZMV0ZzUjhlcjZ3Z2FhZ19nVkFsUjZZa0hZRnBIVkI5SE9HY09CZmFxdG1wbHZ4R05fWGZEaXNucFN1czE0YW80UnE2UVdUM3N3LVJKUWt3MHVRTnZtWnk3dw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "“갤러그에 마리오 넣어줘” 이게 된다고?… A",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1hfUWZqYzZsbEVpWi1BWjVTTmc4M1dzTHVOMEtycU5GZ3ZScV93c0hsT05HN3c1N2UwSlM1ejBkRXN2R04xNXExZHhEUk1hc3htY2Z4OF84WGFadzFJd0tPRzFNeXhMYlhQc3JSWG5KSmdlVUZ1NDJLNkFRSkFzYkNFOA?oc=5"
+      "kw": "'AI 심장'이라는데…데이터센터는 왜 '동네북",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUWgxRWVrd0l4LU1Bb041NGp0TnZtUHNFXzZ1WEdXR0tsZ1ZLekhaQ3dXQmtPOFVRZFh5ejBNSUpZSUtxVzUzYTUzZFR3YTVtMUdDTTFJaDgyUQ?oc=5"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "발전소 누비는 로봇... 컴컴한 600m 배관",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFpubXlydF9BUnRhdVc0d0hBcW5lM0VabVNtODBCX1hNVU0xWVRFOVRLZUhPTlJUNEFJSzVfbmluNm5IX1RGRlZMdXRORzlGd096N2FSaFpXeFhkekVoenpxa1NRSVdkQjNoUk0tcmlaZ1kwOE1mQmQtVGZJRkxkUm9aX0PSAZgBQVVfeXFMTjBMUmtlcU53bjNoYVlfTjdjdGxQLXlGeVBqQnRONlZSdE5hZFluS1lfTzNEbXk4bUtwbTd1ZmpIQl9aaDFUQmkybXJCWVpIbURsaUtjQlpUSTNtai1oVVYyY1ZwMUkxalNYWVVkZ0lRZUlRZ3F6WlgyTURDZDF0aGlJc05Xa0M0OWZxQTNoM0lfVUhta21vUjM?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "AI에 '인간 20명' vs '서버 1대' 누",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VmYxN2MyMDhTQWRpLW5NdG1IckpFRmJWakNUcW4zcko5QXNmbl9NNzl5Q1JmMlpva1Z0MVVDQWVtcGZPYzd6Q09tdnRxdlhYQ0NKQ2d3?oc=5"
+      "kw": "의인화된 AI, ‘얼굴’에 속지 마라",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeUdlM0hLdWlDM3BobnFQWEJyNzU0dkVQNUNxMHZBTmUxejFZT24zMUZ5N1hYS3RSMUZtUGZYT2Z4NUMzdmlUemV0ejBSUDltMlFGaGowM19Ka19STXhtWkM3cURPdkowSTBBVzNjV19vU0VDdjE4WW5FU1J0NGF3di1mWFZGNUxmLWdqMVFxaDdJb0JW?oc=5"
     }
   ]
 }
