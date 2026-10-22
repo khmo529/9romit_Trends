@@ -1,32 +1,48 @@
 {
-  "updated_at": "2026-10-22 10:04",
+  "updated_at": "2026-10-22 15:14",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI 데이터센터 수혜주' 옥석 가려야…건설·통",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGaW9EdlhhSnhMRE43RzJGMkdsQXpmNFhZaVVnWk5RYlNTM1Zja1AxUllmOGZxMHJkTnA2TVktZVktVkxkbXpnVlYtSzQtMWhpMkluLXlGLWhYZw?oc=5"
+      "kw": "테슬라",
+      "delta": "▲ 4",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJMHhRZnNwclIzNUx0VUs0OG8tc0szSFRkQVVxdUJSNVBhV3o0M0pPd2UzYUZNZ0thMUdhTHY1dUNPTnN5aTVBOV9nSHoxeUdiXy1xNmZLZm4wSnppU25oT1dYZkdIV2tjdnVQZVZscWQ?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "\"백덤블링 해도 병뚜껑은 못 열어\"...이재용",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fR0xpc09qdUNJLVhUOUMzY1Vva0NYb3RlMkNJY0pxTVFUM0xPcm1FRlRLNVB2azF1VFE3ZGVEN1Z1dzd6VzdoQ1lDbmJQZnpFV09yT3h3MGI1azlWRUYxRUllUlpvOVNwdVlPM9IBckFVX3lxTE5ibENWbm5VbklFcEx1T292aVhONi10WjFxTG1sS2xJWDNySkNZMGJIVTY3bFBzdE9kVUNPN0l4YVhiNERybkVReUpPNjlPSTJJVnhWSmppVldtVlM1VmdaeHdnUE9kRGxqMFMtLUFfSG5DQQ?oc=5"
+      "kw": "AI 데이터센터 수혜주' 옥석 가려야…건설·통",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGaW9EdlhhSnhMRE43RzJGMkdsQXpmNFhZaVVnWk5RYlNTM1Zja1AxUllmOGZxMHJkTnA2TVktZVktVkxkbXpnVlYtSzQtMWhpMkluLXlGLWhYZw?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FLUE2aFEyNW9iSXVYamFwZTdFMTVncVd6Rk8wVnVTREZoRXY2NUI5NkxTME0wczVtVXRScHJGNV9Fc25LRWNKWjE0R09qNEdMS0xZeEdPLWZQUQ?oc=5"
+      "kw": "\"백덤블링 해도 병뚜껑은 못 열어\"...이재용",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fR0xpc09qdUNJLVhUOUMzY1Vva0NYb3RlMkNJY0pxTVFUM0xPcm1FRlRLNVB2azF1VFE3ZGVEN1Z1dzd6VzdoQ1lDbmJQZnpFV09yT3h3MGI1azlWRUYxRUllUlpvOVNwdVlPM9IBckFVX3lxTE5ibENWbm5VbklFcEx1T292aVhONi10WjFxTG1sS2xJWDNySkNZMGJIVTY3bFBzdE9kVUNPN0l4YVhiNERybkVReUpPNjlPSTJJVnhWSmppVldtVlM1VmdaeHdnUE9kRGxqMFMtLUFfSG5DQQ?oc=5"
     },
     {
       "rank": 4,
+      "top": false,
+      "kw": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FLUE2aFEyNW9iSXVYamFwZTdFMTVncVd6Rk8wVnVTREZoRXY2NUI5NkxTME0wczVtVXRScHJGNV9Fc25LRWNKWjE0R09qNEdMS0xZeEdPLWZQUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "top": false,
+      "kw": "호남 반도체 전력, 원전 5~6기 필요… \"태",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1E3U016cjRUWldyeUtRbE83ZFN2Z1ZBRHNibE5ZQjJtaDRrMHAzdVdQQXZoWW9TQTZOZE04cGRNYzJvcnpjR3Zwemt2YzdKSGhCdm9XdHo3LVMxVUhRek52U2hmNXF6Y2d3RUZBT1ZLaWFJd0Mwd1RZNkRxOFVxbndQUzY0QQ?oc=5"
+    },
+    {
+      "rank": 6,
       "top": false,
       "kw": "“다섯 손가락 로봇 손, 20년 뒤에도 없다”",
       "delta": "▼ 2",
@@ -34,23 +50,15 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNSmJjU2JHZ2paMFJKUVY1Y0NZWUd1NW84cjFySHp5b1U0Ql9ZUFFpalZUNk9vemY5U3pvdF9VZXhtczh2cDVDZHBhUWplQQ?oc=5"
     },
     {
-      "rank": 5,
-      "top": false,
-      "kw": "테슬라",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJMHhRZnNwclIzNUx0VUs0OG8tc0szSFRkQVVxdUJSNVBhV3o0M0pPd2UzYUZNZ0thMUdhTHY1dUNPTnN5aTVBOV9nSHoxeUdiXy1xNmZLZm4wSnppU25oT1dYZkdIV2tjdnVQZVZscWQ?oc=5"
-    },
-    {
-      "rank": 6,
-      "top": false,
-      "kw": "'월 100만장 반도체 팹' 짓는 일론 머스크",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ELWdVSHRwWGhwMkN3ZUxUWURRN2JlMVZKTDU0YTdDQ0JrNS1QT3o2OWZfclRJaEFYXzlHcjdTbFNkMWRnQmI5U1Y3S3RqOGlZS3RCcDBfZzYwZlM2NWZ5MmxKamNGQQ?oc=5"
-    },
-    {
       "rank": 7,
+      "top": false,
+      "kw": "한국 질병·우울 긍정으로 포장…AI ‘위험한 ",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbTFmYi1OWTM4RGs2S0dNOWE1T1V6Vl9MUlhEd09NVGdyV0VlVkVLX3VIMUZwc0VINzAwZ2Y1MlFmbVEzb1JOWG5EbTVpd2YwVjBqTng1dFBwcUpEdHJhZE01RkZjS0VicGx5ck9iTXBwUQ?oc=5"
+    },
+    {
+      "rank": 8,
       "top": false,
       "kw": "HD현대로보틱스가 최초 한 ‘사람처럼 두 손 ",
       "delta": "▼ 1",
@@ -58,28 +66,20 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeGY3ZVU0MnlXRmY2eENPbEVIRFZTZncwMzYxRmZYU0lPbzlwUkI0MlE5bzRyUExzeG9uSVlIV0kzTkdTTzYyRDFQRFNMdEtXVnNxQUJZamY5c1VLRTdFM0ozSXBZMWM3ZHVfTVZGY3R1UzhHZ05fX0J2dllnbFptQ214SWViM2tHdDFLSjRWNA?oc=5"
     },
     {
-      "rank": 8,
-      "top": false,
-      "kw": "한국 질병·우울 긍정으로 포장…AI ‘위험한 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbTFmYi1OWTM4RGs2S0dNOWE1T1V6Vl9MUlhEd09NVGdyV0VlVkVLX3VIMUZwc0VINzAwZ2Y1MlFmbVEzb1JOWG5EbTVpd2YwVjBqTng1dFBwcUpEdHJhZE01RkZjS0VicGx5ck9iTXBwUQ?oc=5"
-    },
-    {
       "rank": 9,
       "top": false,
       "kw": "AI 칩 열 관리 놓치면 데이터센터 주도권도 ",
-      "delta": "▼ 1",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFBRWmw4S3Fra0E2aHlIbldMWmIycHIyMVlwbWhlYXdVVVpQcVBGZ29LcUp5MGMxMUJHdWVVSTBxbE04ai14N1BrSmxNS3NuS3BDMVdrQXRqbmVQUGtfRGFfRFczb3ZRSFJiU0NFUHBXNXF5LS1QVTJfNVNoSUI5N0hDTQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "“아이폰 듀오, 화면 깨지면 수리비만 165만",
+      "kw": "스페이스X 호재에 AI주 반등…나스닥 1% 상",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVFESVp2WFhsM0d0dks3blhtNVpDbzdENzJsM3U0aU01Q0tUVE1GT096eGNVNFRrb3AzQVBkMDh3Z0tWMXM3SU9TZmExS2t3VDFha3AxVDVjTlF6T3I3UW1XV285U2hZaE5vSEk1TDZ0SmFZN21NMkxPOWtaYUx0YTZR0gGWAUFVX3lxTE11aDJtQU1nbVhYNmhLdVpZWXNOd1pBamFjdlVoUVl4MExkUE1KekRjUU5zTGNKb0xWbWxMQk0tU0loMG5VdjZ3d2xUUFVFZUVGdjdoRXFoQVNoaVZqb1paLW9sSkY0WVhZYUhfNkk4THNoX0pJSmxPWE9ESWtBLTNkX3ZTNzhKbG5WVjlEN0pHVEZTa2ZaUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWxXeHdjTklIT3B5WDRScUw0OTVxTFFxSGR3OHRmelE3bENFdlhVNnIyZjZXUkxjaWVNSEJOMHJTbUlxdHhydDZLX2tfcGZwcDF2MS1tbjZnaTFCVUxoXzhuenMwTTdQSi1KT3drN1hfQS0wbkRsc2swVFR1SjBsTA?oc=5"
     }
   ]
 }
