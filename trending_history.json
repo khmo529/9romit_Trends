@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-23 11:24",
+  "updated_at": "2026-10-23 16:46",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파",
-      "delta": "▲ 1",
+      "kw": "테슬라",
+      "delta": "▲ 3",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FLUE2aFEyNW9iSXVYamFwZTdFMTVncVd6Rk8wVnVTREZoRXY2NUI5NkxTME0wczVtVXRScHJGNV9Fc25LRWNKWjE0R09qNEdMS0xZeEdPLWZQUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53WkZvanZ6elRsQ2Mwdmp3VlJKSUhGNlktai1VWmFQOW5nUHNONTVhOHBlVzJlbVpHbl9sRDJNZFJHMG42eHp4RWNKUkFJa0tRTTRGTld3?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "호남 반도체 전력, 원전 5~6기 필요… \"태",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1E3U016cjRUWldyeUtRbE83ZFN2Z1ZBRHNibE5ZQjJtaDRrMHAzdVdQQXZoWW9TQTZOZE04cGRNYzJvcnpjR3Zwemt2YzdKSGhCdm9XdHo3LVMxVUhRek52U2hmNXF6Y2d3RUZBT1ZLaWFJd0Mwd1RZNkRxOFVxbndQUzY0QQ?oc=5"
+      "kw": "LG, 현대차 '로봇 수장' 전격 영입…피지컬",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTWdGQzM4WlBjYThzYS13ZGt0N29VLThlLTVYbUs1VmdRdW9oRjJoX2Fxa3Y3c1lSNXJ1djVnSW4yV01MMDJOV1FCLXNVLWpRVzhoUjl0RGF4Zw?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "사전예약 1분만에 마감…애플 첫 폴더블 ‘아이",
+      "kw": "AI 투자비 감당할 수 있나…나스닥 2.6% ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9za0liOUdEZEpWbG1rblZQTDFLQWhaZUltV0ZjMUJyemtjUFAxNWFjMHpTeVNnSHNZMHJWZGdscndLLVFSWmZIaWl1VnhUUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEtCMnJfN3NwWjZsSU1ucktWZzc4UWtIV2VlYVQ4UnFLUkdBUlQxbFc2bHNVWUszNkNOZ2tKT01naUdyeHBCZDMzR0JqNWR1UlJWa25UT1pDM1RvUE1ta19SdnFCdUZsWmF1dkJfZm1SeGZxaV96UFY2YUlGV0l6akRwajdwd2t5?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "테슬라",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03cEZpUWNaYmRkSzl6cGFtUE8yQ0VZSGR2ZDh5S1R1aTduc3RYb1dhS3hkX1lMdjF6NnpJV2c0aWRRVENMX01rNktENTh3OHZFUHNvcEFac3R3Z9IBX0FVX3lxTE00TW44cnRRNDVwTTMycjVoU1BNRDdOQVlnUmo3R0ZVNFZaWktUV1hFZnNtNHo2M3dHMjJja29lUUNYSHZmQmw2MlFGcnNVUTZ5TUI1WDZ0QS1PSUJOemFn?oc=5"
+      "kw": "\"PHP 보안 결함 비상\"...이해민 AI 수",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05X3AzMENUT1NyVVhRZThGbkZGdWs4bmF6XzAyQzZhTUlucUNWRFA4ZDBMZkJjTHlLeXhiX2JKN19LY1FZdHBjcjZodXRXQkZzOFNRMW53?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "HBM",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmdOU2JKMnVfSmplUDhQT3BhNG5jbmNGb2hIb1RReGZ2VmFTUzVOMTBOTWdFUzFQang2X2JVajh3NVl5VExleGdRZFcwWXQtV3JpR0Izbi0xZnNhcjJfWGd5Wk1ZX0N5dElsM1JrVXpwejFLcFZRWlZlXzNqTGJjOEQ2aw?oc=5"
+      "kw": "사전예약 1분만에 마감…애플 첫 폴더블 ‘아이",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9za0liOUdEZEpWbG1rblZQTDFLQWhaZUltV0ZjMUJyemtjUFAxNWFjMHpTeVNnSHNZMHJWZGdscndLLVFSWmZIaWl1VnhUUQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "CJ대한통운 건설부문, KT클라우드 안산 AI",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQm9xVWtvQTRtVmt4ZkdDWl9UTmNNcEJCZjRVRmIyT2Exb19QaDhPbS1YNkNUS2JYdkVkSHlmb2ZrMi1wXzlLZnpSNm5SeHdxeVo2WmlNalF4aDdKNDR0T1ZCRExXbU5kSm1pYnA1SEZPX25qSzFRc19WSENvQzZLTA?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BejhaOUJuM2lleTBNa2hpZjNCRU5NekxjdGFoaG5xYXQ5MVV1bzVDWFBuY0RiQ1QySEIyOTNaTVZfcHhHZmlJNzZ2eDNKeERNak8wcWNGUFYwTFdBOXFmbUN4cDlwb2N1SUE?oc=5"
+      "kw": "오픈AI, 목표 가치 200조원 낮춰… AI ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX05kYVBNYUhrRmZMRFBaeENqcV9JMmh0VFJSLTdDM3NqYVJsYUk3NlRxaTFRRmJCSUtEN3B2ZzFRamNscTJSZTNUYXd1eXlYX3ZTcjdqVGdNYnc1d19VZTQ1S0czZVU3cnQyMzVfSGNra0theXExcC1VekpLWGw1SGtB0gGWAUFVX3lxTE0tcU5yQjg4R1E2eUtsYTJ1TUZTSm5FNDFXQmw0UU9zc3p2UU4tUFRkUzl4WGh4c0E0NE0wSjB2bm92MmpMZDBULTBUYzhPVkJYVGQ4RTlXQ1hXbERyb0xVZkx4WUUxTVQzSEVtVmlVYzE1R0NaWFBmODZCS3A3ckQ3WXRuMEl3WVdVWHdEdHkyZ3Bza0gxQQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"예전만 못한 투자 열기\"…오픈AI, 'AI ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80Vm9Sdjl1UU10OUhoTUxyYXlaemxFaXV4UmJHNUlGcW8yWF9yWlBhS2lSNm9PR0tHRlZiOHA3ZWFNTXIzalZ5TFB6emUtZmRyTTYzQWN6SzU5Sm1EdmNXMWZZZHlpbG5a0gFuQVVfeXFMUHlyRXlhcUhmUmRkVGpSZDBJTkNyS2tvOG5ZTDM1M0N0QXU3VjN3YkVmNzhnX1Q2d2plNnV2U1htYjZpRW9Tay1vRlVGVGM0T0RGekYyTDBjNmg4MnpXci02bDU1b1dCNFN1SUxlQnc?oc=5"
+      "kw": "HBM",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmdOU2JKMnVfSmplUDhQT3BhNG5jbmNGb2hIb1RReGZ2VmFTUzVOMTBOTWdFUzFQang2X2JVajh3NVl5VExleGdRZFcwWXQtV3JpR0Izbi0xZnNhcjJfWGd5Wk1ZX0N5dElsM1JrVXpwejFLcFZRWlZlXzNqTGJjOEQ2aw?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "수능도 ‘AI 안경’ 비상인데…‘육안 판별’ ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Id0RVdlhvM293dXlpUkJXVzA0VDc1THFMUnVJZ18tWkl1Qk1na0duZzYzN2hnejNTd1hPamd6RnFBQ0Rxc3ZVYlpFMVF0dkxKcTNHLUdNUW1CTlU?oc=5"
+      "kw": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파",
+      "delta": "▼ 8",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FLUE2aFEyNW9iSXVYamFwZTdFMTVncVd6Rk8wVnVTREZoRXY2NUI5NkxTME0wczVtVXRScHJGNV9Fc25LRWNKWjE0R09qNEdMS0xZeEdPLWZQUQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "오픈AI, 구글 클라우드서 최신 모델 판매…3",
+      "kw": "\"네이버는 7000억, 구글은 258억\"…국감",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12eUFENUpmTFlkcVIxUFZxSVBTcjVNUVBKRDVHc1dsNmM4YmFuZ2tybjN0VTk5OUZ0Z0k2blI0MUNTLWVKZkUzY3M5NjFIZmxnWk10S1Fnd2U3UVJLRmt1elVCTDZjTTdFR1E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2a3k5YlpGY3RjRFVMd3ZIMUMxWEp0VzJrRHU1eHhJNjBlMUUyeXVobzVkcXU5dVpxck9uZ3pDSDdpTUlRckpPQnhXQkNKUXpMeUZiekhR?oc=5"
     }
   ]
 }
