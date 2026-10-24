@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 06:17",
+  "updated_at": "2026-10-25 08:27",
   "keywords": [
     {
       "rank": 1,
@@ -12,29 +12,21 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "AI해킹에 닌텐도 스위치2도 뚫렸다 … 소프트",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cGxGTWNBOFpvYTVnNFo2dUhlNlJKN0picjVaQ3FYQzlUX0FpZzNkbUtuOVllZUNCWHJhZEttMXN4eXZOX1FrZC1sd2JZRFRiQVhKaGZLLWZIV3hmZTNuaWlmSWl3SVBz?oc=5"
-    },
-    {
-      "rank": 3,
-      "top": true,
       "kw": "세계 최초 ‘로봇특별법’ 한국에서 탄생했는데…",
       "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OaC1fOFpEcmFtVXFpdDRHTG43YTVSOEZ3cE9adkg2OG1WRmxLREpoRjNLelVhdFhnUXZJLWhsOFE5ck1lZ1pLZ0ZFTmhJOFk2eEd3OEhlelZ4ZWM?oc=5"
     },
     {
-      "rank": 4,
-      "top": false,
+      "rank": 3,
+      "top": true,
       "kw": "테슬라",
       "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVk1xRjlmdnFlb2U1RW5LeXh3Zi0tbzJYQzA4SWZuYVJOTmhRS2hDUDRLSDE3M2R0cDUyeTFJZ3ZYbHNhc05WUUozT05LNDhwdTdwY3ZKdkYwQQ?oc=5"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "top": false,
       "kw": "\"애니콜 빼면 1.5류\" 이건희 질책…갤럭시 ",
       "delta": "▲ 1",
@@ -42,7 +34,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CenVpWkVrQ19vZTNjT1F3MXBteEJRVk1hMnMzYkYyWFJVN2FpcDNzQ0U4X0Vmcmlhc2xjX1BNbE5lRnpJZHhlYlllOHdJN2Q3eXFCa1Nn?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "top": false,
       "kw": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진",
       "delta": "▲ 1",
@@ -50,15 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tbjA3Y0dJUVhDQk1HMnRaNVU1Rm5iTkwzV19JRlB3by1oTXhZcS1kbjF0d25fbm5JclBoWjNjVzFpRHVLWGVHUkpqTHUwUQ?oc=5"
     },
     {
-      "rank": 7,
-      "top": false,
-      "kw": "LG그룹, 현대차 로봇 수장 품었다",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTUhKQm1haWpLN25XdEZTdTNEaTYzSmlYTkdWY2Nlc0E1VW5RRm9BQlVGRHkyZldRNm5SMF9WUFlDUXhiSlg4RzFmRXBDZkFUT21iNHEtNUVhQQ?oc=5"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "top": false,
       "kw": "젠슨 황 “2029년 메모리 공급과잉 없을 것",
       "delta": "▲ 2",
@@ -66,20 +50,36 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12YnR4MUdPR2tGSmhPVlhWdlB4WWtJSDV2RTN5a1VEQjhQMHMycmRpM0w2cmgydnQ1WnRScFhER05Xa3FUWUFsaE9lS2NIUQ?oc=5"
     },
     {
+      "rank": 7,
+      "top": false,
+      "kw": "“문제 캡처해 AI로 99점”…한 학생 글에 ",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zVlNJQ0Jrdk5KUVN0MzBjWWhqSnhrQUNvczJxYm1XaW4tQ3RNTHpqNmVyOEZTdHloWnhyR0g5SkFxaGJFb2tkUmZkMWVRNU9nRTJoeFZrc2R6a3M1T09GRzZ1MzJHU2pBSmM1aUx2RDlfdw?oc=5"
+    },
+    {
+      "rank": 8,
+      "top": false,
+      "kw": "문샷 ‘키미 K3.1 프로’, AAII 전체 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JV3pnUzVYSndHQ042QVJ6NG9keUY4QkZza2RLYVNRS2taSXdyLVBjNDQxbGJheFFjQ21ac0dZZnFkOWhvNzFZMXdXWm9JQWY0Q3BmRktxdEVRX1VEVWNuOHF5OWtkUTMyU1E?oc=5"
+    },
+    {
       "rank": 9,
       "top": false,
       "kw": "구글이 AI 에이전트마다 '컴퓨터 한 대'를 ",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hTGYtUzJJYnpXSXR6WU10QzBNS0JUQzd3VnYzZUtBeUF2c3BEdWRMZHU0UzNVeHNETnI3Tm0za2RVMVFkMXJMdDBSQQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "“문제 캡처해 AI로 99점”…한 학생 글에 ",
+      "kw": "회장님이 왜 ‘네온 챌린지’를?…‘딸깍’하면 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zVlNJQ0Jrdk5KUVN0MzBjWWhqSnhrQUNvczJxYm1XaW4tQ3RNTHpqNmVyOEZTdHloWnhyR0g5SkFxaGJFb2tkUmZkMWVRNU9nRTJoeFZrc2R6a3M1T09GRzZ1MzJHU2pBSmM1aUx2RDlfdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yN0pxRjJUdHhBT3liVFFkX0tBM2xUaWExMUJPV3Izb2lBc2dMemd5X3FnT05uWmpOOFNrT0NBeXZ4bERmSk1LRV9JN1NhZ3VBdE5sdGExME96Z9IBX0FVX3lxTE9zbThRMEZiZExKUUJxT201Y2Mwb18xYy1mMkk5MUM1X0Nzb1ZtLThmS1hlVDRBd2lpcjBUdnhIczBFTjVNYVdkRXhhY3hfd2VyQWFOdTNfTmZrZnVzd0pn?oc=5"
     }
   ]
 }
