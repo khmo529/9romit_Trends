@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-24 11:22",
+  "updated_at": "2026-10-24 16:28",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "테슬라",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVk1xRjlmdnFlb2U1RW5LeXh3Zi0tbzJYQzA4SWZuYVJOTmhRS2hDUDRLSDE3M2R0cDUyeTFJZ3ZYbHNhc05WUUozT05LNDhwdTdwY3ZKdkYwQQ?oc=5"
+      "kw": "IT 속보 1",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "사전예약 1분만에 마감…애플 첫 폴더블 ‘아이",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9za0liOUdEZEpWbG1rblZQTDFLQWhaZUltV0ZjMUJyemtjUFAxNWFjMHpTeVNnSHNZMHJWZGdscndLLVFSWmZIaWl1VnhUUQ?oc=5"
+      "kw": "IT 속보 2",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "국감장에 등장한 AI 안경 ‘몰카’…누가 찍는",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45elUxc1lRVnFKY3BKc1h0YURRa0YyYzN0N01WRlJ6TDlFaWVhVV9UdFFmUFRpS1BCdjFPSjVxazNPdWM2TUIydk9qYTloUktRR244TVpOVHdtMzRqdGpuNDhhVXE0NVA0WDlSVERrRdIBZkFVX3lxTE8zMGltS0hVanZFaXdYRHpvYTFKODV5YUx4cnhXX1JKZ0J3aWVKZlJqYkF5YXk1NEVnbWd0M0ZqRmo4S2N0Y1FLX2JGdmVhbGhLWU9FUGJ3SUVpZEEzV0tHeXRHS01lQQ?oc=5"
+      "kw": "IT 속보 3",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "“AI 써서 99점” 자랑글에 발칵…건국대, ",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91TkRsRW5ZOXdYVE9MSF9QZ2VpODhxWS1qdUVBbGFSLUVUSGZPU3JISVI5VDB3UW1XdDNqb3RDd3h6SUpSczk3MEdldXBLZ1dRS3Q3YzZoNklpcGMwVEFkWlFWT3p6MHFtNHFRX1FaSzBGUFU3NXfSAWZBVV95cUxOLWNoUTFRR3lHdF9IX3laTzNZQVBvOFRSVzlRVTBmbS1hZWlRMUZTazVjZjUwSFJLNllMUXNsX21oT1ZaRlhqYThzX1NzU29yaWw5ZU0teDhKanVPTmRTTUE5M2dSdXc?oc=5"
+      "kw": "IT 속보 4",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "AI해킹에 닌텐도 스위치2도 뚫렸다 … 소프트",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cGxGTWNBOFpvYTVnNFo2dUhlNlJKN0picjVaQ3FYQzlUX0FpZzNkbUtuOVllZUNCWHJhZEttMXN4eXZOX1FrZC1sd2JZRFRiQVhKaGZLLWZIV3hmZTNuaWlmSWl3SVBz?oc=5"
+      "kw": "IT 속보 5",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "오픈AI, 목표 가치 200조원 낮춰… AI ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX05kYVBNYUhrRmZMRFBaeENqcV9JMmh0VFJSLTdDM3NqYVJsYUk3NlRxaTFRRmJCSUtEN3B2ZzFRamNscTJSZTNUYXd1eXlYX3ZTcjdqVGdNYnc1d19VZTQ1S0czZVU3cnQyMzVfSGNra0theXExcC1VekpLWGw1SGtB0gGWAUFVX3lxTE0tcU5yQjg4R1E2eUtsYTJ1TUZTSm5FNDFXQmw0UU9zc3p2UU4tUFRkUzl4WGh4c0E0NE0wSjB2bm92MmpMZDBULTBUYzhPVkJYVGQ4RTlXQ1hXbERyb0xVZkx4WUUxTVQzSEVtVmlVYzE1R0NaWFBmODZCS3A3ckQ3WXRuMEl3WVdVWHdEdHkyZ3Bza0gxQQ?oc=5"
+      "kw": "IT 속보 6",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "엑셀 시대 저무나…프랑스 AI 스타트업에 33",
+      "kw": "IT 속보 7",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFhFV0szVTVBbm1PSE5iSi1ZMHNsNDY4VjNycTczQzE4c0lpbjZsU3kyNllQOFRDdXRpMllHM2xTSVMwd3RhYVBkdzIwbUZ2aVVXNnR2ZVhySVF2QXJIbjl6UEZLZGxQU3NtVTF5OExVSG1QNk1nd3JZUTFtVnJfOQ?oc=5"
+      "link": ""
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "세계 최초 ‘로봇특별법’ 한국에서 탄생했는데…",
+      "kw": "IT 속보 8",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OaC1fOFpEcmFtVXFpdDRHTG43YTVSOEZ3cE9adkg2OG1WRmxLREpoRjNLelVhdFhnUXZJLWhsOFE5ck1lZ1pLZ0ZFTmhJOFk2eEd3OEhlelZ4ZWM?oc=5"
+      "link": ""
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "\"애니콜 빼면 1.5류\" 이건희 질책…갤럭시 ",
+      "kw": "IT 속보 9",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CenVpWkVrQ19vZTNjT1F3MXBteEJRVk1hMnMzYkYyWFJVN2FpcDNzQ0U4X0Vmcmlhc2xjX1BNbE5lRnpJZHhlYlllOHdJN2Q3eXFCa1Nn?oc=5"
+      "link": ""
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "4m 높이서 뛰어내리고 괴한 제압까지…중국, ",
-      "delta": "▼ 6",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zZkRzcG45U1lCeno1c1A3aGNwUlMwVjF2bGFjRURLd1ctRFFVQ0UxZkNOQ1NGa19jOUZZdWVWdkFnVTdXMFFzN2lWOExJWGk5Tk1tdzIyeEllWXc?oc=5"
+      "kw": "IT 속보 10",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     }
   ]
 }
