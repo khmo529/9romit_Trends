@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-29 00:35",
+  "updated_at": "2026-10-29 05:39",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "테슬라",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYVJ2Y3FUUDdpdzZRX284T0VLRHR5dnhPOHYyQlhNMWkyb0N5TDRNUHVzX2Rtal9veUR2cVZfZUhGRGJHTG1WTGNfWjBlNUN3cGkwdXZVZjhKWjNES3hYLXEwQnBFdw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "방미통위, '인앱결제 강요' 구글·애플 과징금",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13dzJaa3F2S0ZKVjlEM3poZVlNVEdUSEhmQnotTXZsNkhrb1lwMWpTd0N6dU1zd21mMjBFVnZPNlIxY2MyalJkTnE4dWtPYXFmTlNmZnNOclFIZnlsWmNhUS1YZ0NiQTVwMHBlY25GaXBqajI40gF0QVVfeXFMT0RCRzFrakFOQWFobTlvNFFOZEs2NGVLSUJJT0JFT3RaUHh3UE1qbThXckZVUFZvN19vUmJzSERvc09td1RjWEF1NUNtaFVWdWpZa3Nlb1A0Vi0xeUVRa29DTWwwSGEtYnRVNHZsUmFKN2xXYkE?oc=5"
+      "kw": "엔비디아·팔란티어 다음으로 오를 AI 주식 1",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOei1iVFIyY2VZVTdLUElfTWpVbE1wWlEtai0wTDZkNDFWV19oZ3J0UE1UbVhja25FeU1WbmNBazFodTJ1VUc1NW1VUENnSU5GeUZZRVdfR3dnTUxnVWFXUkJ5U05XcmMwdmpmNzN6bFV5QTByVGVIWDY1RE9NQVBlcQ?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "AI 시대에 돌아온 자기테이프",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGliOXRhbGl3b0pqeXlpbHdlQ1VRTmxtUzdOaVhqN014Z0N2SW1sX003WFFqRFlETkNjYW12R28wVFhJRnVkTC1DYjFxVmdSTUMxdnZqbmg2UFVQU1I2WlZqOXBfR3U3cGtVa2ZFUS1hLTFrcUVsbVExTXdFM0dtRlNxQQ?oc=5"
+      "kw": "軍이 주목한 로봇개… 라이온로보틱스, 설립 3",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFNvQ0FXR2RqYU1rNklEZDZoSHB3dUgzTkk1ZkdDOExFNkNaZ1N5b2FFd0w4NWJBTHlKdExNeXFoWTdUd0gwUkM5eE5wTGNqRURMckZZOW15d0V3eFJNLWo4eF9iMThIbEh4T1l4TVRCblgycWtHdmVXd2p6VGoyOTExMFRXdEnSAZsBQVVfeXFMTXJ3SEJmME9XemdaRHg3TzlQUE9SVzcxVjlpdGdZRWM0YVZ3TkZlWVBQYlRuQmRhMGprSFdWRXZjVVBZTW1Cengzek4xOU51aGFjNEtTWGNsR2hpdXByQzdxaXFNdF9pMUNrSXdWVFBZOGx0M01kb1pYbWk0QnFkTWhzaUYzRzU3RVBIVExCSm9GaHpQLWtXQmdJY3c?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "엔비디아·팔란티어 다음으로 오를 AI 주식 1",
+      "kw": "AI 시대에 돌아온 자기테이프",
       "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOei1iVFIyY2VZVTdLUElfTWpVbE1wWlEtai0wTDZkNDFWV19oZ3J0UE1UbVhja25FeU1WbmNBazFodTJ1VUc1NW1VUENnSU5GeUZZRVdfR3dnTUxnVWFXUkJ5U05XcmMwdmpmNzN6bFV5QTByVGVIWDY1RE9NQVBlcQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGliOXRhbGl3b0pqeXlpbHdlQ1VRTmxtUzdOaVhqN014Z0N2SW1sX003WFFqRFlETkNjYW12R28wVFhJRnVkTC1DYjFxVmdSTUMxdnZqbmg2UFVQU1I2WlZqOXBfR3U3cGtVa2ZFUS1hLTFrcUVsbVExTXdFM0dtRlNxQQ?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "軍이 주목한 로봇개… 라이온로보틱스, 설립 3",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFNvQ0FXR2RqYU1rNklEZDZoSHB3dUgzTkk1ZkdDOExFNkNaZ1N5b2FFd0w4NWJBTHlKdExNeXFoWTdUd0gwUkM5eE5wTGNqRURMckZZOW15d0V3eFJNLWo4eF9iMThIbEh4T1l4TVRCblgycWtHdmVXd2p6VGoyOTExMFRXdEnSAZsBQVVfeXFMTXJ3SEJmME9XemdaRHg3TzlQUE9SVzcxVjlpdGdZRWM0YVZ3TkZlWVBQYlRuQmRhMGprSFdWRXZjVVBZTW1Cengzek4xOU51aGFjNEtTWGNsR2hpdXByQzdxaXFNdF9pMUNrSXdWVFBZOGx0M01kb1pYbWk0QnFkTWhzaUYzRzU3RVBIVExCSm9GaHpQLWtXQmdJY3c?oc=5"
+      "kw": "“후배가 쓴 보고서, 대놓고 AI 썼네요”..",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdEdiS3hSaGk0b0gzNHZTNFlHdHVzd3M1MEozWkw1QzFOMFlpU3gtb0xFSWM2MUMtSVpMY1pPczVENTRGam1kU2JkRTlEUQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "“후배가 쓴 보고서, 대놓고 AI 썼네요”..",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdEdiS3hSaGk0b0gzNHZTNFlHdHVzd3M1MEozWkw1QzFOMFlpU3gtb0xFSWM2MUMtSVpMY1pPczVENTRGam1kU2JkRTlEUQ?oc=5"
+      "kw": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 ",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMDgzc1F4S1o3RXd2MWt2YzZHMGJQWkRWQmxVdGYzM0pwZEgxYVpGdHlZXzUxdUROazRsUk5rVjllTlhoRGxsY0tfRFhsS09YZHQ4VUdTM00yRVI5TjNIeENRYk1CTmdDdUFHVNIBckFVX3lxTE5iLTlUYm05UVZudFh1QU1CRjViUlc3ZVpVNzV1WTNPVE9SWElEWTZsQXVYbXJiZFNfajR0QUdRcG9rdm1JbjFWNlJSSVJqVzlUUVNkaE9fRGFHVU85NEhCZFVYMTRXaE1QckdxY2w2cjlVUQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "“배설물 치울 일 없습니다“…’로봇 개 산책 ",
-      "delta": "▲ 3",
+      "kw": "\"AI, 중국칩만으론 불안\"… 고성능 한국 D",
+      "delta": "▲ 1",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQTElKOXZsb29CX2xYNFNyQ1Rab1g4YTBwRWJpUTlzdzRKZ0FvMXd2cUN4LXFqckpzdjM0U1hfbF9DNDRPZXdqSWZpazVMbTdmOVZmT3czdTZPODZteW4zN1N4LWllMjQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBallSTnpmVUxIUVJBT2libmdIc2c1eklwbmZYYkNuSDQyRUxiXzFyaGtkdl9KQ05MZ3BiVmh1M2hLRlNiWnNJTUdLSVhOYXlWUE8wamNR?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"AI, 중국칩만으론 불안\"… 고성능 한국 D",
-      "delta": "▼ 6",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBallSTnpmVUxIUVJBT2libmdIc2c1eklwbmZYYkNuSDQyRUxiXzFyaGtkdl9KQ05MZ3BiVmh1M2hLRlNiWnNJTUdLSVhOYXlWUE8wamNR?oc=5"
+      "kw": "\"中으로 몰리는 글로벌 자금… 로봇·전기차는 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmNUMXZxTUgwOTVReUVqVHg0ek5aTnVIZ0dwZ0ZEMjExYkxNblZCemdhNnhnM25iYTVueVR2aHFGVDMwUGdQaFpremU3UkpZcElLYXJLanVtMGl0WGhaMjc5cDkzUndFM0hiNHQwSk1RSmxPUzRUY3Z5eDZGb2lSOA?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 ",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMDgzc1F4S1o3RXd2MWt2YzZHMGJQWkRWQmxVdGYzM0pwZEgxYVpGdHlZXzUxdUROazRsUk5rVjllTlhoRGxsY0tfRFhsS09YZHQ4VUdTM00yRVI5TjNIeENRYk1CTmdDdUFHVNIBckFVX3lxTE5iLTlUYm05UVZudFh1QU1CRjViUlc3ZVpVNzV1WTNPVE9SWElEWTZsQXVYbXJiZFNfajR0QUdRcG9rdm1JbjFWNlJSSVJqVzlUUVNkaE9fRGFHVU85NEhCZFVYMTRXaE1QckdxY2w2cjlVUQ?oc=5"
+      "kw": "AI 슬롭과 복제가 두려운 개발자들, 밸브가 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSRWx3akhaSy1Sdm5fV0NVdEhFa3QydkxCT0JrNXc5UVdMbkRTZGRYVVdfbWRnMG5qTGJmemJ0NHR1RHdieHVCcTJmOWZfV0Zlbng4bWY4OXlsZjNtRFE?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "이재용, 취임 4주년에 로봇 핵심 거점 찾았다",
-      "delta": "▼ 4",
+      "kw": "“배설물 치울 일 없습니다“…’로봇 개 산책 ",
+      "delta": "▼ 3",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0hvMG9uak5RT1FhUEVhMUxaOGM2UzB0dkh6dmI3bkZLWDdBUjQxVE9jRHNtQm9Vd1lHd2lsdzRxQXdOWi1KNFBYRWxOMHFJcFBGWFVTMzZFaEJnS3RUZUV6R0xPY0pScXNHODZmY193VUVqbk9VSkZHNndDYkRiRWFVMjdJb3Uyel9kS2liQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQTElKOXZsb29CX2xYNFNyQ1Rab1g4YTBwRWJpUTlzdzRKZ0FvMXd2cUN4LXFqckpzdjM0U1hfbF9DNDRPZXdqSWZpazVMbTdmOVZmT3czdTZPODZteW4zN1N4LWllMjQ?oc=5"
     }
   ]
 }
