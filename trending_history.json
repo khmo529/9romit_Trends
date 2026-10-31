@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-31 09:15",
+  "updated_at": "2026-10-31 15:00",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "틈 벌어지고 화면 깜빡이고…'아이폰 듀오' 초",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUjd4TUxnYnBLdFFlYnRuR01NYjNLUnhUMlMyOGo2MURWSk1VQm9SdVU4M3NhTmRGSG5TT3ZxT0gtdlZjbUdsVVhRdnEtaGd0TUZyR2JQOUJnZw?oc=5"
+      "kw": "MS “北, 한국에 악성코드 100개 뿌렸다…",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82UXFIUEUxb3B2dXV6UGlRZFBqRmx1WVA5ZzAwN3VoRDZuVFRwamNjYnplQ2FYWVFMWWMxTVE2UkQ1WlpPZF90R1dTMlF5SHpIVmc?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "MS “北, 한국에 악성코드 100개 뿌렸다…",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82UXFIUEUxb3B2dXV6UGlRZFBqRmx1WVA5ZzAwN3VoRDZuVFRwamNjYnplQ2FYWVFMWWMxTVE2UkQ1WlpPZF90R1dTMlF5SHpIVmc?oc=5"
+      "kw": "AI가 잘될수록 손해? ‘AI의 역설’... ",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1NVUzhFQy1CWE51NFlMUUd4S1RKSng3ODVTYmk4TnQ3aUxONEg2UGtCNjRUXzFlajJuVENLUVRON2MtazZwQ01JaW42a244SkFtWGFGRnE4OWFMalpZZU1ZLVZzUGVVN0lFc2NLemdqNWJDR1ZQeWZ1WHVtZUo4ZUxvWQ?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "MS·구글은 사상 최대 매출인데…‘클라우드 3",
-      "delta": "▲ 1",
+      "kw": "중국, 앤스로픽 막히자 오픈AI 아스트라 증류",
+      "delta": "▲ 3",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeEhhOWlwOWxMSE5ySVBhODlRaWFmZVZtN05DTjl5SGZWUG9oaDJ3dnhvdTZETTgyeFB6U0hGbXdKRFQ5M2ZRbjVOTjRSQVNmLWtOSGJuMXlvSE1DS3FyU0pIWUVxM28xdjg5Nk1fMG82MlZxX3Bfd0M5aUlRZEQ4aV85SQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0JHbnR2NjlmMkxSeVN5WE50V0IwVlczX2JKUU56R1RtUUwyN0ZPSmxXVS1hQXd2ZXZXR1p3cVBMMlhxbUVycm1pWUJlc2pZZGZETE1KOHpnNmdGLTdwQ3ZIUHRNbVkzN2xDQUxiVkd4WUUycVJtMDViM3NOb0xCUUlHQQ?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "한국만 ‘집게손’ 뺐다…애플 아이패드 홍보에 ",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TeU1veVd3U1JEeVNkTTBHUzVOdUt4VVROLWNVTWpBN19TUjFIODgzYnBYS2lLUDg3Rlk2dDcySzRHMXN5QkoxREp2cEpMbUhFYklIZ1Nn?oc=5"
+      "kw": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fbXg4anp5ZmRWR3g4aklWQjVvYmpqRXBvdGdPMUJjeFcwZkdNSEZzMVRiOWVmTU5OQ1lBVHJFWlkzU2V0S2dqYnlLbkx0MlF6aG1xTkdjU0hpa1AtQm0tVGVjampYQ1k?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "AI가 잘될수록 손해? ‘AI의 역설’... ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1NVUzhFQy1CWE51NFlMUUd4S1RKSng3ODVTYmk4TnQ3aUxONEg2UGtCNjRUXzFlajJuVENLUVRON2MtazZwQ01JaW42a244SkFtWGFGRnE4OWFMalpZZU1ZLVZzUGVVN0lFc2NLemdqNWJDR1ZQeWZ1WHVtZUo4ZUxvWQ?oc=5"
-    },
-    {
-      "rank": 6,
-      "top": false,
-      "kw": "중국, 앤스로픽 막히자 오픈AI 아스트라 증류",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0JHbnR2NjlmMkxSeVN5WE50V0IwVlczX2JKUU56R1RtUUwyN0ZPSmxXVS1hQXd2ZXZXR1p3cVBMMlhxbUVycm1pWUJlc2pZZGZETE1KOHpnNmdGLTdwQ3ZIUHRNbVkzN2xDQUxiVkd4WUUycVJtMDViM3NOb0xCUUlHQQ?oc=5"
-    },
-    {
-      "rank": 7,
-      "top": false,
       "kw": "Gemini 4",
-      "delta": "▲ 1",
+      "delta": "▲ 2",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qeWxXTFQzSmFCOVZ1ejBPVlVHWm1meWdMQkVlTHJVeUxhUlUyX1NWbkhOTXJnNmlJeC16YzlVX1lQSWllaklZbGpTWQ?oc=5"
     },
     {
+      "rank": 6,
+      "top": false,
+      "kw": "중국도 헤매는 로봇산업… 한국이 ‘휴머노이드계",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakpsODFTTGxWNmRDUDl5QmtCU1d5NHBqTjRBVjA4aE0zV1FzeWlKOE0xd1pGTFI3c3NFaEw2Y1A4RzJNXy1xQ1JOTkJqeGJBaVZsejV0ek0yQ0RCeVJfX1pwa190VnNZY3g5U0RfeWgyZ0JtaUNrTFU1eFI4YnIxcWlmOA?oc=5"
+    },
+    {
+      "rank": 7,
+      "top": false,
+      "kw": "갤럭시Z폴드9",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EbW52UWh5TTZvdmRlYXltT3hGU1pzZkJEUGloUlJ3TXY5TDV4MHh6UVdQM21XZXdkWElndDl4MTVWZEZ6dUdlNzlFRnpWTnFiZUNaM2tn?oc=5"
+    },
+    {
       "rank": 8,
       "top": false,
-      "kw": "테슬라",
-      "delta": "▲ 1",
+      "kw": "오픈AI, 프로· 용 AI 사용량 최대 2배 ",
+      "delta": "▲ 2",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5telByWk9Bd05rRnA3aFlNZTllcGJUdFllSVpiQ3hVMWxvNVFCZlVKYjVFV0FYMjU1d2ZGR19XbER2SUZQTHpQVGdiYkhvQ3NUdy1UTXRtaVcxRWZ3eWc2eWMxbVZtZDEwc2ZQRHhCUEc4Z253NUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YVdzUDRRNlM1YXc4WjZ2SFp3eUs2ZW1TTHpZdElON3UwdXp0d0VsR3dkbWE4aVdwZjhaZ0N1RF9Vb2Y1ZDhtX1BuSmVkdzlQcVJmc1hHYTlhLVltWjJXYlp5SmtlblJvUlE?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "중국도 헤매는 로봇산업… 한국이 ‘휴머노이드계",
+      "kw": "\"협력사 대표 무릎 꿇리겠다\"던 애플 이후…L",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakpsODFTTGxWNmRDUDl5QmtCU1d5NHBqTjRBVjA4aE0zV1FzeWlKOE0xd1pGTFI3c3NFaEw2Y1A4RzJNXy1xQ1JOTkJqeGJBaVZsejV0ek0yQ0RCeVJfX1pwa190VnNZY3g5U0RfeWgyZ0JtaUNrTFU1eFI4YnIxcWlmOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DY0ZrRVlONndta05tb0dwOXBpUmQ4Ml81c0dzWkZ5V2VUN3lpX1NueWVpY08xQUlVdHQyaXZ1bmpEMms4UWdBbUNqMWFwdFItYTllNWRxS1dndw?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "오픈AI, 프로· 용 AI 사용량 최대 2배 ",
+      "kw": "데이터센터 짓는 구글, 40만 그루 ‘무단 벌",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YVdzUDRRNlM1YXc4WjZ2SFp3eUs2ZW1TTHpZdElON3UwdXp0d0VsR3dkbWE4aVdwZjhaZ0N1RF9Vb2Y1ZDhtX1BuSmVkdzlQcVJmc1hHYTlhLVltWjJXYlp5SmtlblJvUlE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10VHdrckVNNjZoTWpKYTBrY3ZUREkzRFpra1JFaFBkSXM1dDBMY3JJNWVKRjc0N3o2bVVESEZlaGRmeW9SRDFYUTVMN0h5YmlDZnRCYWNraVJDdkFZZzhzMmJKZHAwODc3N2xRQ0U3a3pEQQ?oc=5"
     }
   ]
 }
