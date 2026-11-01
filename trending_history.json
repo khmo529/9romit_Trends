@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-11-01 12:01",
+  "updated_at": "2026-11-01 19:40",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI가 잘될수록 손해? ‘AI의 역설’... ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1NVUzhFQy1CWE51NFlMUUd4S1RKSng3ODVTYmk4TnQ3aUxONEg2UGtCNjRUXzFlajJuVENLUVRON2MtazZwQ01JaW42a244SkFtWGFGRnE4OWFMalpZZU1ZLVZzUGVVN0lFc2NLemdqNWJDR1ZQeWZ1WHVtZUo4ZUxvWQ?oc=5"
+      "kw": "韓日 금융·제조업 뭉친다…일본에 10兆 AI ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tSWlpdWxFTWpJNlpOdXhWYjE3dTMxU19UbVNsb3hhS0FWX2Z2YmtmdDIteGptUmNuOThsNXIzYzQxS3VwUFUxOTlhWDItdFAxTnljUUozdVYxdw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "\"절반도 못 모았다\" 오픈AI, 투자유치 굴욕",
+      "kw": "AI 한계 넘을 기술…월가가 찜한 양자 컴퓨팅",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GQlp6WTczRmVnN1k3bVRYRGxCZUh5bkdROGhMZkVvT29rTkY1N2ExbDhnbWg1dm5MQ3hNY3N4Y3pwWjB3SlB0dF94THdmYzBwMGNuSnhxMVZ3c1JnVV9WMjdHeXVSMlBu0gFuQVVfeXFMTVZ4N3ZvVVZJcmhxNEpNd1pxNEQteTFEcXFMcWlCQjVmYjNyQ3g4cjgxMUhsdm1zd1BaWVg1ek5KbWh5eTRpdTJBS2JwRy1DcU5hdm45Q3lCZnNZdjlRckI3WGFjNGl2OHhWdm5TVXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMl9ITmtXT01Kc1k0RlJjVnNwWGQweUNUSXBzcWpZbWUxT2lnaG1PdzNJWXlsY1NhSnp6eGlOVC1jb3BDQVV4b0JzYm1SREU5STRHTnNsZGdRRjN2eGpQTlJuZ0NVdFNTRVlTcHpQRGFIRjVseXUyMFB6M1ZqMUlVSHdzNnR5Z2ph?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fbXg4anp5ZmRWR3g4aklWQjVvYmpqRXBvdGdPMUJjeFcwZkdNSEZzMVRiOWVmTU5OQ1lBVHJFWlkzU2V0S2dqYnlLbkx0MlF6aG1xTkdjU0hpa1AtQm0tVGVjampYQ1k?oc=5"
+      "kw": "리플 XRP AI 에이전트 결제 폭증해도 은 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmktaTJsMkJVaFFzX0hhOXZ3YnVRblFKb09SWmhOcnhuNFBqbWRTcGRkLXh5N3hVbUx3QVQ5NUlSQl9fYWhlUmZ4ZlNnOGFhODU5b010U3FwcC10a0Q2dENzd00wcW1CVHEwMWJfcVBmaktpR09fQlJuR19mY2RBaDlnSDdhR3dw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "로봇 몸은 바꿔도 두뇌는 하나…택배 배달까지 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SZUZaTTJUcGxWaUlEanhyOU1nOUhDaUZVU19GcndnVGtsLWVfaWdOWTY0bFMyQnlwZ2pvcVF2VF9VYUNQU29IcTNlRzBDeXNVZGg3dTkzdEVpdDNUbTBzZGt4LUhFdw?oc=5"
+      "kw": "\"절반도 못 모았다\" 오픈AI, 투자유치 굴욕",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GQlp6WTczRmVnN1k3bVRYRGxCZUh5bkdROGhMZkVvT29rTkY1N2ExbDhnbWg1dm5MQ3hNY3N4Y3pwWjB3SlB0dF94THdmYzBwMGNuSnhxMVZ3c1JnVV9WMjdHeXVSMlBu0gFuQVVfeXFMTVZ4N3ZvVVZJcmhxNEpNd1pxNEQteTFEcXFMcWlCQjVmYjNyQ3g4cjgxMUhsdm1zd1BaWVg1ek5KbWh5eTRpdTJBS2JwRy1DcU5hdm45Q3lCZnNZdjlRckI3WGFjNGl2OHhWdm5TVXc?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "\"협력사 대표 무릎 꿇리겠다\"던 애플 이후…L",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DY0ZrRVlONndta05tb0dwOXBpUmQ4Ml81c0dzWkZ5V2VUN3lpX1NueWVpY08xQUlVdHQyaXZ1bmpEMms4UWdBbUNqMWFwdFItYTllNWRxS1dndw?oc=5"
+      "kw": "Cisco, 27세 엔지니어에게 AI 토큰 무",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ud1BYQlpRVnh5YWxqWTJXVjFUSDRXbWlKdnJfcy1OdlZIcDg5WmRsMENFMjdOcFNsa1p1RmVGNmRGNVl2RGR5aWN6dw?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "Z 폴드8과 아이폰 듀오 세상에서 갤럭시S26",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GUWdxdWZtN0FHdjR6VkFYamhWQ05VSFFWakVnRjF2MjlCMzBnNkRpMEY0WUxqZVNKTkhuTmhvVllVdVZOaEVYSDJZSWhYdHRvS0NoWEx4YWU0Z2RPbUZtSGtEZ00?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "중국, 앤스로픽 막히자 오픈AI 아스트라 증류",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0JHbnR2NjlmMkxSeVN5WE50V0IwVlczX2JKUU56R1RtUUwyN0ZPSmxXVS1hQXd2ZXZXR1p3cVBMMlhxbUVycm1pWUJlc2pZZGZETE1KOHpnNmdGLTdwQ3ZIUHRNbVkzN2xDQUxiVkd4WUUycVJtMDViM3NOb0xCUUlHQQ?oc=5"
-    },
-    {
-      "rank": 8,
-      "top": false,
       "kw": "한국인 챗GPT 활용, 문서 편집 1위 유지…",
-      "delta": "▲ 2",
+      "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81RHVGeHdMQTdzQmpsRUN4Y0xnc1VURjBRMzBUcVJnMFJCSjBqbWRocktGaDNxMVRVRmdDeGwyREJhTFhwU2VsWjc0UWxQOXQ1YVRmdG5mUlpDMTVhVTZqaUd4aWxnNkZQVnc?oc=5"
     },
     {
+      "rank": 8,
+      "top": false,
+      "kw": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리",
+      "delta": "▼ 5",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fbXg4anp5ZmRWR3g4aklWQjVvYmpqRXBvdGdPMUJjeFcwZkdNSEZzMVRiOWVmTU5OQ1lBVHJFWlkzU2V0S2dqYnlLbkx0MlF6aG1xTkdjU0hpa1AtQm0tVGVjampYQ1k?oc=5"
+    },
+    {
       "rank": 9,
       "top": false,
-      "kw": "\"아래엔 푸른 구슬\"…구글 첫 우주데이터센터 ",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNFhaRXNweG5IeldpZkRzZW9uUG1sdVZCV214MmxCQXZCLTlKZ2JLVWV1QjZIN0ZEUTVvV3B2SHZPOEJEdWpGcnZoTWJyWm9qNmV2ZXdLX3lvRjjSAWBBVV95cUxOUUhwYmJmV0dJa3ZlTENabTRYdndmMGFXWnY1R3hTNFRWT1p5bGt3ZDBQbVBFaEFGeHZzSDkwRWlDVzdGUnRXRFp5bi0tSk1sWXhVb3RNcFJwNEZOMlVuSUc?oc=5"
+      "kw": "ChatGPT",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyQXB6cTFPUkg1WkxKY1g2VXJUMWxPQjdvT21ZUW5PM1JIXzF3LUpsbWZFeElaaE0tckp4emJmcmxSdGFkS1lZQnNkTQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "AI로 게임 만들고 로봇과 대화…깃허브가 넓힌",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fa0o5U2owNGlmRmhhcklWYUtWd0FoTE9LemNETE1ySnNSQUJJdjU5VXVhR3MzRjBQQjI3NE1Ecjdnc2NkQ3Z4dnNXR2V5amNSekhuVDF3?oc=5"
+      "kw": "“수학자 지정해 검증 맡기지 마” 수학계, A",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84Wm4zYWZHWFFlSmZYelVvY1BobGtTdllVMXE1dVRId0w2b3Z0azM1bWxBUEN4Zm1nWUFXQTN4ODBDU3BNbHVrWUdRRDFnZmJOWDB1VVJMMFJKQkFXRGJrc29XbVVLRk1iN09pa2VQVdIBZkFVX3lxTE9aajlvVkt6LWhta3ptTnE4bW5ESi1XNVc2OFE5d0RNd2w2Sm05WEZyUjR4LTR3MHc5dzRwSUJBWVRTMmlHTjlmQTRfWXBSLVg1TFVubEZYbDRIS05xcnNtTWVlR1pkUQ?oc=5"
     }
   ]
 }
