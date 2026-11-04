@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-04 04:39",
+  "updated_at": "2026-11-04 09:15",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "“당분간 AI는 손 대지 마라”…현대차, 해킹",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80NXdPSDNGSTJiT1ZnT2hWUDExZlB4c0lCU2xwTXpHMlREM1dqcmVaWFFXV0ItRGY2SUVBMTF5THpaM0E2VDlVYnp2ZkZTTTVsM3lfeU5R?oc=5"
     },
     {
@@ -29,57 +29,57 @@
       "rank": 4,
       "top": false,
       "kw": "'세계 1위' 삼성전자 또 일냈다…애플마저 제",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qd1htd1NsS2tqV0FpeTducGFnYzA5eVBfTVhFZVdUYVZnX2tYc0xzTG1JQ1RIR2dFbVFRLWVXeEwxN21nQUpwMW1PVjRBeFczUi1XWV8wUkZwQQ?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "OccupySaaS - 해고된 엔지니어들이 A",
-      "delta": "▲ 5",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yQTg0R05qT1Z5SURkWDdZWFUzYkZsQ3E1dklzM3gzZGtYUy1IR2dyQzg5dkxTTDNkcEktWmE4a21iS19idTc5WDNlcw?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "500kg 들고 원전·항만 누빈다…4m 거대 ",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lOFotUWNpeHAzSE5ubEcwUFVnZXp1NHFlX1U3RldmTXhOa284aUoxdFB4aUhiMjhNTFlLOWVkUGZGVjJYM1Q1YjM4WVllS21LZ2dqYVNR?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "테슬라",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOX3lPOWZVcUJMeE5ieFduMXdJZmNpTzdRRlZSakh5SEVqalE2UFZpRjk0b3hUM3BfZmFHMVZ5TXdObU1GR3Q2S0Z3YlVxeDROZGRaMDNR?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"무조건 환불받아\" AI비서 시켰더니… 의원에",
+      "kw": "오픈AI, 12월부터 챗GPT·코덱스 사용량 ",
       "delta": "▲ 1",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelZtbnVPRlk5RGx2NnZJMUl2ODNRakM2R1prX0RhV0owX1Rna2NsN2FOMC1sSHc1b2VpOVoyUThhN3NobjJzbUhhcWVqTkhIbU41RG5NU0NaRFl2cXRtaVhZV0dqNEZDVGtxTjVBUEc0elVxLXFwNnNpZzBGZzBiNnRkQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuWXhpRXVnOHJodmZzc1d1SDdxalFDd2RYZnVSR05meWNReUtSSGNxdnJLSld6eWoxa2ZVeFRSNGVKQVRta01OaGtFdjdncFFGMkFfOV9RZ2xEZkczeFcyWVR3MjZtU0hWbWc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "오픈AI, 12월부터 챗GPT·코덱스 사용량 ",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuWXhpRXVnOHJodmZzc1d1SDdxalFDd2RYZnVSR05meWNReUtSSGNxdnJLSld6eWoxa2ZVeFRSNGVKQVRta01OaGtFdjdncFFGMkFfOV9RZ2xEZkczeFcyWVR3MjZtU0hWbWc?oc=5"
+      "kw": "'시리 AI' 더 쓰려면 돈 내라?…애플, 유",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFVbHJKaUhNLTZFd2dhOHRFMGVzaFFoeU10N09PaVJWaGRwMW11aTR1Z21uYWJwS1lObmFSU3pUcU0xSTBOemVzTFQ4ZlVCU2ZKTmdOc3owZTM1ZTBNRnhMazRXSkN4QlZCZWNYZ0JsX2Z6bFhiLURrV2Nmd2tMUg?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "층간소음 잡고 로봇이 쓰레기 수거…IPARK현",
+      "kw": "삼성 뉴스, 12월 21일부터 갤럭시폰에서 못",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWZZMXFhWFVXbnlMLUtkZURzS0JJbGg2WEUwVzFudVdYYmRmTk1XaDhxbXZqeGw2SE83aS1adzlPSk5hZFpNR3hBY19xSzBjOWM5cFZNeHF2bktWUTdndWlHNm9qTmhuT0xtQ01Ia1pib2p6dk9FaDhVSDdyM0ZHaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmxqZzc3aVJSNy1tbWJIeG1CcF9BLUR2aFZDbHNYTF9fT3J5NkdRdHY2Y2ZDSHV3YzY5Q1pVT1FiWVo5eTR4ZWVnZWxyMGIwYkFJNS1jZFdwY1hrNENkQTd2UU5IZ2prYTFGSEpCYkxRSVVoYlR1ekNIeEFoaDZ5RXpB0gGWAUFVX3lxTE4ybFN2OTVLdm5SRVBZbUl3UDFWLVMySHZocFQ3RGwycGpXNHBqV3lFMVZhWVdDdG92SWJRWWxLcmxSc0ctUHlKaGNjUzl3ZDdadjM4ZmR5WW56dGtKbmdOSmk0RzNlRnhnejc2NzRhRzdvVFZ6d1BTQmhJT1EwTXp5RFVfTU5LQkcwUFRyUmpObTlla2w4QQ?oc=5"
     }
   ]
 }
