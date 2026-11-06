@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 07:26",
+  "updated_at": "2026-11-06 11:38",
   "keywords": [
     {
       "rank": 1,
@@ -12,66 +12,74 @@
     {
       "rank": 2,
       "top": true,
-      "kw": "美 중간선거 후폭풍, AI 데이터센터 강타하나",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03N1EwNXRIc2ZmNDNHMTJrQWZ6TXZHZ003MjR3MG1oQi0yaXRmX2FCNjQ2ZktMUFJwTkFRNDdqMHZvYWdQeTc1SlFxOG5VYW53YmZnTWt3?oc=5"
+      "kw": "AI안경 쓰고 수학 문제 보니, 20초만에 고",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02NEJrcDQxZVd2V3RmVW14NjdwWlM5TXZqS2pOWXk0ZGw3a3puSktoQnIycHFSbXZoVHVPVmVJVk1IMUdNem45M2Q3ZDYtcnVIc3RjNUQ1dkd6M3AyOWY3TUt3MW9GVDczU2otV1E2MUJfOTR5NlE?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "제프리 힌턴: AI가 없었더라면 더 나았을 수",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01clFzWkxTQXhzOXFFZGgxNzNIS2VRV19tRzJpNDBFU1ZJZ3RZRFBJR1JfQ05PSVliZ3BsM2lIUHlNOVV0RGl5LWxHcw?oc=5"
+      "kw": "美선거에 AI 데이터센터 날벼락… 주지사 당선",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1JJT3l6LVB3NlFlamJJVVZ5c0lUeGtwNkZ2YTBPNU1jQ25QVjl1RE9sTFpEcGM2MTdiYlZGUDdlT2lROXVMcXFGU3Zya3NjOW5ENEpseUhfNE5jT20xc1BNRDhxUzU3MElRMlhMeXp4SkFDZW91OVJXSndFRE16SjNhdw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OX05aOUlrbTA5R2U1YmQ1WTZfSWY1RU1INzlVZ2p5bDVwWWUwaDV0MVlUSE5EQU1HNmg3SWdoY3NpUExwRmprVkZWRQ?oc=5"
+      "kw": "‘부캉이’ 떠나 휑한 북항 친수공원···부산시",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QT0lqLUgtSmhva1NLdnZWN2FvV2R6STAzN3lud3NXakhBc0o3SVhsT0NaVVliMXdRRE5oVHFoaThMQjJVN0NCZmNBdFdEZTZ1TUViYmpCMnl6Z9IBX0FVX3lxTE1VcklqdTJuTDBqVURyVXFXbXpIZW1TWngxaGw0NnpTN3BNbzlELURoQU83ZTFHdGNUd1B2SDY0RmxzMTFKMGtXQm9KZkRld3RFam5wQVdvdUZHd21MZWJz?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "’시간당 1000개 하역’ 보스턴다이내믹스, ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02VWwwWmRjUm1vSGRrMnpISktmYlJJeUl1S24wckUwdVRqa3I2Y2tueWZXTzZ5d0c4N29LeXRxbVZRZXhhSTJDOVp2d2M5MmYySlJndmw2MnNpYm1tZFpVSEp5UXIwakhTS0ZHN1ZIT3g?oc=5"
+      "kw": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OX05aOUlrbTA5R2U1YmQ1WTZfSWY1RU1INzlVZ2p5bDVwWWUwaDV0MVlUSE5EQU1HNmg3SWdoY3NpUExwRmprVkZWRQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "“로봇이 열사병 걸렸다”…中태산 등반 과열로 ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SYWlTX09uNmZlYVF0a0o4cC02VGY3b2pFUGd3UG9XdFJDcmUyNkloRU1LMDJrU1lHQ1NsUkViekdVcWQwRktVcnhScUl3TUMyV29NRWRSUWs4TWZ6S3hrQUp2aEZGVEpCc1YweDRkaDdqRk3SAWZBVV95cUxPRG02YjJZMTd3Tm9mVFlFOEFhSzZvcGZ0SGpGd1lzSjcyVVZQTV9ZSXhWTXNndHp5dkpMSktYVk5XNTRCVVVzdjRsYmhsSW9ER1QyYW95LUY3dVRhWWUyeWQ5eWpvYXc?oc=5"
+      "kw": "‘토종 문과’ 한국인이 제미나이 이끈다…구글 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VSHJwZU00eEx3S0RZZlJRdnZKWmFFZWRMVWJMOHVLSEY4MlhwVTFHOWJhY3FQbkFwWnJVSzFqcFQzOXV5SFBhNncyU21PWjZRYUtLUlNB?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "오픈AI, '이미지스 2.6' …챗GPT서 움",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LU3RjYlRvTDJQUkhzVVlmbi02V0xEZjlsZ1pDNnFjZ1EyRkJUUXdFZ1VKUVd1VWZRdXh0MlZoY0JCWkVPeEF1NGxjX2pfUEQwV0NfQVdMbElNZTRSb3FEZ0pxNlhUYi1hZEE?oc=5"
+      "kw": "’시간당 1000개 하역’ 보스턴다이내믹스, ",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02VWwwWmRjUm1vSGRrMnpISktmYlJJeUl1S24wckUwdVRqa3I2Y2tueWZXTzZ5d0c4N29LeXRxbVZRZXhhSTJDOVp2d2M5MmYySlJndmw2MnNpYm1tZFpVSEp5UXIwakhTS0ZHN1ZIT3g?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "오픈AI, AI로 하드웨어 설계 일주일 만에 ",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lVi1meDY1QkpEOF9odWxMQzdfelpueW5tMEJqeUU2Tmk1V3FYa2hlczh2WC1BVHRGc2s5WHcxOTY1RTY0Tkk1NjRKaFhhR2ZYZURacEJCOGdXZ3dnVzN0NExhRS1Ec2NldVE?oc=5"
+      "kw": "“로봇이 열사병 걸렸다”…中태산 등반 과열로 ",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SYWlTX09uNmZlYVF0a0o4cC02VGY3b2pFUGd3UG9XdFJDcmUyNkloRU1LMDJrU1lHQ1NsUkViekdVcWQwRktVcnhScUl3TUMyV29NRWRSUWs4TWZ6S3hrQUp2aEZGVEpCc1YweDRkaDdqRk3SAWZBVV95cUxPRG02YjJZMTd3Tm9mVFlFOEFhSzZvcGZ0SGpGd1lzSjcyVVZQTV9ZSXhWTXNndHp5dkpMSktYVk5XNTRCVVVzdjRsYmhsSW9ER1QyYW95LUY3dVRhWWUyeWQ5eWpvYXc?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "“부캉이 떠난 자리에 ‘AI 상어로봇’ 어떤가",
-      "delta": "▼ 4",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDZDhRQzl1enhCVXFJalZ1bTdHSE1HWC1oZVBjTzd2dF90X0pIbUlLankyZEFLczFrSW0xQTVQQW5xNFFhOWExXzBXYmxQckU1b2dITXhR?oc=5"
+      "kw": "'그래서 돈 언제 버나'…진짜 공포는 AI 데",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kdDA1WkVNOGxCRnV6S3lqOUt5THVOeFRjUHY1akRNQ1A1Nzl0dERxUDJCOURSZjNlVF8yRG1LWk1yV3ZaZTY5Rmd4alBxbkw5dVhMNG9yb2VBUQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "오픈AI, 'GPT-6 사이버' …취약점 공격",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GTExhUVpudjRxZDFSWnlEaWVpeXZudDg1NFYzSjdhVU10RmljQnpfWktGREZwQlBUd2RJb1dDZXhwVWhfSGhELXNHNEkxNEJrZDlDcGFtdGU0VE9XeGxiR2pCMjl5eXJ3VlE?oc=5"
     }
   ]
 }
