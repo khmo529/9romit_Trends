@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-11-07 02:35",
+  "updated_at": "2026-11-07 07:29",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "‘부캉이’ 떠나 휑한 북항 친수공원···부산시",
-      "delta": "▲ 1",
+      "kw": "‘토종 문과’ 한국인이 제미나이 이끈다…구글 ",
+      "delta": "▲ 2",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QT0lqLUgtSmhva1NLdnZWN2FvV2R6STAzN3lud3NXakhBc0o3SVhsT0NaVVliMXdRRE5oVHFoaThMQjJVN0NCZmNBdFdEZTZ1TUViYmpCMnl6Z9IBX0FVX3lxTE1VcklqdTJuTDBqVURyVXFXbXpIZW1TWngxaGw0NnpTN3BNbzlELURoQU83ZTFHdGNUd1B2SDY0RmxzMTFKMGtXQm9KZkRld3RFam5wQVdvdUZHd21MZWJz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VSHJwZU00eEx3S0RZZlJRdnZKWmFFZWRMVWJMOHVLSEY4MlhwVTFHOWJhY3FQbkFwWnJVSzFqcFQzOXV5SFBhNncyU21PWjZRYUtLUlNB?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "테슬라",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kNEtlcGh1N05SaS15c0M0LVVZRExnbFRRMFdqMkhCU25PVXRadU5kNWRWaGZyTmVHOGNuYUFwZGxHdFpmTGsxbU5tS0duWkdpbmUtaTJhYUJ3QdIBX0FVX3lxTE9hRFlGMWRCU2dwLUFXOUdFYlpraldaNTFDSVJiWkd1d1FqNExjQUhwVmxBdkJ2UXdsRkRwUk9Kc0FNZGNnV1ZuWFVHZi1mbXdrcFFSLUVFSTVMMW01eEM4?oc=5"
+      "kw": "‘부캉이’ 떠나 휑한 북항 친수공원···부산시",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QT0lqLUgtSmhva1NLdnZWN2FvV2R6STAzN3lud3NXakhBc0o3SVhsT0NaVVliMXdRRE5oVHFoaThMQjJVN0NCZmNBdFdEZTZ1TUViYmpCMnl6Z9IBX0FVX3lxTE1VcklqdTJuTDBqVURyVXFXbXpIZW1TWngxaGw0NnpTN3BNbzlELURoQU83ZTFHdGNUd1B2SDY0RmxzMTFKMGtXQm9KZkRld3RFam5wQVdvdUZHd21MZWJz?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "‘토종 문과’ 한국인이 제미나이 이끈다…구글 ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VSHJwZU00eEx3S0RZZlJRdnZKWmFFZWRMVWJMOHVLSEY4MlhwVTFHOWJhY3FQbkFwWnJVSzFqcFQzOXV5SFBhNncyU21PWjZRYUtLUlNB?oc=5"
+      "kw": "테슬라",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcHRTc1ZncUtwNWVQUHkwZ1JvZVhmaUZDLXJocldnVXdBdlh0aEJPOU5ES0drWHBKSXRoWVE1a3BLRTFKM2FNaFZ0TUFrYVpSOVNZeXZB?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "AI안경 쓰고 수학 문제 보니, 20초만에 고",
-      "delta": "▼ 3",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02NEJrcDQxZVd2V3RmVW14NjdwWlM5TXZqS2pOWXk0ZGw3a3puSktoQnIycHFSbXZoVHVPVmVJVk1IMUdNem45M2Q3ZDYtcnVIc3RjNUQ1dkd6M3AyOWY3TUt3MW9GVDczU2otV1E2MUJfOTR5NlHSAWZBVV95cUxNNWxYVDU0eXZUak1RTXFGaXlhdGFDcWNXbUdkeE1xNENiMEVaUldDaXMtMUxrczFPVElUVHJTLVdkdURDZGlhVnpjUUFpWjBvcEJCUVBvOXM5UVVjN0FuUklNUnRVX2c?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "OpenAI, Linux 커널에서 루트 권한을",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQlNSZWJqNUhJa1BGQU9GaXljeXpNOEtYbUt4QmRzQk0yeEgtZVRXU1lpdUJoMkozaHJfWUdRSV9ZYUFVY19EdndCcw?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "아이폰 듀오 덕에 웃는 폴드8…삼성은 속앓이",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95cE83QmRkOENmNVQ3SU0wMWxodEwycVhKbnFlOEJOZE5ITkJiQ1p2SlU0bXlTZnZVdHRaVXRLRHgwZjZLOGh0S0lHbENDYjJsSE56Q1VyZVdMSGlZdE1keXdVRkFvUmF6ODUzTW5tbkzSAXRBVV95cUxOeXVUckUyVldvcXBVYWFWRmw4ajZyUmRjeVAyVVRMdi1oSktnTUxaLU9QQlRYYUFDbVNQakgweWo5cUFMNHpXYmFhSVFieFZoZnE5a1JoQ1BVN2hOQzV3UDVDandMbFRQVy00U2hsSnM3Vm9Waw?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "\"AI 코딩, 마지막 20%가 어렵다\"…인프라",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GT243N09TV2tpUU8tRC10OHVmZVp6ckRYNlNXdTJPaUoyY2pCR3NvQTBHLWdfa3Z4NE1zSFdMSUE4TTRMUVJ6dXFHSjZON2ZWWnp4anFR?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "오픈AI, '이미지스 2.6' …챗GPT서 움",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LU3RjYlRvTDJQUkhzVVlmbi02V0xEZjlsZ1pDNnFjZ1EyRkJUUXdFZ1VKUVd1VWZRdXh0MlZoY0JCWkVPeEF1NGxjX2pfUEQwV0NfQVdMbElNZTRSb3FEZ0pxNlhUYi1hZEE?oc=5"
+      "kw": "MSCI 회장 \"AI 투자 거품 우려에도 성장",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3kyRV9MX2hJX0oxWUNhUEhPRFFPSGRFTmo3eUh3TWdvVXVkWnR4dGM0ejlPNzYtM1F1MjJBbHJ3WERzYlZVSUpPYkgtcFlRRkJVZlhZeHhKM29ub3ZEcm9VT21rNk9zbXRPZkZMaHlpSS1uNkpaUDdhY0NZa2VLLTl2OE1IMlpUaTJqQ0Jn?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "MSCI 회장 \"AI 투자 거품 우려에도 성장",
+      "kw": "엔비디아 AI 반도체 운송 중 도난···154",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3kyRV9MX2hJX0oxWUNhUEhPRFFPSGRFTmo3eUh3TWdvVXVkWnR4dGM0ejlPNzYtM1F1MjJBbHJ3WERzYlZVSUpPYkgtcFlRRkJVZlhZeHhKM29ub3ZEcm9VT21rNk9zbXRPZkZMaHlpSS1uNkpaUDdhY0NZa2VLLTl2OE1IMlpUaTJqQ0Jn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "\"규제 강화에도 투자 강행\"…구글, 美 데이터",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UNzc0dEE3NXc2cFBYTEh5UTF5UmRxOEdUcVNVLWhWeUtjbVJib3ZyWGlMMy1tcWRQUmh0S3hXLVBkb3FlLWxLOGp0WlhFLWhpWF9YaGJB?oc=5"
+      "kw": "오픈AI, '이미지스 2.6' …챗GPT서 움",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LU3RjYlRvTDJQUkhzVVlmbi02V0xEZjlsZ1pDNnFjZ1EyRkJUUXdFZ1VKUVd1VWZRdXh0MlZoY0JCWkVPeEF1NGxjX2pfUEQwV0NfQVdMbElNZTRSb3FEZ0pxNlhUYi1hZEE?oc=5"
     }
   ]
 }
