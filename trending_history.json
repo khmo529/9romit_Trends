@@ -1,16 +1,24 @@
 {
-  "updated_at": "2026-11-07 17:58",
+  "updated_at": "2026-11-08 00:25",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "테슬라",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CRjFtRFUxekg0OUZSUWQxempLZWVmd1FzME9NX0QweXVsRWU0Ukh5V0xqUmhzaHZBVHVKMkJ1NnFkbkRlMXJuSm15N1NKVzlhR2ZqRGZCYXM4RkdZMG5RVlFXbFJJRnlEQUdaYjFEdlJnazTSAWZBVV95cUxQWFFvZXVNY2tVbG8xdEtYOVRBb1RWcGdFQk9UTGVnS0l6WFpBSklweWxwcWlESWk2ZGdKNllwYWVrSHJJTkF3cUlhWjRueU5ubG5UOWd0NU96YUJScjZPN2V6ZnlpWnc?oc=5"
+      "kw": "배우·배경 모두 인공지능…‘AI 장편영화’ 개",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZkZVU3Fubmt6RlJueEcyT05IZTFFbDV5YmRrWVViUVp5SUdPU1VjUEZMaUdHbFozS3l2a094cWQ3YjFhNTZYczN5WUVXdGhDR1VqR3NFZmFyNU0?oc=5"
     },
     {
       "rank": 2,
+      "top": true,
+      "kw": "인공지능이 작곡, 로봇이 춤…저작권은 누구 것",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hazVKRl9VRlgta3o1XzlOVlRTSVA4YTJfWWIyMEFmTS1ubkhvTDZ5cnBCZy1uQUR0Q20wQ2pHamdQeDNkZlVodVd6N29Vc2N6M3NJWVljbTQwdmNzOEZFTy05TDBmZw?oc=5"
+    },
+    {
+      "rank": 3,
       "top": true,
       "kw": "‘토종 문과’ 한국인이 제미나이 이끈다…구글 ",
       "delta": "▼ 1",
@@ -18,68 +26,60 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VSHJwZU00eEx3S0RZZlJRdnZKWmFFZWRMVWJMOHVLSEY4MlhwVTFHOWJhY3FQbkFwWnJVSzFqcFQzOXV5SFBhNncyU21PWjZRYUtLUlNB?oc=5"
     },
     {
-      "rank": 3,
-      "top": true,
-      "kw": "인공지능이 작곡, 로봇이 춤…저작권은 누구 것",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hazVKRl9VRlgta3o1XzlOVlRTSVA4YTJfWWIyMEFmTS1ubkhvTDZ5cnBCZy1uQUR0Q20wQ2pHamdQeDNkZlVodVd6N29Vc2N6M3NJWVljbTQwdmNzOEZFTy05TDBmZw?oc=5"
-    },
-    {
       "rank": 4,
       "top": false,
-      "kw": "\"사람이 먼저? 로봇이 먼저?\"…배송 로봇과 ",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWZodkpFU2xDXy1wRk82dFc5bkpsYzMzX2I1aGYzeEVZSTd2X2c1RWFCMTJsaUM2YUR1Smp3MktSNjR0QzJIbGdRdjhVMFZ2VWJSemFENlo4ekxNbk9Tc1MtNFotMkFKRGI2Yks3UmxodURjMVUyUjMxZ21sVnRiX2s5VQ?oc=5"
+      "kw": "테슬라",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CRjFtRFUxekg0OUZSUWQxempLZWVmd1FzME9NX0QweXVsRWU0Ukh5V0xqUmhzaHZBVHVKMkJ1NnFkbkRlMXJuSm15N1NKVzlhR2ZqRGZCYXM4RkdZMG5RVlFXbFJJRnlEQUdaYjFEdlJnazTSAWZBVV95cUxQWFFvZXVNY2tVbG8xdEtYOVRBb1RWcGdFQk9UTGVnS0l6WFpBSklweWxwcWlESWk2ZGdKNllwYWVrSHJJTkF3cUlhWjRueU5ubG5UOWd0NU96YUJScjZPN2V6ZnlpWnc?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "\"TSMC, 첨단 AI 메모리 반도체 생산 검",
+      "kw": "MS, 오라클과 클라우드 계약 단계적 종료…A",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OUJiNUtuQU14ejFFbGI1MFMxTzZmWDNWZkJGT2Z6ZU5nQWEyT1dMVjJ2eTFEY0JnRGN3QXFOQVVTVUZ0SDlGaU1DdjhqSzNiVmxhRzFMRVJ3c3N5WV9OYmluVTRtVjNpcEhBNmVYVDQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0JUd2Q2aEtlX25HSnNwNWZhQi1uUGtTeDBBOVNJY2hxYWRkUkpSWk5ISy1WbmtlSHV4bjF2aVA1S0FBYXJpQUZNN0JsR2FFcEtpdjhyZjRCc0lPR054RVd5VEZLbXNyczh0aVBjWnBYeTlaVlU4NzEwdEYxbHpuWA?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "엔비디아 AI 반도체 운송 중 도난···154",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5"
+      "kw": "\"사람이 먼저? 로봇이 먼저?\"…배송 로봇과 ",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWZodkpFU2xDXy1wRk82dFc5bkpsYzMzX2I1aGYzeEVZSTd2X2c1RWFCMTJsaUM2YUR1Smp3MktSNjR0QzJIbGdRdjhVMFZ2VWJSemFENlo4ekxNbk9Tc1MtNFotMkFKRGI2Yks3UmxodURjMVUyUjMxZ21sVnRiX2s5VQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "MSCI 회장 \"AI 투자 거품 우려에도 성장",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3kyRV9MX2hJX0oxWUNhUEhPRFFPSGRFTmo3eUh3TWdvVXVkWnR4dGM0ejlPNzYtM1F1MjJBbHJ3WERzYlZVSUpPYkgtcFlRRkJVZlhZeHhKM29ub3ZEcm9VT21rNk9zbXRPZkZMaHlpSS1uNkpaUDdhY0NZa2VLLTl2OE1IMlpUaTJqQ0Jn?oc=5"
+      "kw": "\"TSMC, 첨단 AI 메모리 반도체 생산 검",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OUJiNUtuQU14ejFFbGI1MFMxTzZmWDNWZkJGT2Z6ZU5nQWEyT1dMVjJ2eTFEY0JnRGN3QXFOQVVTVUZ0SDlGaU1DdjhqSzNiVmxhRzFMRVJ3c3N5WV9OYmluVTRtVjNpcEhBNmVYVDQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "Craft Anything - 웹사이트, 앱,",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ybUQyQnZpdnkzTUdyYl8wYi11RFptNTBGMkdTRXF6Q2NKQ0NSMUotQS1uWWRwOWxaa2YzcF9QZVhtbjh2SVlab1lMWQ?oc=5"
+      "kw": "엔비디아 AI 반도체 운송 중 도난···154",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "배경훈 장관 \"美 AI 투자 주춤할 때가 기회",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0xSRGRSSW4yNzRGajFCLUpCYXVwOENUbmlZMzJjNlNSYVJFNmdQdnJBbFc2M21UOVRjcjFOQ09nc0Y3c3NfeG9zN1ZRMVdpekI2dmMzQjNXcHo2WXpRcjdFU3ZDVmdEN1dzaVU5Q1A4ZTlyUlpZYVdIZ0NyN0k4eEpsYw?oc=5"
+      "kw": "Craft Anything - 웹사이트, 앱,",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ybUQyQnZpdnkzTUdyYl8wYi11RFptNTBGMkdTRXF6Q2NKQ0NSMUotQS1uWWRwOWxaa2YzcF9QZVhtbjh2SVlab1lMWQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "장인의 '감' 대신 데이터로…K-주얼리, AI",
+      "kw": "미래에셋 ‘3만9천’ 털렸다…잇따른 AI 해킹",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94TC13dkFGdzg3WGptN2ZqbV9hQklCM1lBUGQ3XzNhLVJOemRhMzV4eEI0SVJFbFc1c05tN0l5UGdIX0pYYk8zdlpseDQ1ajJTQnNzZ05B?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zd3lrLTNRdW9XQS1OcHNKaWVKdFh2Ul9iYlNWQW1uaUJ5Um93NERJUzdnSXB0T3BUQUMwRU1ObGVMdmE3LS01c2ktNG1pRHBERDBITw?oc=5"
     }
   ]
 }
