@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 15:56",
+  "updated_at": "2026-11-10 02:00",
   "keywords": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "kw": "테슬라",
       "delta": "-",
       "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0RtWS01QzhObkVYcUZJSlQyY25pUHdxbkhkUFVFRnpsbE1aSnpURGJVUWI1MkUtVUZMRWhidnEyOUg2enBSZXhsWVdhamZCbEJkNXZtcFhLWmN4RmZzc3ZlNDFDWkJMUk1KSGNNUk1mQkJVdGoyYUF0X2V5RDBFSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQem82cndHS2JTTFNNWTRCQjVDbk85VVlzd3pEcXZiQTRSM3ZnS2RZUnhZTlZncTBCNm5sQVFSOE9LOXhZejZZMlpCMnlnRDRUM2ZoY3QzaE43VVhGZ3dtcE56YXUxOWxwaDN3Q0RUb0JrSGJJOEtzcmJUNE9NX1dZR0MxZVhzbVhwV01Z?oc=5"
     },
     {
       "rank": 2,
@@ -21,49 +21,65 @@
       "rank": 3,
       "top": true,
       "kw": "\"짓던 데이터센터 계속 짓게 해달라\"… AI업",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5RXRqRTZhWV83N09DMktVMGdZa25OYTdTbzFFSXF3Mk4wZzZvay1JZjRzZGd1Uk1JZEszeG1DZ0FNVG8tV1ZlNUxfMHNmZw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "'화면 쩍' 아이폰 듀오 벌써 후속작?…\"2세",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3RtbGpRX3F1LVI5X0ZvaVNlUjdHYnpySDJuQ2NvT1VlSkhnRG55aGN3elJhc1BmbTJrdjVsN1FSUzNvM0NRaGUxS2Q3S1VDQ2lpSEF4QW4zeWpQMlZQSjVRcnlMZUHSAWxBVV95cUxObmlFNmkxa3VMX1gtOVd1eWQxcVF4Slo4RFl1Wmk0cWMyeEpCeHZzSFhHQzZLckpSRWZLMi1tX1Y4SGh1QW5FOVFYWXBjX1Q4TFBqWTQ1d2dhRkNmZnhmb0ZIb3QxOHpVZzJZeks?oc=5"
+      "kw": "해킹 없이도 비밀번호가 줄줄… AI ‘자동 승",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXJCQll0eHFHNGZTUmptVUUxUXBVQ0E2cElRTV80VWlFRW9RM1BTUTFZa3NwTFlsbFFQZ1hVQmZwZDA4NUhjbG9SQjZGbGUwWHhZa2Vkd2tiQWpqbUs5b3ZoTWRqT1FVQkhHUVQzVmhiNjhTM1hSejFXSFJrelY2SklIZw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "\"내가 계산했는데 로봇에게 팁까지?\"…美 무인",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQW9tb3UzWGxmXzBDQmN1N0RBZm5zN2NsMERVUjJ0LVBtSWVjVjVkXzdJcWgwVEVUMmE3dzR3Y3ViQjVUV3d2YUFOX0xORVIyVU5taUNFRUh1cDJXTUxURnFxN1NKRXFrLWg2amY5dmNRNjYyNTdOWVhDa3N1ZXhrTTc0a095SzI5UzVwdWZQX01GdC1DUTM0b3N0ZkluQQ?oc=5"
+      "kw": "'화면 쩍' 아이폰 듀오 벌써 후속작?…\"2세",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3RtbGpRX3F1LVI5X0ZvaVNlUjdHYnpySDJuQ2NvT1VlSkhnRG55aGN3elJhc1BmbTJrdjVsN1FSUzNvM0NRaGUxS2Q3S1VDQ2lpSEF4QW4zeWpQMlZQSjVRcnlMZUHSAWxBVV95cUxObmlFNmkxa3VMX1gtOVd1eWQxcVF4Slo4RFl1Wmk0cWMyeEpCeHZzSFhHQzZLckpSRWZLMi1tX1Y4SGh1QW5FOVFYWXBjX1Q4TFBqWTQ1d2dhRkNmZnhmb0ZIb3QxOHpVZzJZeks?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "엔비디아 AI 반도체 60만개가 홍콩에 묶인 ",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5"
+      "kw": "“챗GPT 대항마도 뚫렸다?”…클로드, 국내 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZjB4M2JYR0dpRjdzNmZTUmlWVm40by1NLXFHSXE3bXNtYVZnRUNTTkdpYzh6Y2g1ckp4V090bTYzZE9BeW14blV4TVJyaVhvRVE?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "엔비디아-SKT-리벨리온, 국산 AI 반도체 ",
+      "kw": "엔비디아 \"韓, 피지컬 AI 핵심 국가\"…현대",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54XzZSOUR4Nl9aMm9JOTV0UGpuc01ueFZXMHFaQVZuUnoxN2dLQWtQMjhzTHJ1UHRIakFsQ3l2QXkwZTRqekpxWU90NGI0UGZfNFdKVnRIdGlvbER3TkpFcFRnQjZzRVFs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xVUZWc1VKSG1mY2NybFFMYVhUOEd5cGZrMGpJVm50UEZJZE8yQmhRWkcwNU9CSjJqU0dpNWtFb1Y2LTk0TVdJUThnRzh4MDNRVzU1UEtB?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "LG AI연구원, 'K-엑사원 2.5' 무료 ",
+      "delta": "-",
+      "type": "same",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjVYRU04TW9hZG1nTXJ3VEg5bkNWWXlRVUx4azFwRXkzZHVZWTdiejNqNUlJd19XV29BY2JBejM5NFZXZlpKNy1WbzYtV1hzczJJemRURFM2ejFfazBRVVpUOGxiSFZNMDZ4eW5pNWxkRkR4MEFxQnVpbTk5by1vVg?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "한국 찾은 '큰손' 계약 불발 이유가…AI 프",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjVYRU04TW9hZG1nTXJ3VEg5bkNWWXlRVUx4azFwRXkzZHVZWTdiejNqNUlJd19XV29BY2JBejM5NFZXZlpKNy1WbzYtV1hzczJJemRURFM2ejFfazBRVVpUOGxiSFZNMDZ4eW5pNWxkRkR4MEFxQnVpbTk5by1vVg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQ3E5dkJPOXk4ZWloOGFab0xwcG1CMHhQVlJlRFRiTENtWjRJMVdwYVdwVURMM1NJVFh0cHoxQUtmQWwtUFRrTjVqLW5XZEYtZnF0OUZLS0gzQQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "'갤럭시Z 슬라이드' 이렇게 나온다…삼성, 새",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTGhycWVCcWZ3M2dxdWJ3eEFwTTUxUDB2bDVrajJZTno4d2YxWXpNUGp6NE1weEg1UG1pRW80TEdTeVU1V0NFeE9NYUNOLVFWc2NGa25n?oc=5"
     }
   ]
 }
