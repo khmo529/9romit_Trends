@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 09:14",
+  "updated_at": "2026-11-09 15:56",
   "keywords": [
     {
       "rank": 1,
@@ -13,25 +13,25 @@
       "rank": 2,
       "top": true,
       "kw": "김동관이 직접 본 로봇개… 한화, 라이온로보틱",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOFBoMWhUd1lRbkpOc05nVEFmM0JpLVlGM3JBQnd2NEZpMmdtZXE3LUFVdjdGUUJFTUdiV0p6V1h3Y2FEUVpwUExKN1k2V2xaSF9tdVFBRWFyRGpCQUdjQ0FxejFXXzhLbnZYdnVYSHdtaU9fTXFQVzRZTFZOSkVwYnlZWXpYMmfSAZsBQVVfeXFMUEhfeHFnLWt1UC16bXNZcEhWeE42ZlBZZDQtTnBjNFUwek9PeHIxc2JMb09jeDB3MkxmdlhDeUt2eDJpT3RKUW1aQWxUWWp5NExrY1RaRXF1Z1NQTlRONXNCVTNuU0RiN3JZbFRjRTlFWjNZT2ZzRzB6YWRlTkVxYkpnOUtrNmVzSlhNSlhlVFRLYmhoVVZqZHJYWlk?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "배우·배경 모두 인공지능…‘AI 장편영화’ 개",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZkZVU3Fubmt6RlJueEcyT05IZTFFbDV5YmRrWVViUVp5SUdPU1VjUEZMaUdHbFozS3l2a094cWQ3YjFhNTZYczN5WUVXdGhDR1VqR3NFZmFyNU0?oc=5"
+      "kw": "\"짓던 데이터센터 계속 짓게 해달라\"… AI업",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5RXRqRTZhWV83N09DMktVMGdZa25OYTdTbzFFSXF3Mk4wZzZvay1JZjRzZGd1Uk1JZEszeG1DZ0FNVG8tV1ZlNUxfMHNmZw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "\"사막에 지어야 할지도\"…데이터센터 전략 다시",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcFlOWm1Oak00bUV5ZEpjdlhUSGJqTFZKVjVidG5GV29lZXJrT1Jad0NwNEhrU2F3ZVVrQVNWSG01cjZIRElZVXRhZlhUSVI0bEtNWG9R?oc=5"
+      "kw": "'화면 쩍' 아이폰 듀오 벌써 후속작?…\"2세",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3RtbGpRX3F1LVI5X0ZvaVNlUjdHYnpySDJuQ2NvT1VlSkhnRG55aGN3elJhc1BmbTJrdjVsN1FSUzNvM0NRaGUxS2Q3S1VDQ2lpSEF4QW4zeWpQMlZQSjVRcnlMZUHSAWxBVV95cUxObmlFNmkxa3VMX1gtOVd1eWQxcVF4Slo4RFl1Wmk0cWMyeEpCeHZzSFhHQzZLckpSRWZLMi1tX1Y4SGh1QW5FOVFYWXBjX1Q4TFBqWTQ1d2dhRkNmZnhmb0ZIb3QxOHpVZzJZeks?oc=5"
     },
     {
       "rank": 5,
@@ -45,41 +45,25 @@
       "rank": 6,
       "top": false,
       "kw": "엔비디아 AI 반도체 60만개가 홍콩에 묶인 ",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "'화면 쩍' 아이폰 듀오 벌써 후속작?…\"2세",
+      "kw": "엔비디아-SKT-리벨리온, 국산 AI 반도체 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3RtbGpRX3F1LVI5X0ZvaVNlUjdHYnpySDJuQ2NvT1VlSkhnRG55aGN3elJhc1BmbTJrdjVsN1FSUzNvM0NRaGUxS2Q3S1VDQ2lpSEF4QW4zeWpQMlZQSjVRcnlMZUHSAWxBVV95cUxObmlFNmkxa3VMX1gtOVd1eWQxcVF4Slo4RFl1Wmk0cWMyeEpCeHZzSFhHQzZLckpSRWZLMi1tX1Y4SGh1QW5FOVFYWXBjX1Q4TFBqWTQ1d2dhRkNmZnhmb0ZIb3QxOHpVZzJZeks?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54XzZSOUR4Nl9aMm9JOTV0UGpuc01ueFZXMHFaQVZuUnoxN2dLQWtQMjhzTHJ1UHRIakFsQ3l2QXkwZTRqekpxWU90NGI0UGZfNFdKVnRIdGlvbER3TkpFcFRnQjZzRVFs?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "인공지능이 작곡, 로봇이 춤…저작권은 누구 것",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wc2dVcHgyZTV5amVfSUJ5UkdLekZiYXhWMzNYWmN3ZnB4UFRDQVl4TVJKTDE0UkNXY1dSUTFtdWFMMy1vR2hMTzVHcjlKYVI0T1IzRWJ4Z2xoTDg?oc=5"
-    },
-    {
-      "rank": 9,
-      "top": false,
-      "kw": "‘데이터센터’ 미국선 애물단지?…중국은 AI ",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uMmpHWkxuRXFhTmZaemRBSnMzOWFua3JOZ1lMdDJxZEdONlAxN2lEc0pmQlJxbFlrZ2Qyd2d0SzNVSkFnTkRmT3Zxa2RsY0JYeUVscVhiMG9VRjQ?oc=5"
-    },
-    {
-      "rank": 10,
-      "top": false,
-      "kw": "작업·충전·생산 스케줄 연결…10년 묵은 ‘로",
+      "kw": "LG AI연구원, 'K-엑사원 2.5' 무료 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWcVdnSnpiSVphZ1VnMjczRHpFSlNDNWpDb2NnWDltQ1A4R0syaXR1MGxEYmhRVUtTdWlINGlWWWFRb2RSUUs2azdmSU5lbW9LMnfSAVNBVV95cUxOSk1kc0lJcnp1a0FKMUtJMmFWRGxwYVA4OFptQVJmX3I2eEN0MVViNXVBN1Q2aE91aWdPYmEzNG5HVFVPN20xelF1c0Y1T3l5YlY2UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjVYRU04TW9hZG1nTXJ3VEg5bkNWWXlRVUx4azFwRXkzZHVZWTdiejNqNUlJd19XV29BY2JBejM5NFZXZlpKNy1WbzYtV1hzczJJemRURFM2ejFfazBRVVpUOGxiSFZNMDZ4eW5pNWxkRkR4MEFxQnVpbTk5by1vVg?oc=5"
     }
   ]
 }
