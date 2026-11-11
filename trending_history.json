@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-11-12 01:44",
+  "updated_at": "2026-11-12 08:12",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zaUZLUWZLbVRyOHpFeHVILU9hRTRUQXZiQTM2NDFjTWdmWXA4am5PcXhPLWd6UE5LRmx4MVRsQjItczNCejZkLW14eWdwdmdCZjItbG9B?oc=5"
+      "kw": "AI에게 일본어로 ‘위안부 강제동원’ 물었더니",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVnZCRFVkWnVwUHc0bTJ4U2VvVWNtUC1UTmgzaWZNX2wyVVJPUi1TQ01TbEZrWVU1MF9GZEo4N2xsUGVQbTZ0LThyTXpVMTNhYnRxWmIta0dVZ9IBX0FVX3lxTE5DQUJYNjRyZnVyandXLU5VZ05rQmY5NXBaQkQxVlFpbGlEQThrN2I5MExzcC1pQkVmSl9TSEJVeEowOWxSWjZ1ZDRmOGRrV3VHTXdXUVZWREtlQzJKb3Br?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "“AI 안경으로 오해받을까 봐”… 수능 앞두고",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc05PWmlQWm5RSVlZQlhnOTduaWNZbUF1YnhNM0RVNXNlQkRvR0tia25IQmVPbFhBN1loLXpHMGhTR3lWX2hMbVpkTWs0b3lDNTRhWlJ6a0tPRUMzNmhYZU9QR0J6MnM0UzNtcWd1LXdjd2ZxZGppVEFKSUlpMW94RHB1aGZNY2Qwb2fSAZ4BQVVfeXFMTVQxckdZWkNXX01RZzZpOXYyMGNlUTZwSEtmMnF5eUdkX0RfRklPUU40MW5VVnNaUl83bjFiUmVFUzVhTlhnT1lMZVBvaHlpc2d0T0NERWRsU3hRT3ctOVlPdl9FenRhRUoxUndvaERjZ3hhaGlEejVHTEtncGY0YTZYaEJIXzZPUGFwZ3NSQUw5blBuU3QwUU5tdThoMVE?oc=5"
+      "kw": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zaUZLUWZLbVRyOHpFeHVILU9hRTRUQXZiQTM2NDFjTWdmWXA4am5PcXhPLWd6UE5LRmx4MVRsQjItczNCejZkLW14eWdwdmdCZjItbG9B?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "아마존, 집 안 비행하는 ‘보안 드론’과 사무",
-      "delta": "-",
-      "type": "same",
+      "kw": "아마존, 집 안 비행 ‘보안 드론’과 사무실 ",
+      "delta": "NEW",
+      "type": "new",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRm5NdGdCZmdKTGpMRG1FYkU0ZmczZEpCRUNSVm5YZHpHTzYyR09CTk80UXN5cG9GVEp6bGt2bkZxTXpEQWs4ZlZ5aENaNlFHZklHcFFoMGtuRk9YMXNROW5NdWp6SzBhSTY0QlJWZVZadjR5YnNzZVhZVkpEQ3FuM3NMMA?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "테슬라",
-      "delta": "▼ 3",
+      "kw": "“AI 안경으로 오해받을까 봐”… 수능 앞두고",
+      "delta": "▼ 2",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUhvV0tfUkVacDhIYWJrQUxYVEJTUjZJMGhFSVMyN2JLU0VwQWZyanZsZUt5VXNRbzcxOUx3X3p5Tmp3VExzVUNPX0IwNWhHbnFyUlk2eE1wNGpXNEk2T3lrdjJDcURESExIV3kzUVRIM3Fkd2l0UjBoLXowUk9ESWVwRXhaa2pOVXdPU3ZSRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc05PWmlQWm5RSVlZQlhnOTduaWNZbUF1YnhNM0RVNXNlQkRvR0tia25IQmVPbFhBN1loLXpHMGhTR3lWX2hMbVpkTWs0b3lDNTRhWlJ6a0tPRUMzNmhYZU9QR0J6MnM0UzNtcWd1LXdjd2ZxZGppVEFKSUlpMW94RHB1aGZNY2Qwb2fSAZ4BQVVfeXFMTVQxckdZWkNXX01RZzZpOXYyMGNlUTZwSEtmMnF5eUdkX0RfRklPUU40MW5VVnNaUl83bjFiUmVFUzVhTlhnT1lMZVBvaHlpc2d0T0NERWRsU3hRT3ctOVlPdl9FenRhRUoxUndvaERjZ3hhaGlEejVHTEtncGY0YTZYaEJIXzZPUGFwZ3NSQUw5blBuU3QwUU5tdThoMVE?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "'AI 단기 거품론' 시인한 올트먼… \"장기적",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9faWJ1OGxvM3ptSlFXbmo4LU1zU01sRjlLOHoyLWZ5a09XNUM4SW1PNFA0cXJMcEQ3REt3cWZYM2Y3M2xwV0IxMk9XLVNfLTdPTHhrNmdhOUZNQQ?oc=5"
+      "kw": "수천억원 계약 자랑하더니 임금체불… 中 로봇업",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkMtYzc2b19VTHF6NThycnc2Z04wZ0dGOU5ZVHZTOVRIRFBrMDQyZE9XZXkxaVhMdXNfS3FjRjJFM1hLVzFnUFRFOTRERG5nbWFiM0Z1RjhGNHVXdDdzYnVkVk9WYUFhUlF1dzBBQy1pMTY4RWdwN3ZWXzgwRkF5ZFhtY0FmempqNWJ3MjIwRDBybUhpWTgwTFNoOWtPZ9IBsgFBVV95cUxPTXZxRDFkY24zNE02VjJobTlPMDdGVEJLUlVxdVdSdmdwaU5DU0tvLTVQeE44eHJ5dnV2Q0tGU0pwM1M4ay1SZHp4SHdzNnZ2OGNNSlpJYUhsSWdPVkxGRG5RUHdZLXg0OHU2NDZfNnItRnlMNXZwc0wyXzcwZ0FHbDZ1WWZ6OVJRakpnQ1V2MEZ3c2QtdVRzM3BZOWFBVDRpeElnMDV3aDdnZV9ERmMtdlVn?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "수천억원 계약 자랑하더니 임금체불… 中 로봇업",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkMtYzc2b19VTHF6NThycnc2Z04wZ0dGOU5ZVHZTOVRIRFBrMDQyZE9XZXkxaVhMdXNfS3FjRjJFM1hLVzFnUFRFOTRERG5nbWFiM0Z1RjhGNHVXdDdzYnVkVk9WYUFhUlF1dzBBQy1pMTY4RWdwN3ZWXzgwRkF5ZFhtY0FmempqNWJ3MjIwRDBybUhpWTgwTFNoOWtPZ9IBsgFBVV95cUxPTXZxRDFkY24zNE02VjJobTlPMDdGVEJLUlVxdVdSdmdwaU5DU0tvLTVQeE44eHJ5dnV2Q0tGU0pwM1M4ay1SZHp4SHdzNnZ2OGNNSlpJYUhsSWdPVkxGRG5RUHdZLXg0OHU2NDZfNnItRnlMNXZwc0wyXzcwZ0FHbDZ1WWZ6OVJRakpnQ1V2MEZ3c2QtdVRzM3BZOWFBVDRpeElnMDV3aDdnZV9ERmMtdlVn?oc=5"
+      "kw": "새 폰 안 사도 5만원 받는다…셀로, 중고 갤",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWh3NFlpZjdWaXFQa2VZUGVfd3BVTjV2dVpmSS1sRFdjMXZLVWJuaHBBenFEYnAwaXNtWUxmUDg0b25YWG5QMmpuNVlkc3ZNd1hDQW5hcmQxbGFLYlVJbFlJR2tmajFSUUJNa1dwWHl5X09BS1hnYmwtblNFOHpDLQ?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "美데이터센터서 10조 손실…손정의 'AI 올인",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVHV2VVNpeTZIeEkwYXV6REtrd19BTFJiUEdDbks1cmxacm1ueGRaMGJrSUtJQ0lwR2VmbjBPN0RZc09jUnZJaGZ6SHJxUW0tU3QwZjh3eHFKQQ?oc=5"
+      "kw": "KAIST 김정호 교수, \"미래의 반도체 설계",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0V4UV9QX2RiVk1MREY4R1JPWnNudUtNVXQ1UG1idDlrREw2Y25mWmJCUnJ0TUtzcFVjNU1BQzZxckUwY2ZycGtmLVF0dTZZVWx2alF3cHNLRnJ5Z2l4Z2RUQjNndm1qNEEwS0V1N0d6V1Axb052bEFJLW9UMFpKT2VGaw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "새 폰 안 사도 5만원 받는다…셀로, 중고 갤",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWh3NFlpZjdWaXFQa2VZUGVfd3BVTjV2dVpmSS1sRFdjMXZLVWJuaHBBenFEYnAwaXNtWUxmUDg0b25YWG5QMmpuNVlkc3ZNd1hDQW5hcmQxbGFLYlVJbFlJR2tmajFSUUJNa1dwWHl5X09BS1hnYmwtblNFOHpDLQ?oc=5"
+      "kw": "'AI 단기 거품론' 시인한 올트먼… \"장기적",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9faWJ1OGxvM3ptSlFXbmo4LU1zU01sRjlLOHoyLWZ5a09XNUM4SW1PNFA0cXJMcEQ3REt3cWZYM2Y3M2xwV0IxMk9XLVNfLTdPTHhrNmdhOUZNQQ?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "\"눈으로 본 것 더는 못 믿어…AI 탓에 10",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcGV5dHBCWGphV1JHcU9VRGk5cW5mTUxtX3VxSmdrV0JfdGJrZ3UxV05uSWlQbW14UDhHSmI1SVlIRUo3VFg5ZlV0RGlwendfREVUY1BsNFBrMkXSAWBBVV95cUxOb3dRdG54Q3VKbURMcTRoZ3BvMDdCZ0IydDBKSEoxV2lYeUZuNXp3WHEzT1lKaElNcGtVdUVza3JQSVNsNUN1c2N4MEZ5TU96MzFLbmZtN3pBbEZOLXU0SUU?oc=5"
+      "kw": "美데이터센터서 10조 손실…손정의 'AI 올인",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVHV2VVNpeTZIeEkwYXV6REtrd19BTFJiUEdDbks1cmxacm1ueGRaMGJrSUtJQ0lwR2VmbjBPN0RZc09jUnZJaGZ6SHJxUW0tU3QwZjh3eHFKQQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "바이낸스 \"아이폰 보안 취약점 발견\"…지갑 개",
-      "delta": "▼ 1",
+      "kw": "테슬라",
+      "delta": "▼ 6",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mTUVNangwOWQ2Qk5VSEdVcHRVYVRBZk1pTXdNaENyYWQwMG5Tdjljb0tFTUJBVDFwVk9kT3JPdjV4Szl2YlVaYkdWaXVBM18wN2t1TzNn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUhvV0tfUkVacDhIYWJrQUxYVEJTUjZJMGhFSVMyN2JLU0VwQWZyanZsZUt5VXNRbzcxOUx3X3p5Tmp3VExzVUNPX0IwNWhHbnFyUlk2eE1wNGpXNEk2T3lrdjJDcURESExIV3kzUVRIM3Fkd2l0UjBoLXowUk9ESWVwRXhaa2pOVXdPU3ZSRQ?oc=5"
     }
   ]
 }
