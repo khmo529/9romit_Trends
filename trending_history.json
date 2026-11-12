@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:56",
+  "updated_at": "2026-11-12 21:03",
   "keywords": [
     {
       "rank": 1,
@@ -13,65 +13,73 @@
       "rank": 2,
       "top": true,
       "kw": "‘독주’ 한국 반도체, 1986년 일본처럼?…",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GTW1lb1Z4cVVyaE5lZ1NIU3RQQTM2cWlhbWZoblZiMnc0TEdiRWhjOUhJaWJWZVpvODhOWm5FQWRJUzZHSzZNZDJjUENyTDdydTZlY2k1ZnI4ZnNlYXFRT1dqUW03YnQxMEpHZ2NpUWNNdw?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zaUZLUWZLbVRyOHpFeHVILU9hRTRUQXZiQTM2NDFjTWdmWXA4am5PcXhPLWd6UE5LRmx4MVRsQjItczNCejZkLW14eWdwdmdCZjItbG9B?oc=5"
+      "kw": "中, AI칩 수급난에 eSSD '주문 축소'…",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZcjZ2Ul9pbUxfd1dvSnVQaXBLZTlfTG5ac0pWTE9wS2x4QVBzblVLc0F5QkpubktKYmNjVXdIRkU3ZVE0SkpwbzZldnFzcGd3SUlVeVJB?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "아마존, 집 안 비행 ‘보안 드론’과 사무실 ",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRm5NdGdCZmdKTGpMRG1FYkU0ZmczZEpCRUNSVm5YZHpHTzYyR09CTk80UXN5cG9GVEp6bGt2bkZxTXpEQWs4ZlZ5aENaNlFHZklHcFFoMGtuRk9YMXNROW5NdWp6SzBhSTY0QlJWZVZadjR5YnNzZVhZVkpEQ3FuM3NMMA?oc=5"
+      "kw": "“AI 안경으로 오해받을까 봐”… 수능 앞두고",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc05PWmlQWm5RSVlZQlhnOTduaWNZbUF1YnhNM0RVNXNlQkRvR0tia25IQmVPbFhBN1loLXpHMGhTR3lWX2hMbVpkTWs0b3lDNTRhWlJ6a0tPRUMzNmhYZU9QR0J6MnM0UzNtcWd1LXdjd2ZxZGppVEFKSUlpMW94RHB1aGZNY2Qwb2fSAZ4BQVVfeXFMTVQxckdZWkNXX01RZzZpOXYyMGNlUTZwSEtmMnF5eUdkX0RfRklPUU40MW5VVnNaUl83bjFiUmVFUzVhTlhnT1lMZVBvaHlpc2d0T0NERWRsU3hRT3ctOVlPdl9FenRhRUoxUndvaERjZ3hhaGlEejVHTEtncGY0YTZYaEJIXzZPUGFwZ3NSQUw5blBuU3QwUU5tdThoMVE?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "“AI 안경으로 오해받을까 봐”… 수능 앞두고",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc05PWmlQWm5RSVlZQlhnOTduaWNZbUF1YnhNM0RVNXNlQkRvR0tia25IQmVPbFhBN1loLXpHMGhTR3lWX2hMbVpkTWs0b3lDNTRhWlJ6a0tPRUMzNmhYZU9QR0J6MnM0UzNtcWd1LXdjd2ZxZGppVEFKSUlpMW94RHB1aGZNY2Qwb2fSAZ4BQVVfeXFMTVQxckdZWkNXX01RZzZpOXYyMGNlUTZwSEtmMnF5eUdkX0RfRklPUU40MW5VVnNaUl83bjFiUmVFUzVhTlhnT1lMZVBvaHlpc2d0T0NERWRsU3hRT3ctOVlPdl9FenRhRUoxUndvaERjZ3hhaGlEejVHTEtncGY0YTZYaEJIXzZPUGFwZ3NSQUw5blBuU3QwUU5tdThoMVE?oc=5"
+      "kw": "수천억원 계약 자랑하더니 임금체불… 中 로봇업",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkMtYzc2b19VTHF6NThycnc2Z04wZ0dGOU5ZVHZTOVRIRFBrMDQyZE9XZXkxaVhMdXNfS3FjRjJFM1hLVzFnUFRFOTRERG5nbWFiM0Z1RjhGNHVXdDdzYnVkVk9WYUFhUlF1dzBBQy1pMTY4RWdwN3ZWXzgwRkF5ZFhtY0FmempqNWJ3MjIwRDBybUhpWTgwTFNoOWtPZ9IBsgFBVV95cUxPTXZxRDFkY24zNE02VjJobTlPMDdGVEJLUlVxdVdSdmdwaU5DU0tvLTVQeE44eHJ5dnV2Q0tGU0pwM1M4ay1SZHp4SHdzNnZ2OGNNSlpJYUhsSWdPVkxGRG5RUHdZLXg0OHU2NDZfNnItRnlMNXZwc0wyXzcwZ0FHbDZ1WWZ6OVJRakpnQ1V2MEZ3c2QtdVRzM3BZOWFBVDRpeElnMDV3aDdnZV9ERmMtdlVn?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "수천억원 계약 자랑하더니 임금체불… 中 로봇업",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkMtYzc2b19VTHF6NThycnc2Z04wZ0dGOU5ZVHZTOVRIRFBrMDQyZE9XZXkxaVhMdXNfS3FjRjJFM1hLVzFnUFRFOTRERG5nbWFiM0Z1RjhGNHVXdDdzYnVkVk9WYUFhUlF1dzBBQy1pMTY4RWdwN3ZWXzgwRkF5ZFhtY0FmempqNWJ3MjIwRDBybUhpWTgwTFNoOWtPZ9IBsgFBVV95cUxPTXZxRDFkY24zNE02VjJobTlPMDdGVEJLUlVxdVdSdmdwaU5DU0tvLTVQeE44eHJ5dnV2Q0tGU0pwM1M4ay1SZHp4SHdzNnZ2OGNNSlpJYUhsSWdPVkxGRG5RUHdZLXg0OHU2NDZfNnItRnlMNXZwc0wyXzcwZ0FHbDZ1WWZ6OVJRakpnQ1V2MEZ3c2QtdVRzM3BZOWFBVDRpeElnMDV3aDdnZV9ERmMtdlVn?oc=5"
+      "kw": "버그 잡으려 쓴 AI 코드 10줄, 인디 게임",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MFRLcDNnWGdCQ2M4Skw5MTJkRGxkNFFuV1k1WDdTRm5QdGNPTGpweG1GcE9odnFCTElxSm5Wb3FneHUxX1pzQVFPNmdUa3FMQmVZTk9BZlJ2Q3l6eFE?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "새 폰 안 사도 5만원 받는다…셀로, 중고 갤",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWh3NFlpZjdWaXFQa2VZUGVfd3BVTjV2dVpmSS1sRFdjMXZLVWJuaHBBenFEYnAwaXNtWUxmUDg0b25YWG5QMmpuNVlkc3ZNd1hDQW5hcmQxbGFLYlVJbFlJR2tmajFSUUJNa1dwWHl5X09BS1hnYmwtblNFOHpDLQ?oc=5"
+      "kw": "아이폰18",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZSmhoaXl3Wi1DNjg0aW44VGdqTFB4YkdjVVpnZlRIeXQ5NzlRTk16SW9iSXc2Y21GdmlMS204SW5kRDVpbWY4bF82NmxnVXdLMmRvSXBR?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "KAIST 김정호 교수, \"미래의 반도체 설계",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0V4UV9QX2RiVk1MREY4R1JPWnNudUtNVXQ1UG1idDlrREw2Y25mWmJCUnJ0TUtzcFVjNU1BQzZxckUwY2ZycGtmLVF0dTZZVWx2alF3cHNLRnJ5Z2l4Z2RUQjNndm1qNEEwS0V1N0d6V1Axb052bEFJLW9UMFpKT2VGaw?oc=5"
+      "kw": "HBM",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tN1VzM3VjeElGUXJYaTZpcjhhM0Q3R3FPZ2todnJ2RHBoNkJxZFRURnpuMGZRRHdwQm9EaXpoLVJPS01sNUZzcFZMbUZOTWViN3NhQWhXeHlWVHpuZkZJMXNPc1dOeW_SAWxBVV95cUxPS19WQXZZcGw4QXMwZ1lhU1BYeENYLVFUZTZRRlFqNkhXVXFXTGFBX1RiUjFMb3daUTlYdWEzejFhNmZSNDRUdk1VeDNuVnRTdkFTOGlQOWxuWmpMTFZWYVhMYWRBa1laVG1fb3Q?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "소들의 관심을 한 몸에…미 목장에 첫 출근한 ",
+      "kw": "Gemini 4",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTjJOWVFEYU9xdm9DY2Y5aVJ1V21aVE5heEl3YU9KOWd0bnZyMlNhZV9tT21ZeGdRa00wNUdCNVNzQngyLTZ2Z0xWZnRBeDA1aWNaeVpqamxoV28?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwWTB4RTNjS0Q4b3ZncTJjbmNqN0V1SE1PMExuVkZ3aEtRTjFpYUpRRnFlNTVJVmxHTVVYcUhMd3YzaHdLYkRLeklKSQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "애플 심사 강화에 다운 막힌 '제타'?…스캐터",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xX2c3X283Wk9vX2FkVTk5WmFSVk1fd2hzQlBhVmNhWmhDZW80M0wtWUM5Vm5NRmlDODloRm85aXJDbFQ5Nzc3eDZWTTh5bkhGNGdLSkV3?oc=5"
     }
   ]
 }
