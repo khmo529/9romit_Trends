@@ -1,45 +1,53 @@
 {
-  "updated_at": "2026-11-13 17:15",
+  "updated_at": "2026-11-14 01:35",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "“AI에 지시만 했다”… 코딩 문외한 美 남성",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkFfVTdiNF9HUnpzaG1ta3BRVi0wQXJWdy1DUTVlWUdLVmNWTTZVMGphQ1JYaUdyMG9UNjloSlFsMjRWakVqZ2pPdjJkR0JHWHNFamlIUWEtY0tCVkNCME1oQl8zSGUzNVk1Y2paM2syTWhVX0xMQjJvcmZ6U1Npbi1jaw?oc=5"
+      "kw": "삼성과 젠몬이 손잡은 ‘AI 안경’ 직접 써보",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS21VMnNoZ25GOS12aldxOUdrRXZPMWliRDJUVlM0MzFfRmhzdkVGTlZlcVhOUjJKUmlmQXJwYmM1RnZTMFRidjFoWXpxQTFpNGhGYkpqdGpjLUhoeXE2QlAxUnh1ZHRSbVh1aHQ5VXBydU1pOXc1SXVLSVVmbVlrclZVMDAtUlVa?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "강아지 산책시키는 ’로봇 개’ 포착…“똥은 치",
-      "delta": "▲ 4",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VSzdqSk1ORzgtZUl0T0dHdGQ1a21wVTd3V2xNbkttbUIyVmxWRFRtMDRJUUxYWk94MzZsOFJFR0Rka3MtY2dsWjlYb0ZXSHU0dVQxQ1F6UmdzT1YyVjBaek00TTZ5S00?oc=5"
+      "kw": "“AI에 지시만 했다”… 코딩 문외한 美 남성",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkFfVTdiNF9HUnpzaG1ta3BRVi0wQXJWdy1DUTVlWUdLVmNWTTZVMGphQ1JYaUdyMG9UNjloSlFsMjRWakVqZ2pPdjJkR0JHWHNFamlIUWEtY0tCVkNCME1oQl8zSGUzNVk1Y2paM2syTWhVX0xMQjJvcmZ6U1Npbi1jaw?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "“국가부채는 ‘공짜 점심’ 아냐…AI거품 꺼지",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ME01Z1BzUkMxTV9nRzlGOXcxVDlIMHVWM1o5OGVzOWhkX3A5VWxoNHRQQUVUZExDeXdrUE0tU0ZoTjlVQ3g0VllOTEppSEVjY1B6ODlkU0RhT3R5MC0wc3F4c2xkT2FMVVZ4OWhPTdIBZkFVX3lxTE1nZExDOEEzR205bER4S3ROWlBDRThXRlh4d21obHpIR2JMNURTU0hlN2c2Q1JJcURXNktTODdXN0tIOHhoVHFRVC1ta0JNYTJhb1I5ZFd4UENZdDd3VzdJcVEzMzhBdw?oc=5"
+      "kw": "강아지 산책시키는 ’로봇 개’ 포착…“똥은 치",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VSzdqSk1ORzgtZUl0T0dHdGQ1a21wVTd3V2xNbkttbUIyVmxWRFRtMDRJUUxYWk94MzZsOFJFR0Rka3MtY2dsWjlYb0ZXSHU0dVQxQ1F6UmdzT1YyVjBaek00TTZ5S00?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "中, AI칩 수급난에 eSSD '주문 축소'…",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZcjZ2Ul9pbUxfd1dvSnVQaXBLZTlfTG5ac0pWTE9wS2x4QVBzblVLc0F5QkpubktKYmNjVXdIRkU3ZVE0SkpwbzZldnFzcGd3SUlVeVJB?oc=5"
+      "kw": "앨리스 황, 美 제재 화웨이와도 연결‥반도체 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tX2hvRzgxbUdZWDdwWm1xRWtYOXhabzJFMGZhd2ZldzIyZFdlX19WWjVaaGsxck5nZTh0UFRmbXd1NzdWNFdOOFlxRVc2Nk9HM0l3N2cxM3RQZTlvTlE3TkpzVExIYUs1blNOU0VsNjRUc1pN0gF0QVVfeXFMTzl0OVJKeU1jdGUwS1E3MkRWX3VzNVNMeWU0WUh2RzJFTklaU1laR1kteTRXSnBPUFlYck5rUUZ5NUVsamZyY29tZDVPZnotZlg2LUVJX1I2dE9iOVNyNWV3M2xxT0xQSnE2aThiQ01WUHpGb3Y?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "구글, '제미나이 4 하이드로젠' …상위 모델",
+      "delta": "-",
+      "type": "same",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HUHFtTmJ1VlRsSEItZjFHYTZ5dm4zcDdPOFFadi1kMVEwTUhNeHVsVjctUHpqRzI3d3Q4eGFnM2VaVlJUOWdObWFiYmotLW9iWGhIMkx0V3pVZzhweTRFNWQyRlFHc0VsTkE?oc=5"
+    },
+    {
+      "rank": 6,
+      "top": false,
+      "kw": "구글, 고정밀 지도 반출 보안조건 이행… 20",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HUHFtTmJ1VlRsSEItZjFHYTZ5dm4zcDdPOFFadi1kMVEwTUhNeHVsVjctUHpqRzI3d3Q4eGFnM2VaVlJUOWdObWFiYmotLW9iWGhIMkx0V3pVZzhweTRFNWQyRlFHc0VsTkE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNZHJBbWYzVUJpaWttSUtpMC1CenIySkk5Q3E0UXp5V1NyWEl6MGhyaGhGWXhpZy1oYnI4d3haekw0UzRKZWR4VmZhUmJDSzdfanFfWXpQVUPSAVRBVV95cUxOTXRzS255TlE2aThTekJsQXpJWjFRMHMzOGJYWnNwQXhNdmVWN3h2aGF3OE51TlhYYWc4U05JVHJaRFV6YU1IUjdRbGs5RHhYdTF4a3U?oc=5"
     }
   ]
 }
