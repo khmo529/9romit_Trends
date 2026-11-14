@@ -1,16 +1,24 @@
 {
-  "updated_at": "2026-11-15 01:12",
+  "updated_at": "2026-11-15 05:49",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "한국군 무인기 11만 대·KAI 편대기 비행에",
+      "kw": "“로봇 150만대 시대”…JP모건이 콕 찍은 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNm1GSE1WeTZhbkljVXpLQlFXUVJ6RDVWSUNQN1kzaHVCeVMzdFM4cHBVTXNEUGdXRnAwdWNlUHA5Wkx2emhOS3FST2d0ZGlzaFdZSHNfM3VOSXJZVUZPTGdzSXZoVUNJYTFsRHBuZGZoaVJUNW1FWHpzSGpkSURMUXM3ZFVoQnZU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEl4ZnRyZ3U0dk01NGUybmxKSXduT0t4bmEzTUk1X2NMbDZieWl6YVBLRmFWejI3Ujg3WjQzM096ZGhGbG5JWGlpUlJrTU5jWHJKWnFYUlRrRTdyMkVDRm9pcFE4dlBuS1lqUHJOLS1nbUduVTVJMEE4YzZ5bzhZbg?oc=5"
     },
     {
       "rank": 2,
+      "top": true,
+      "kw": "한국군 무인기 11만 대·KAI 편대기 비행에",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNm1GSE1WeTZhbkljVXpLQlFXUVJ6RDVWSUNQN1kzaHVCeVMzdFM4cHBVTXNEUGdXRnAwdWNlUHA5Wkx2emhOS3FST2d0ZGlzaFdZSHNfM3VOSXJZVUZPTGdzSXZoVUNJYTFsRHBuZGZoaVJUNW1FWHpzSGpkSURMUXM3ZFVoQnZU?oc=5"
+    },
+    {
+      "rank": 3,
       "top": true,
       "kw": "깐부 젠슨 황 잃었다, 위태로운 AI 동맹",
       "delta": "▼ 1",
@@ -18,51 +26,59 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaklrNWRwQndNcG96djI1RV9GOEwzUE9yZUM3cFhZUlRvMFNQTmxFdjdfVkVGc2E5YUtWcTZqUkt2Q1poNmZ0NnlITllvZHN4empja24xc3NmMFJsNi1aQXVOVjlFNWFJZmw1cGhTbkJqMW9PdDZ4cU9CMjdXTlZFRGdibw?oc=5"
     },
     {
-      "rank": 3,
-      "top": true,
+      "rank": 4,
+      "top": false,
       "kw": "구글 지도 내년부터 확 달라진다…“보안 조건 ",
       "delta": "▼ 1",
       "type": "down",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rM3E0Zk43ZGpOWFFWQzdKN1RSaG9XZHJIRUo5UDB5ZTY3QXk3WjJJckdQdFNaTUlzaktibF9zRVhQNmhQc24wMHQzb1JScW9USDV1UjBVc2VkYUk?oc=5"
     },
     {
-      "rank": 4,
-      "top": false,
-      "kw": "“AI로 다 뚫는다”…AI 해킹, AI로 막을",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MVJaSTBxdmVjSF9RY1loTE1EdjB5MmUtaU9XenI4a2RDZUxYU3E5dU9zLWdLQmprSXFfbThWTk85V0tyZy04bWRWNUxrbEEwUm55RFRXSnZVQ000X2M3SFJWaVJoZw?oc=5"
-    },
-    {
       "rank": 5,
       "top": false,
-      "kw": "\"아빠, 우리나라엔 AI 데이터센터가 정말 하",
+      "kw": "“AI로 다 뚫는다”…AI 해킹, AI로 막을",
       "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEY1Qll0MzJZemdCdkgyV2x1bVdqclVyWEFubFVIRXQ2cGRtRWlORjdYekVTY0stemNHbE5WaXNHbFh1R2hHY0Nibm53bWgwYTYyQ3llbGR3NVZEOVgydjZ1ODMwTlE0NDEzQTVPNjR0Y0N2ZXFVdzJaQlVnNHU3QnRMRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MVJaSTBxdmVjSF9RY1loTE1EdjB5MmUtaU9XenI4a2RDZUxYU3E5dU9zLWdLQmprSXFfbThWTk85V0tyZy04bWRWNUxrbEEwUm55RFRXSnZVQ000X2M3SFJWaVJoZw?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "AI 안경 강제 세척? 시험지에 QR?…국가 ",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYQ01zZTc0U1VkakxwTDU3NlBaTXplcmszWWhMcnpBREVxR0VCbEd2QkRlcWs3U0ZsRlgtR1ZObjd6LXd5QThrajhfZG9CQW9NQWdBeE9waG1UNXV2MXBtTE5aNDhpZ3M?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "이세돌 꺾고 노벨상 받은 천재도 예상 못했다·",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pamhKU3VuRmdCSTB0LWg4QnJQY0VGS3VqTUc0d2dLemxFTWlVeVNZdnhiSDl0c0wxWUVfX1pVd1NNY0Z3V3B3aVZZbWlSaG9pRHhmTlNBOHprd9IBX0FVX3lxTE9pamNCRm1QLVNja19ITGZZRDNQMi1oZ2F4ckNRN2JqOWhhSGVGazNxNUxYZVpscDZjZzBnQWsyUGJkRy1mNzUwUWFxNjlILUdjYlV1Z0VNTTJJNlpheEhr?oc=5"
+      "kw": "애플 부사장 \"아이폰 듀오 앱 10만개…매일 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3d1TnRVRjBIWnVWbUhNa0l6a0FzVHFYam53WTVlODhrQ19RNUU3RlhxYk5nMGUwcW9qdktlUU9NdmR1TUstYWFETWxRbU9CbWVkZGdiZHNzVjFwMENHbUc2UnYzRlN6b054V0lpbG8yakJMaFItQnAtRy1jR3Ribw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
+      "kw": "이세돌 꺾고 노벨상 받은 천재도 예상 못했다·",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pamhKU3VuRmdCSTB0LWg4QnJQY0VGS3VqTUc0d2dLemxFTWlVeVNZdnhiSDl0c0wxWUVfX1pVd1NNY0Z3V3B3aVZZbWlSaG9pRHhmTlNBOHprd9IBX0FVX3lxTE9pamNCRm1QLVNja19ITGZZRDNQMi1oZ2F4ckNRN2JqOWhhSGVGazNxNUxYZVpscDZjZzBnQWsyUGJkRy1mNzUwUWFxNjlILUdjYlV1Z0VNTTJJNlpheEhr?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "중국 車반도체굴기 … 자립률 '한국의 3배'",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QelZ0OUNrNFpIc1NzanZ3dmgwanR4Vk9kREpJNnpfUV9GNlNyR0tWTFJrd1NOT1B2a0NhNDdzZUhXY2tRblVsdGtXdmZLYW5tb0FQRTBR?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
       "kw": "AI 투자 고점 피로감에 … 바이오에 다시 돈",
-      "delta": "-",
-      "type": "same",
+      "delta": "▼ 2",
+      "type": "down",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12MkRyZTRfaFRVU0tMY2tLSmRoT1EtMng2LXQxcnEyQ2hGZEJ5NmQ4N3JITTU4UzF6YktiVDBsdlR6Y0tBOXJIb2hWYVVIeVJkNFotY2tR?oc=5"
     }
   ]
