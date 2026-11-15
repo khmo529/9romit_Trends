@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-11-15 23:29",
+  "updated_at": "2026-11-16 04:53",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "테슬라",
-      "delta": "▲ 3",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdGxPTVQ2UDI5MUtyZ1pPOS1NbkpzcXBuTEFldmNwRWk4cENod0E5VkxTd0xYZ2N4NC0yV0wteVdxY19ZMl9zemRNbTBocUZqZWNPaWhRM3MxOEk5NXpGT192WEtsOUlpR3l6bUppVUE1NHl5MlJsSzFMRk52ZTg?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "한국군 무인기 11만 대·KAI 편대기 비행에",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNm1GSE1WeTZhbkljVXpLQlFXUVJ6RDVWSUNQN1kzaHVCeVMzdFM4cHBVTXNEUGdXRnAwdWNlUHA5Wkx2emhOS3FST2d0ZGlzaFdZSHNfM3VOSXJZVUZPTGdzSXZoVUNJYTFsRHBuZGZoaVJUNW1FWHpzSGpkSURMUXM3ZFVoQnZU?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "‘AI 커닝 앱’ 10분이면 뚝딱... 문제 ",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnZ6V2JZaDZxWVc3bVNaWHFDZ1RVMEZveFNkVGQ2dnJwWTBCTHd3LTkwUzFkSEFlOXFGbzhjTm1vZVUtY3VlRXhyWU9rYXRxZktzVDd1ZHY4ZVFaeXVrdWh1NVlSZ0ViN1FpX3hsbXhYWnNEQjRhRkw1YnlOaEdoTDVESQ?oc=5"
     },
     {
       "rank": 4,
       "top": false,
       "kw": "“AI로 다 뚫는다”…AI 해킹, AI로 막을",
-      "delta": "▲ 1",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MVJaSTBxdmVjSF9RY1loTE1EdjB5MmUtaU9XenI4a2RDZUxYU3E5dU9zLWdLQmprSXFfbThWTk85V0tyZy04bWRWNUxrbEEwUm55RFRXSnZVQ000X2M3SFJWaVJoZw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "\"65만원 AI 안경 벌써 완판\"...삼성·구",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TcXlUQ2M4SlpPdzdOWlI3UVduVGgtekZpMkNvZDdlZC1mNm9hLXNpc3JKQUJoUzVaSm1oUXNqRjY1OTREOW9ZeUlybFlob2dVSFdlcmxn?oc=5"
+      "kw": "항저우가 키운 춤추는 로봇… 유니트리 62조원",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnRzQnpHekpYaEFkQ2Jlbnc1a1NYa09mTFdyRUFKMU1xalo3Z3ItSG1fLWl4YTIxdFJJQ1E2SnJVUjBsZVgtRGJaWE92SHJlcFk3UTlvclhiOXBaUmdHbTc1SEQ3cnVTaWZsMDVHeWp2cmxmdnNQOFRuaW81Q0xEeTdLek1Qdw?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "항저우가 키운 춤추는 로봇… 유니트리 62조원",
-      "delta": "▲ 2",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnRzQnpHekpYaEFkQ2Jlbnc1a1NYa09mTFdyRUFKMU1xalo3Z3ItSG1fLWl4YTIxdFJJQ1E2SnJVUjBsZVgtRGJaWE92SHJlcFk3UTlvclhiOXBaUmdHbTc1SEQ3cnVTaWZsMDVHeWp2cmxmdnNQOFRuaW81Q0xEeTdLek1Qdw?oc=5"
+      "kw": "\"65만원 AI 안경 벌써 완판\"...삼성·구",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TcXlUQ2M4SlpPdzdOWlI3UVduVGgtekZpMkNvZDdlZC1mNm9hLXNpc3JKQUJoUzVaSm1oUXNqRjY1OTREOW9ZeUlybFlob2dVSFdlcmxn?oc=5"
     },
     {
       "rank": 7,
       "top": false,
       "kw": "중국, 동남아 서버 빌려 첨단 AI칩 이용…1",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0V3NTNqVTJfdVNMZGs5eGpwN3ZLa1pEczBGTEFQaW1fRUZNa3YzTmU0V0k2TjNoWFNwQWlLclc5aFZPOGxfVFI4NWl4VExGb3MwVFVDN2s2WkhqTnJ5TmJGa1p3WU5KaURjamF5Q2JrSVhZQ1pSWGZrYmV2R0VkdnVyYw?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "거대 우주 태양광 발전소 들어설까…지구 밖에서",
-      "delta": "▼ 2",
-      "type": "down",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10YTBoY25TRWFhVEVKdDJNZnhQNlVtWWpHc1VpUVBiYlVEdHZxaXl1Q3YwWVl3ZTNnMU9qVHA2Ri1CRmxPeGp3WUFzSzNsLVdLRWlndXhCV2I5UdIBX0FVX3lxTE1KYXBhOGVWUTZnMXlCTWdZU09FRjlTYnVyd0ZIOC16ZEU3a0R4YWNZWGZtNGVvT3RrMjBGTlF1RXJTaFh0anRWcEdwWU00Ri1tYVBPV0QxajBLcGVkOXd3?oc=5"
     },
     {
