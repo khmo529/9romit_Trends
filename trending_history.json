@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-11-18 20:59",
+  "updated_at": "2026-11-19 05:01",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "\"왜 이렇게 아이폰이 많아요?\" 농담했던 이재",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMl9tMnRUSlFrY0x6cjZuRlVPekRCMGFFS2h2VzZSaWhnTUpwX25fSS13WnpURE9mZ3ZETDV1UUgyZ3VqYVRWN1VzalhMeXE0dWdVZ1k5OC13Zw?oc=5"
+      "kw": "IT 속보 1",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "아틀라스 이어 또 CES 주인공?…급등한 로봇",
+      "kw": "IT 속보 2",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3NU5ISzVyM2VVeFNQcThXb1BmX043WVliZ1g4dEdZNnl0ZWwtV3Y5TC00ekxSdk5yUVAtbmNXeGkwV3JZVTRoNGhHVFJKMW1HdF92cWJPeklOZw?oc=5"
+      "link": ""
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "\"수험생 '시선' 보세요\" 이걸로 AI 커닝 ",
+      "kw": "IT 속보 3",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYk14aVltSXh5WXpOdXBxcTExdlVrdTdYR3Z2OEJsd19QT2VjZzlaSHV1bmlrc09YOFpKQUZUNE9fcDhBQ3l4QUQ4RFZvREJkWjRWel9hRmdKeHFQWHpqVVZ2Yi1jakV2NlHSAW9BVV95cUxPTmZZbXg3RUJwek80dTV0d2hwb3NtYmIwQlhudTJjYzZESVpua0VrNmx3Q2IwSW03SFhETUpPekdLR29aSUFHeXdYcGREMlFsWTh0c1ZSZWNCeXpUR25TczZhMFJQTkdRSHJ2cndZVDQ?oc=5"
+      "link": ""
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "MS, ‘가성비 AI’ 공세...GPT급 코딩",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oamp2b2hCd0FJRFRGMjNtS0NSSXJfeXJUdDJSTllWejNmUFZTZWlDNDBYazBieDBaeTgwc3FCdTVjbWdsRWEwMUNCeDBBZw?oc=5"
+      "kw": "IT 속보 4",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1Y5TjZpdExDN2pLYzEwZmRpa2V5YjNZOVhpNkNkV1FFaGxrMkpnc0RsZTlsaXNwa1ZKVWR5Z3gyeXA1MUFwNWIzcFRGaU5ENlhGWFl0dFA1T0pNUW5lV2hqLXVNYXdnelFfaG5YdTh3UjA5eDh2MUR2aGJZbFdTRkN4ZzhiSlROU3VSVmVYVQ?oc=5"
+      "kw": "IT 속보 5",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "아마존 CEO “데이터센터 건설 멈추면 중국에",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ0p0b3N1TnBiVEEzemdlU3l6RzlhX2tJQVd6dUdYY1RWbFh2VTdlem5OMTRPMlZGYmhvZW9kUThvajNoeWsyd09rNVZVQQ?oc=5"
+      "kw": "IT 속보 6",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "아이폰 원가 40% 메모리 …'슈퍼甲' 애플,",
-      "delta": "▼ 4",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNbHNzbW16dm96Rmp6dHhmM2JyNXdEVkp6WG1YY2ZFS0VIRGI1TElyQ1BkbzNVbEpOWjVORHd0dTFMMkJZb1RueHUxTTU0TzE2OGlDLVpR?oc=5"
+      "kw": "IT 속보 7",
+      "delta": "NEW",
+      "type": "new",
+      "link": ""
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "\"한국은 무료\"...구글, 예약·구매 맡는 A",
+      "kw": "IT 속보 8",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iU2RzQjJOMjhueXc3SndzS3VXN1hZdDU5bGh4NUQ4ZGU5aGhIdXBia09UTlhhalotelJHWE9FYjA0dU90NUhGN3BfaFpXMFAzT041TURB?oc=5"
+      "link": ""
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "오픈AI, 세계 2위 성능 'GPT-6.2 아",
+      "kw": "IT 속보 9",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLODJHa2ZHQkZNQk5fLTJXd19LcENWRGJKNnJqdUMxNEgxam80OGdGT3pvbkpsTnpMX2MxOEpSY0w2ZmZMNkZ0R0hYOTBaaUJHTk1oMW5ZaE1yMWNzTlBaeHNWS2Iybi1xOWc?oc=5"
+      "link": ""
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "Claude",
+      "kw": "IT 속보 10",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aMUhPUEF1TVNhNlM2ZDNVTTByaGo1QXp3WElZY2drenlQSFZSWGtPbHBOWGxQd2RsTGRVUnQ0S1hXWHd0bWRGS0xuYw?oc=5"
+      "link": ""
     }
   ]
 }
