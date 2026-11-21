@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 04:52",
+  "updated_at": "2026-11-22 08:58",
   "keywords": [
     {
       "rank": 1,
@@ -20,66 +20,66 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "우주로 AI칩 보내려는 머스크에 제동 건 월가",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGduajc0MWpCeS02cWFoYXdWUGFuSnhFNWVjZWhTQXlKQXp0czRhM0lxZGMzcjBPM05nUXdCUHBlbmhXS3ozZ0VYZ2Zia01GTWtBU1lleHRlRDJ2NjE3NmtwS05UUlcyeXNsQ3RhNlNBb3IxMFV4MFphc1VrOVV1MXd6c3ZzaW9Fdll1MtIBoAFBVV95cUxPUDZJZUxFMnZzcDF6YVktQVU1ZHFhVWVNWjZsNmg2ZzdmeFlPeTBpR2o1YlJPNmtkQ1ZZbFNCcE96bHRrb2h5SkgwWWc1UmEyR21RT08zb3hLTFpPVk9qZ0FHdGNQMFUzd1hER2FiOGVRSC1wRENkbHRfbWdldkhiazBGMjdCSjRPNF9HUGRJWE90QzBOM0VRYWQxbzVHemQ0?oc=5"
-    },
-    {
-      "rank": 4,
-      "top": false,
       "kw": "엔비디아·IBM, 양자컴 약점 AI로 메운다…",
-      "delta": "▲ 3",
+      "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFpSWVpDWk1MU3ZxTDEyTTctQllLeU03WE02bVBiOFZtNG5TTjRFV0ptRzMzQ2xBVWY4aDkxMm15dFNOb2ptVWJrcUI4R18zZDNuYVA5YmpqWjNzZUVzbFBuZm1Ia0FKVVU2OTRJVGdQVkpYcFQ2MTQ2SGFqZjg1aw?oc=5"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "top": false,
       "kw": "AI 데이터센터 구축 빨라진다…인허가 일괄처리",
-      "delta": "▲ 3",
+      "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JallUQmlaUGd4bXVKRS1mMVVmaTlQcWxGMmsxeG8wWHhoQUxENkViUFJxZXhzcnRyOHBUcWFrM2o5bUpvSmJBclJDdW1Fb2RveGlnNVdkYmhtMVk0WHlKbUVKVXd4SHlGN1phUQ?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "top": false,
       "kw": "삼성전자, 메타 독주 'AI 안경' 에 도전…",
-      "delta": "▲ 3",
+      "delta": "▲ 1",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQTlndXJvX3JfNkJNX2RFb2JUeFQwSWJHaG5BR2g1aTA5YU1WQmdWUWZoN1J3WC1yWURQbjFuTk1UN1l1OU54LUVjcw?oc=5"
     },
     {
+      "rank": 6,
+      "top": false,
+      "kw": "트럼프 \"中엔 구형 칩만\"…반도체주·비트코인 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xRFNLUG9PTENHNFQ2MGdHelQwcjBpMV9MV3VxLUxPQUdqNUF5OGhsQjloX21icHZZak44a0hPSW5MYU9jbFRkYnBoYlJOajVPcHFHX3dheHc?oc=5"
+    },
+    {
       "rank": 7,
       "top": false,
-      "kw": "로봇이 연주하고 순찰... APEC서 과시한 ",
-      "delta": "▼ 3",
+      "kw": "우주로 AI칩 보내려는 머스크에 제동 건 월가",
+      "delta": "▼ 4",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEFNY1A1My1nRUpBNi12N1dNZ1E2NHVaN3RHVU51ZmcwT1hJSUJsejZVeWtGMWZQU0FfNGxqaFlleExJQjVxTHhLNmVfUkQxYk0tUnhISlFFTE43OUxKNGUyTnJuSzljTjRhenlfVS1aMTdGdGJRcXZ6cy1RWS1sMFpWUVQtMmJ5NXlhUWhRbV9aNGROTnpVUGg0US1mQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGduajc0MWpCeS02cWFoYXdWUGFuSnhFNWVjZWhTQXlKQXp0czRhM0lxZGMzcjBPM05nUXdCUHBlbmhXS3ozZ0VYZ2Zia01GTWtBU1lleHRlRDJ2NjE3NmtwS05UUlcyeXNsQ3RhNlNBb3IxMFV4MFphc1VrOVV1MXd6c3ZzaW9Fdll1MtIBoAFBVV95cUxPUDZJZUxFMnZzcDF6YVktQVU1ZHFhVWVNWjZsNmg2ZzdmeFlPeTBpR2o1YlJPNmtkQ1ZZbFNCcE96bHRrb2h5SkgwWWc1UmEyR21RT08zb3hLTFpPVk9qZ0FHdGNQMFUzd1hER2FiOGVRSC1wRENkbHRfbWdldkhiazBGMjdCSjRPNF9HUGRJWE90QzBOM0VRYWQxbzVHemQ0?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "테슬라 FSD",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LTGNhTkd1TmZPcHd3UEZhXzUzenZlWHZNYnNjSHg1NXZQMUVwTFh5SXMwdi1kaDNtVHJidXBOQWkyZVFlcDRRaVBMOGo5dw?oc=5"
+      "kw": "애플이 그린 20주년 미래? 삼성전자는 이미 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZkJiUFVOanVrV1hLcTFRREgtUks2MHVsQVM0T0RicXNTUjJyUzhlRDJQY1lMZE1nU2JJQkJBeFRFWmpha3YzNGctRXB1MGxKMUZhOS16cnhfbHpsdmI4bF9rRXZzNDkxVE8tT29kNFhaaTln?oc=5"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "구글, 제미나이 앱에 GIF 생성 기능 …오픈",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQWVKamYxWUNqdklBRmpOa2NySFpPZXJxZjR5ZFVpTlpLUlhrUGRhQ0NCS3dMYVRiV0U4S2V6VUFmTS1nUFpOWm50N19aSTkyNzhEREZuaHNEck5WSlhBcTExU3ktNUp5Wnc?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "“용접 배우러 갔다” 한국에 로봇 보낸 美 .",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fOXBleHU0ZjJPRi04VXh5RFJTUmNFZWhxNks4NHVYT0psWnphNGtIR1RCbnNDRTBwVXlWMVNLUVU3NDBzYVFpOEg0ZW9MclRna1HSAVNBVV95cUxQSDVvSWNjNm5ycERJUlNERnNjYk15NVJkR3d6SzJHZ2dEQkJsLUtpamx6RWFmUmR4RnIxbW5tbGJ1cGlCaHN0OEk1bE5GMUpRWVZlSQ?oc=5"
+      "kw": "로봇이 연주하고 순찰... APEC서 과시한 ",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEFNY1A1My1nRUpBNi12N1dNZ1E2NHVaN3RHVU51ZmcwT1hJSUJsejZVeWtGMWZQU0FfNGxqaFlleExJQjVxTHhLNmVfUkQxYk0tUnhISlFFTE43OUxKNGUyTnJuSzljTjRhenlfVS1aMTdGdGJRcXZ6cy1RWS1sMFpWUVQtMmJ5NXlhUWhRbV9aNGROTnpVUGg0US1mQQ?oc=5"
     }
   ]
 }
