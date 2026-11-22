@@ -1,85 +1,61 @@
 {
-  "updated_at": "2026-11-22 22:28",
+  "updated_at": "2026-11-23 05:25",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "AI 대어 앤스로픽 vs 반토막난 XRP...",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVhDVGRzb1dkUzZRZXBvMEp5dTlLV1BzREo5bFFCVUdNbHpzemh4YXd2QjNYa2UwRTdjaFlteUcxMWFqZkJkdnhYTk80NEtLZ05hS1ZwZWhOeW5fTW9UYy10a3RrME05STZoVG14c1VvYldTZ1BkZXNnRWxHb1NjRXFiX3FiR2FC?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "엔비디아·IBM, 양자컴 약점 AI로 메운다…",
-      "delta": "▲ 2",
+      "kw": "애플이 그린 20주년 미래?...삼성전자에겐 ",
+      "delta": "▲ 1",
       "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFpSWVpDWk1MU3ZxTDEyTTctQllLeU03WE02bVBiOFZtNG5TTjRFV0ptRzMzQ2xBVWY4aDkxMm15dFNOb2ptVWJrcUI4R18zZDNuYVA5YmpqWjNzZUVzbFBuZm1Ia0FKVVU2OTRJVGdQVkpYcFQ2MTQ2SGFqZjg1aw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZkJiUFVOanVrV1hLcTFRREgtUks2MHVsQVM0T0RicXNTUjJyUzhlRDJQY1lMZE1nU2JJQkJBeFRFWmpha3YzNGctRXB1MGxKMUZhOS16cnhfbHpsdmI4bF9rRXZzNDkxVE8tT29kNFhaaTln?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "애플이 그린 20주년 미래?...삼성전자에겐 ",
+      "kw": "UI SDK - AI 에이전트가 UI의 기본 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZkJiUFVOanVrV1hLcTFRREgtUks2MHVsQVM0T0RicXNTUjJyUzhlRDJQY1lMZE1nU2JJQkJBeFRFWmpha3YzNGctRXB1MGxKMUZhOS16cnhfbHpsdmI4bF9rRXZzNDkxVE8tT29kNFhaaTln?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYldOWm9fTVp5bThtMDBCMVVEa3BvWjVVNXd2a0lBcjVOV1RNSzZldHJwRjV0eUNsNjU3TEI1OG52eTVIclJEdWdqbw?oc=5"
     },
     {
       "rank": 5,
       "top": false,
       "kw": "AI 없으면 못 산다는 대학생들…평가는 불시에",
-      "delta": "▲ 3",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51NUNtZE5yckh6NGNZTU5zUjh5LUhiREFIRmJyOFJQVE0yRmRFOUF2NnBPZUQ2Rl9lRzlobU05OFhKVkFxRlY4NkV5bGc1WUlXVndtN1JoT0R4OWPSAWBBVV95cUxPTVhRWm9HUnZEUXlUeThRYURaQ29LRXlrU1h2ZXl4Y25vRkpMTnUzT3U2WnYtd19JWXNrYmQ3Nm5BUUo0bnZ2R3l3OWNPM1JKN2pPbTJFTENXNFdWMkNkeXY?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "이 대통령, 울산 AI 데이터센터 찾아 “경부",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WUVJkX1llZTlDTnZYb21SNmFTai03MmZhRmt0d2lNV251MlhoOTJuY2drU2laaGtRc1RiMjhjQlNEN1ZmcW5zVS1PelhNc3lGeEJwc2xsWk5hUdIBX0FVX3lxTE5fZlJUbldFU3BVcmJoaENhQWVrSDQtZkI4ZF9DdmwtRlBFTEN1TlROM29taVA2SlJvYnFTdkk0UExZNml4Vi1qa0hBbmRoUlVxWnpXbG1hTkcwMlFzZzFB?oc=5"
+      "kw": "삼성전자, 메타 독주 'AI 안경' 에 도전…",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQTlndXJvX3JfNkJNX2RFb2JUeFQwSWJHaG5BR2g1aTA5YU1WQmdWUWZoN1J3WC1yWURQbjFuTk1UN1l1OU54LUVjcw?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "구글, 제미나이 앱에 GIF 생성 기능 …오픈",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQWVKamYxWUNqdklBRmpOa2NySFpPZXJxZjR5ZFVpTlpLUlhrUGRhQ0NCS3dMYVRiV0U4S2V6VUFmTS1nUFpOWm50N19aSTkyNzhEREZuaHNEck5WSlhBcTExU3ktNUp5Wnc?oc=5"
-    },
-    {
-      "rank": 8,
-      "top": false,
-      "kw": "엔비디아, 中군 연계 에 AI칩 수출 추진…앨",
+      "kw": "로봇이 칼 잡고 제주 지하수로 씻고…돼지 한마",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWhTUmpNdTlJdWRKeEpSWElJaVc2NF9DQS1qNnZuU0cyVUplR0pPcFBiN1JlU0RqampZa0pSNHFMVDJjQm9HUWJXNGI0ektwVkpHcHBjaWxNbHBUOXgycXhkRm9BNktVYVFKTUxmdGRaQkFqTllxcnVGNER3aGpVWEVLZ0VIQ2pPWEVmZmhWN1BCNTR0V1ZDM1YwTkh3QdIBsgFBVV95cUxNZUo3TzhPTzU1UDc5MjZYSUhjbm02eTloMGJaYlB5SWZieXJMeElsb18tNlVCaklfUm10ZEF0VGVsbXc0QWVzZ21QRG9tUm91cUJQZlRYM1ZDYXhNT0lnVEJOSUw1clpxWWRva1YxTHliakc3ZTBNRDhUYi1CLU1uUUdmTEV2MG4xX0xuWDI0N0F4bVM2UVQwSEVKMkVyNW1FcEhXX3R3SWhteTRweHcxai1R?oc=5"
-    },
-    {
-      "rank": 9,
-      "top": false,
-      "kw": "삼성전자, 메타 독주 'AI 안경' 에 도전…",
-      "delta": "▼ 5",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQTlndXJvX3JfNkJNX2RFb2JUeFQwSWJHaG5BR2g1aTA5YU1WQmdWUWZoN1J3WC1yWURQbjFuTk1UN1l1OU54LUVjcw?oc=5"
-    },
-    {
-      "rank": 10,
-      "top": false,
-      "kw": "AI안경 쓰고, 폰으로 수능문제 촬영… 신발 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03RUlwWWVSN09SWlhteXhiVzR6THc0OGxZSVJRZDQyRnJMdUpMbFBMUk1KTjhvUFRmM1ljRkROTGFBemNDUFJ3SmE1Z1dVUkZDWWh3ODkzdG1IZFNaTzlBbmFpbE9ZSWNPNlh3X2puNVJMVUZVVmfSAWZBVV95cUxNVnhzTTdpdzd4dG8zZHpGdV9TdGFUMFRKZG01STBPQmZJeXhNeFF3dm9mV1JPV3dwS3NpVjhQTkx3Y2NraXRfNXhvZkJ6ME5qWWd5ZENYdkctTmdjZXFMeTNfYTRXVnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IYlVnTU1rcjdnUXlPWFRTVTRsUmd4WFpTS2tyYmQ0eTB3Vk5rZnJhb184YWFHSGFOREVxV2c3eVJYRWswMWRHYjZtTkhVVGNsNFFsYmtB?oc=5"
     }
   ]
 }
