@@ -1,61 +1,85 @@
 {
-  "updated_at": "2026-11-23 05:25",
+  "updated_at": "2026-11-23 09:58",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "AI 대어 앤스로픽 vs 반토막난 XRP...",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVhDVGRzb1dkUzZRZXBvMEp5dTlLV1BzREo5bFFCVUdNbHpzemh4YXd2QjNYa2UwRTdjaFlteUcxMWFqZkJkdnhYTk80NEtLZ05hS1ZwZWhOeW5fTW9UYy10a3RrME05STZoVG14c1VvYldTZ1BkZXNnRWxHb1NjRXFiX3FiR2FC?oc=5"
+      "kw": "손에 칼 차고 날아차기...실리콘밸리, 로봇을",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHhIMmlyNHROYUZ5elhULVpPdGhSSjlNQkZzTGFWOFFmd0tfWTBKeGU1NUg5Z0JsczlLMC1aM2lDWWFwdFFacDA5MmxYaXlJSFNSb2UwS3NHV1NBZFBLTTJ2SmotSV9KTXpOLTF2bnFsTWREOUowWWpBQVhxUE5NZUI1Zw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5"
+      "kw": "中 희토류·영구자석 수출 제한에 발목 잡힌 로",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmlyNmdFWGdjbEY0M09jWEpzT0x3a3pZUFBaUG5Bc21Pbld6U2tpa0hSTDFYcHJoTkZ1cTBKbmMyVktMRktUeWpnVzQxVmJqeHJtMHB3QzBZUy1nb1FhcHVGM0g1ckw1Tk9rek1ndzEtV2prNE52bWktUndoRVRwZnBfT2XSAZgBQVVfeXFMTkZ3Zy1fU29USEtpYWdHamZjaHJUaGdDeW04ZTJCTDB5bDhabkN6WjJRZC1KZjNWUjUzWGNDd0M5Yll1OHhLZ0ZZZnRDTUlURjhJX2lfQkR6bmljUWlHLVkweEdoUUdVQXlmTl9RUnRXZGtzMHNuQTluZEtPQ19Ud2pUNWFWYlBDLThuNjY0dUphX2dnQ3UwRDA?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "애플이 그린 20주년 미래?...삼성전자에겐 ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZkJiUFVOanVrV1hLcTFRREgtUks2MHVsQVM0T0RicXNTUjJyUzhlRDJQY1lMZE1nU2JJQkJBeFRFWmpha3YzNGctRXB1MGxKMUZhOS16cnhfbHpsdmI4bF9rRXZzNDkxVE8tT29kNFhaaTln?oc=5"
+      "kw": "‘AI 열풍’ 식자 中 기술주서 2289조원 ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56ckxRbzViVkwyTFNaU0lNbEtuWjE4RHg3SmpyQnRWb21DUjVLenhoSFV2RjBySG56TFk3UnJGY0dtNHZxUVEyMUlHN21jYTRTN1E?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "UI SDK - AI 에이전트가 UI의 기본 ",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYldOWm9fTVp5bThtMDBCMVVEa3BvWjVVNXd2a0lBcjVOV1RNSzZldHJwRjV0eUNsNjU3TEI1OG52eTVIclJEdWdqbw?oc=5"
+      "kw": "AI 대어 앤스로픽 vs 반토막난 XRP...",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVhDVGRzb1dkUzZRZXBvMEp5dTlLV1BzREo5bFFCVUdNbHpzemh4YXd2QjNYa2UwRTdjaFlteUcxMWFqZkJkdnhYTk80NEtLZ05hS1ZwZWhOeW5fTW9UYy10a3RrME05STZoVG14c1VvYldTZ1BkZXNnRWxHb1NjRXFiX3FiR2FC?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "AI 없으면 못 산다는 대학생들…평가는 불시에",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51NUNtZE5yckh6NGNZTU5zUjh5LUhiREFIRmJyOFJQVE0yRmRFOUF2NnBPZUQ2Rl9lRzlobU05OFhKVkFxRlY4NkV5bGc1WUlXVndtN1JoT0R4OWPSAWBBVV95cUxPTVhRWm9HUnZEUXlUeThRYURaQ29LRXlrU1h2ZXl4Y25vRkpMTnUzT3U2WnYtd19JWXNrYmQ3Nm5BUUo0bnZ2R3l3OWNPM1JKN2pPbTJFTENXNFdWMkNkeXY?oc=5"
+      "kw": "‘AI 성벽’ 처음부터 쌓는다…사이버 보안 들",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHV6OHFMOTAwdnRSdDRsZ0RTcU9qblN3Mmh5WkRyV3V4OUNHZWJYekpIMXlLWUhORzU1ODZieWh1ZzhBczNiLTctUHR4WHktclFPdldiVEFWRTd0U0ZjQlhTZ3NhQkRBMklvcGkxaF9xRmhBaldqNG0tV3htZmtKQkM2QQ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "삼성전자, 메타 독주 'AI 안경' 에 도전…",
-      "delta": "▲ 3",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQTlndXJvX3JfNkJNX2RFb2JUeFQwSWJHaG5BR2g1aTA5YU1WQmdWUWZoN1J3WC1yWURQbjFuTk1UN1l1OU54LUVjcw?oc=5"
+      "kw": "오픈AI \"사전학습으로 AI 지능 급성장…RS",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nYVRVLTl4VWpSYXRqSGo1eVdmMWM5SFhibVJVQS12R3BvMkViXzNaR19ROVl2dWFTb2JibUdPWkpwR3NtY2xTSnVfeVo3SmRYbm9yb1Y5aGNhYmxDcFp1c093ZkZWQXNERkE?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "로봇이 칼 잡고 제주 지하수로 씻고…돼지 한마",
+      "kw": "Show GN: iphone-cli (iph)",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IYlVnTU1rcjdnUXlPWFRTVTRsUmd4WFpTS2tyYmQ0eTB3Vk5rZnJhb184YWFHSGFOREVxV2c3eVJYRWswMWRHYjZtTkhVVGNsNFFsYmtB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QQlZXS0RxRVNJZ2czMk5XWUNSNkR4czdtMmc3VXdWUUVrd1hLNjJudzQxMnhlZnVlUDA5U1dCTnczcDUxR0RVTEIwaw?oc=5"
+    },
+    {
+      "rank": 8,
+      "top": false,
+      "kw": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀",
+      "delta": "▼ 6",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "美 \"원전보다 반대\"…李대통령, '1호 현장'",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSkxJMi1Ia2Z2dDlFaUJ5TFJsWEhvYXYyY0RtcHdfdVpaV0VDanlTcnhKbTdKblFVVi1Wa0VvUWxoM2xsbVV0Vk42Um1VMVNOb0lTc0o3Tks0ejdsVzhVanRUX040djhGUmcyZ9IBckFVX3lxTE1NaTRyQ1c4MWF3QjFxTHdhbElicWR3NE53NDVCb3JVMEFuTF96NUpFY1FObkJ1M0ZRTTVucnJuUVI3MVg0eVhIakRlVTFOZDgtNzdCT1JiMGo0bWwtOVNnQURXUUI1S21LcVpDYzhkM1oyQQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "애플이 그린 20주년 미래?...삼성전자에겐 ",
+      "delta": "▼ 7",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZkJiUFVOanVrV1hLcTFRREgtUks2MHVsQVM0T0RicXNTUjJyUzhlRDJQY1lMZE1nU2JJQkJBeFRFWmpha3YzNGctRXB1MGxKMUZhOS16cnhfbHpsdmI4bF9rRXZzNDkxVE8tT29kNFhaaTln?oc=5"
     }
   ]
 }
