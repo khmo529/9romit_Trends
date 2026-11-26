@@ -1,61 +1,77 @@
 {
-  "updated_at": "2026-11-26 20:11",
+  "updated_at": "2026-11-27 05:19",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "\"삼성·애플도 못 피한다\"…20만원 들고 폰 ",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xU3RxTnJ5aTNzZEVFMmp4WDIxZzVkTVo4TE9LSVM2R3VtSTdiWHhONGNYZUJsWXltQUpSSWlZOElNV2dGcklqRkduc29LVFpmdVRwR09WcFVydw?oc=5"
     },
     {
       "rank": 2,
       "top": true,
       "kw": "삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT1Y2NFVhaFlmOF9zYl8ya3o1UXZ3ZjUxWVZ6MTNPblNWa0l6SVhLd0l6SUZ1NWlYT1Fza2IxS3pEN1lIWS1kMlZJbV9Fdw?oc=5"
     },
     {
       "rank": 3,
       "top": true,
       "kw": "금가는 엔비디아 독점 생태계…AI 들, AMD",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFNHM0FMU0l1OGRzODZkbTI5bDBEX0tlS3VwbGE1bkxoRlNOMkhZUHB5VzQ0QTJETEFWLUs2MFJlWXU2NUNNaGhuM2pFQ184U2I0STViVEM0eFdNc1JVNWxhXy1PY0xUNFJxMDNPbG1aNGZpUlF3S2ZHZUZ5ZkE5akVQdw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "오픈 소스에서 월 반복 매출 2만 달러까지: ",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZzFkZ24wcF8zWXNnU2F4bG9WZ0VKUHFNM2xheHFpN3JGYngtMVd3RGlCSkYtUVQ3TGs1cm1YMURqWlhfdDJLdjBIOA?oc=5"
+      "kw": "“너도 AI 썼지” 불신 팽배…AI 부정활용에",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRaDJhTm9xYVVoX1lZTWt2WFhIWDJLdElGTldub1FuTUlmSEtwZXRoclk4cWo4VWV1TEhURTQwUDN4UFNHZmFSeDI1enJjMnd1dXUwUjN5V0ZkUdIBX0FVX3lxTE1GS2hwcFlzRVc5MWRoT2RYR29GR2NEMHREZkJCOGhHdS1yR3BEOUdvUUZIRUFzekNCQ1EyTk9Xa09WOTZUbFFLTmFuemN3M05RZVZ6bmpPYXlrcHdrXzNZ?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "집안 파고든 저가 중국산 홈캠, ‘보안 사각지",
+      "kw": "“이재용, 머스크의 ‘반도체 장기구매 제안’에",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjBISWhjWDZ3RUxWNG9uc1M1dXFEVWN5Wlg0U094dVJ4Zmtzd3dKYlhiZHVpczhEeUtwSjBYa25YZ1MyOGdFcjg3RTJFU3RUU2hWa25NcnJybU5LWVdmb0QxMFdjYmJ3U09RWllBRHBDVW5tTWhBcUhTTmxYR0lXM2JB0gGWAUFVX3lxTFBwMHZMdlBNbTNscE5pR1BqSENJcWtESmxid0wzeXFjOWx2MC1Mb2dITW1ZODVfVmYxdWF2U0RleEgteEgwcHAzcTBMQV9SeDNZam15RnZOYnhXNFhvTHVGU3BkOGFJM2EwY210NF92SDZtbjN5c1NfYnU1aGUxc3ExRnR4cGZaZzdDUUhyWWRtZ0RGbmxIUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hc1hYRWFBTW92dU15S1ZIaTVyM1NJMy1ncmk0VHdSc2piU0w0TGhZZUNLd2RFa05ONl8yQnl3SzlYZ3V2MGdZeG9qUklqa05McUE?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "‘AI 해커’ 습격에 뚫린 은행… 당국은 실태",
-      "delta": "▼ 5",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQTRoaUpjaFZZNVVCd1hWNXlzV09TYUs4Q1NtcWR5bmhSMzNFeHJNWGdLbEdUQnVwdDVPdTZHT3dCbTlDV1FLaWNFYlBPeUp5d2ZpbkVvRkU?oc=5"
+      "kw": "테슬라",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRU8yOWNXX2R0QzNRT28xU0U2a0xzR2hzZmlIRndyak1XRWthMWxBMjMxX0hhYkRRTzhCUTJCc2JJeG9RdV83Yzl3Q3hva3htd2JOTUhsUHpqdEU?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "\"삼성·SK하이닉스, 美 AI칩 광(光)연결에",
+      "kw": "오픈 소스에서 월 반복 매출 2만 달러까지: ",
       "delta": "▼ 3",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb3U1ZHVxWkRFZW1YcnlQa0U5RjJEN3lyTFlfSFd1aHhlUnNFZW5jMnRLRUFVaGlBb0liNW1jbWN3VHJlZWc5Q2RWd2ppNmpjREd0NzFlbWY5U0hTRS1Dc0ZubGo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZzFkZ24wcF8zWXNnU2F4bG9WZ0VKUHFNM2xheHFpN3JGYngtMVd3RGlCSkYtUVQ3TGs1cm1YMURqWlhfdDJLdjBIOA?oc=5"
+    },
+    {
+      "rank": 8,
+      "top": false,
+      "kw": "집안 파고든 저가 중국산 홈캠, ‘보안 사각지",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjBISWhjWDZ3RUxWNG9uc1M1dXFEVWN5Wlg0U094dVJ4Zmtzd3dKYlhiZHVpczhEeUtwSjBYa25YZ1MyOGdFcjg3RTJFU3RUU2hWa25NcnJybU5LWVdmb0QxMFdjYmJ3U09RWllBRHBDVW5tTWhBcUhTTmxYR0lXM2JB0gGWAUFVX3lxTFBwMHZMdlBNbTNscE5pR1BqSENJcWtESmxid0wzeXFjOWx2MC1Mb2dITW1ZODVfVmYxdWF2U0RleEgteEgwcHAzcTBMQV9SeDNZam15RnZOYnhXNFhvTHVGU3BkOGFJM2EwY210NF92SDZtbjN5c1NfYnU1aGUxc3ExRnR4cGZaZzdDUUhyWWRtZ0RGbmxIUQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "top": false,
+      "kw": "\"애플, 연말까지 신제품 쏟아낸다…'레드 에어",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jd3ZLcGdsMDlqYTFNeW04MjY5QXdJbVQ3Ti03anFPQmhrOTR5YURZU19UTTBFRl93MjlyaWdOZGwyTUxPMXFfMk0zVUN4aWUyT0k4Vkt3?oc=5"
     }
   ]
 }
