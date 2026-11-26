@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-11-26 04:28",
+  "updated_at": "2026-11-26 11:21",
   "keywords": [
     {
       "rank": 1,
       "top": true,
-      "kw": "‘유료’ 애플페이 도입 확산… 연 3000억 ",
-      "delta": "▲ 4",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtWFFBNnlhWXR4cnVucFRtM1FrdGRJSjExR1g2YUY4V1BpckpCZnkyYWpKWkhvYnk4TmZWaEkzMnE5aW9vaG93UC0yRmtkQ2ViSTVWQ3gzcVDSAVRBVV95cUxOSDFXU2RUTXdzS0NkUGRnQmhLblFaX1VNODVYME96SFp3T2xZZjFQdi14eEJ3aDhsWkUwRl9BdXJXbmdxeDhScEEwc3J5OXF6QWtIb1o?oc=5"
-    },
-    {
-      "rank": 2,
-      "top": true,
-      "kw": "AI 비서 '피클' 이용자 급증…네이버·카카오",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5weVJTYmF1Q2dONEJVWHktVFI3bzJNVnkwVGpWeGtGczZZOG9pOVAzVmZhT3haRFRlNGtKZkxMWnZfZG1ydkpYU0V4VDJoSEoyZmQ4YlJ3?oc=5"
-    },
-    {
-      "rank": 3,
-      "top": true,
       "kw": "‘AI 해커’ 습격에 뚫린 은행… 당국은 실태",
-      "delta": "▲ 1",
+      "delta": "▲ 2",
       "type": "up",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQTRoaUpjaFZZNVVCd1hWNXlzV09TYUs4Q1NtcWR5bmhSMzNFeHJNWGdLbEdUQnVwdDVPdTZHT3dCbTlDV1FLaWNFYlBPeUp5d2ZpbkVvRkU?oc=5"
     },
     {
+      "rank": 2,
+      "top": true,
+      "kw": "오픈 소스에서 월 반복 매출 2만 달러까지: ",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZzFkZ24wcF8zWXNnU2F4bG9WZ0VKUHFNM2xheHFpN3JGYngtMVd3RGlCSkYtUVQ3TGs1cm1YMURqWlhfdDJLdjBIOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "top": true,
+      "kw": "오픈AI·앤트로픽 내부서 AI 개발 중단론…\"",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VXlUZVBBQmpEUmZIX21lSmVjUFRZRHZDUHduUU5fNnlURVBBeFl3bFcxOEFQNU90UldEalBzV1poeVRDQ3RMMVVqTm9ldTlnQ0poVEI3dnRQY2xlUWxfd3hPeGlnakxBRHc?oc=5"
+    },
+    {
       "rank": 4,
       "top": false,
-      "kw": "오픈 소스에서 월 반복 매출 2만 달러까지: ",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZzFkZ24wcF8zWXNnU2F4bG9WZ0VKUHFNM2xheHFpN3JGYngtMVd3RGlCSkYtUVQ3TGs1cm1YMURqWlhfdDJLdjBIOA?oc=5"
+      "kw": "\"삼성·SK하이닉스, 美 AI칩 광(光)연결에",
+      "delta": "▲ 2",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb3U1ZHVxWkRFZW1YcnlQa0U5RjJEN3lyTFlfSFd1aHhlUnNFZW5jMnRLRUFVaGlBb0liNW1jbWN3VHJlZWc5Q2RWd2ppNmpjREd0NzFlbWY5U0hTRS1Dc0ZubGo?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "오픈AI·앤트로픽 내부서 AI 개발 중단론…\"",
-      "delta": "▼ 2",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VXlUZVBBQmpEUmZIX21lSmVjUFRZRHZDUHduUU5fNnlURVBBeFl3bFcxOEFQNU90UldEalBzV1poeVRDQ3RMMVVqTm9ldTlnQ0poVEI3dnRQY2xlUWxfd3hPeGlnakxBRHc?oc=5"
+      "kw": "젠슨 황 약발 떨어졌나…'부채 우려'에 AI ",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BOW1KUllIazlNWEtkZ3N6SFN5bmlVbGlGSjdPZFdLMV9JMjhfeTMybnlMT0UybWRtSzR3ZXpaOGgxWFZLSWxlR0NMbHg0TlB6bWJLYjN3?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "\"삼성·SK하이닉스, 美 AI칩 광(光)연결에",
-      "delta": "▼ 4",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb3U1ZHVxWkRFZW1YcnlQa0U5RjJEN3lyTFlfSFd1aHhlUnNFZW5jMnRLRUFVaGlBb0liNW1jbWN3VHJlZWc5Q2RWd2ppNmpjREd0NzFlbWY5U0hTRS1Dc0ZubGo?oc=5"
+      "kw": "\"전자 장치 없는 로봇이 이렇게 빨라?\"…시속",
+      "delta": "▲ 3",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZDdRZ2h6ekdGNXVBWG5qcTE2d1hfNEh2cGZuLTB3cm1ZSnhUMm5JSDRXVUZydTZtRzBVblloa2ViMVY4dG9qeW5QR25ubmVvay03Q2tn?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "KG스틸, 국산 휴머노이드 로봇 투입…피지컬 ",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRF9PWjUyYlMydE1GanQyaTdnNjFIYndNUXI2cjhJN2Z4TGRZM1JiZzBzRjZGM19XaTFuSUZOOW5QbFpSTHo2bmVfbmxaVm9GSEZkRnFub0R6QzRueFlRRGRtQ1R0a3hKLWpHTE9KdjNzMEZONU8wQXdVclVkVHRKVQ?oc=5"
+      "kw": "엔비디아 AI칩 임대료 최대 35% 하락… 공",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHRnMy1VMjBoeXdMMUxPOGRhUnhRZTkxLXB0d2p1TFZjcFdoQVFEOVRudUtXcHhVZER2TmxzYUJEa3RpUkpzMTgxdjZlaFh6X3lpR21KbHZYZHZoU0Y3dGVwNUF4MVpEUUl4bDlkYkFsVUs4UUVtRURlcnJRb2M0VUt30gGWAUFVX3lxTE5ocUxTWTB3TjNJZDc4M3RqZmtTYWNMbmNQUGM2VGdieWtRSXFvT1RIUlNJUkYwNHB1QXI1cHd4RkFwd3pUT01nODZoN25sSzMtNkY0anJCWlNxalg2ZkcySzhUWWdyWXlOcUNvMWtQQmNmdUhHRy1zSy1MRXBTbEtxM1M0WWd1ZF9OMWl0anVlWGhRR0dFUQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "HBM4",
-      "delta": "▲ 1",
-      "type": "up",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDaUV2R2JldElybm9mdmwxMGJ1RWYtdlEtZkFzV0lTckpNc1cyRGFBSW9nSnVOZzFSZWVxS2lfQjV6RUxLaTgyRU1kNzgzaFB2UDFaeVBn?oc=5"
+      "kw": "삼성 갤럭시S28 가변조리개 9년 만에 부활시",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHA0djdsME5rT1o0MGN0T1l0SVA3WEk0elduYi0wbGR1d0l6YldnU0dsaTVNNkQ4Q1JYUHVxbHo4Y3J0dDJsdkNQYXA5dmM5ckV0MGloSVZrR24yWXhTOC1HQ3pFWGlZejNkZkRURTlEcXgxZHBYMTBYSXotOVJwTmpn0gGWAUFVX3lxTFBGVDB0cUZyQmFDaUhsSTRHd0hOcTlqaU91eG9CM2pHVVFZbWx5NVprSl9uTU5nTVViZW9nNExIdXN2c0dPMWYwUVQxSEs1SjBnY3U3TE9fT3ZmSkU5Uktud1A2YU5VcWo0Y2t3dFZWU21CY2N6enQxRF9TT18xQk5UaWFReVlSNXdPQlhERGs2LXNIMFBwUQ?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "\"전자 장치 없는 로봇이 이렇게 빨라?\"…시속",
+      "kw": "주인 알아보고 대화도… ‘AI 다마고치’ 키워",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZDdRZ2h6ekdGNXVBWG5qcTE2d1hfNEh2cGZuLTB3cm1ZSnhUMm5JSDRXVUZydTZtRzBVblloa2ViMVY4dG9qeW5QR25ubmVvay03Q2tn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFRIS2RNaVB5Z1NiajZwNzFiTG9iNUxOSVFCTF9CZnhraDVGTlFZdnJxN1huTmFzUmZZUkM1UXVmUXlIeW1KX1VLOTJBS1VwbmdISEtkbk11TXc1bUFuWDRRQXBiOU9wT1k4Z0VhVE4xbEVFUlVJMjFHV3VvVndIVnpHVQ?oc=5"
     },
     {
       "rank": 10,
       "top": false,
       "kw": "취약점 패치 전 임시 방패... 오픈AI·시스",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01MGlJUVo4Nkl0eWJ6aEV0cU5XLXJvaG5fWHNIQnVrVFNBVWNXeFRhOGhMWnVrWnJ3d01IdEJVNEJxMmNTVlVCeTU4MXNsdElFY1BrelgwMW01b2tBNm42VGxZSjhXcDRvOHZV?oc=5"
     }
   ]
