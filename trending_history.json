@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-11-27 20:48",
+  "updated_at": "2026-11-28 05:26",
   "keywords": [
     {
       "rank": 1,
       "top": true,
       "kw": "\"20주년 아이폰, 한정판 모델 나온다…세라믹",
-      "delta": "▲ 2",
-      "type": "up",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16QkpRRVlfbjVVTmQtLU54bEk0aV8xbndTamRfT1RLbzZvVGxLWldvYnI5SzU3eWloakE5MHZnVkRpYnVfRElNM2VYejB2MUJRejlNb3ZR?oc=5"
     },
     {
       "rank": 2,
       "top": true,
-      "kw": "반도체 공장에 로봇 투입? 삼성 힘주자 일제히",
+      "kw": "“이재용, 머스크의 ‘반도체 장기구매 제안’에",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05eXFOaWF6Z18xNVI2T2t0UWNzckw1T0Y4WWM2cUpqTG9SemxndGJpUXZOQU5nYlp4Y2FlSlNkUXRKYmNpMGNFamNraFk3SVhsdkZCc19ZSFhOemxKd3JyMjRyNkNkc3g30gFuQVVfeXFMT3RXQXRKUzVwRUx6MTNZLXdkSGI1cDExeEh2Q0taNTgwTHlBWnlxRUFTYmVVYmJCR0ZVSzhPeTVJUkRpM2lwTEVsdVV2WG5FZXRSMG4tM3RXTHZSOXRNUklUSnVaZTZHSTA4Zjl4dmc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hc1hYRWFBTW92dU15S1ZIaTVyM1NJMy1ncmk0VHdSc2piU0w0TGhZZUNLd2RFa05ONl8yQnl3SzlYZ3V2MGdZeG9qUklqa05McUE?oc=5"
     },
     {
       "rank": 3,
       "top": true,
-      "kw": "‘中 반도체 굴기’ 힘 싣는 마윈…AI칩 자회",
+      "kw": "삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZ2ZpdTFpR3M0WGpORE1ORi1sS3NSaElob2FuVnB3OEZKa09ieU9wd2JHdXk4a1NJWGd2cFhNVEpRdndxdE16SG4xY3lqdEdKdHc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT1Y2NFVhaFlmOF9zYl8ya3o1UXZ3ZjUxWVZ6MTNPblNWa0l6SVhLd0l6SUZ1NWlYT1Fza2IxS3pEN1lIWS1kMlZJbV9Fdw?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "삼성전자 \"AI 인프라용 SSD 수요 폭발 예",
+      "kw": "한국 제조업 ‘로봇 밀도’ 세계 1위…세계 평",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnaURVd2h4aGxzVlpORXNXTTZOS2g1Wmp0TmdvZTUwWmRZVVgzX1BEbUZWMWVvVFo3cVMyNy05ajhYT0dyb2Y2U1VBa2d0NzFONGNSNmFR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ybTVRQ04wU3R3QzVYODJIa19Hc0M2UjdKQmRmRkZvQ2hmdlUzNThnNHlRbjY3NFZiUGR3LVhtTldvMGdtTU1OU1drMXFWTFJJMjlDbkZn?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "‘말로 신약 만드는 시대’?… 챗GPT·클로드",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME1tVHd5ekszZ2dtNUE1MnRqVXBsbVlrY2NZZHgxWlRpNTlyT2RDYXdlMU8welpXek5aR3cxZFM1aTFiOVRPNGI4bGlTX1pXTzR4NDN6ZmVuc0NReFo0RGNRWTQ2UE1YUFlqcVJNNmxGSDlOZktnYUcxbW90Vjd5T2Q1VQ?oc=5"
+      "kw": "삼성전자 \"AI 인프라용 SSD 수요 폭발 예",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnaURVd2h4aGxzVlpORXNXTTZOS2g1Wmp0TmdvZTUwWmRZVVgzX1BEbUZWMWVvVFo3cVMyNy05ajhYT0dyb2Y2U1VBa2d0NzFONGNSNmFR?oc=5"
     },
     {
       "rank": 6,
       "top": false,
       "kw": "'GPT-6 아스트라'로 양자 중력 이론 제안",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4SVZGMjFUQTBiVEI3azNwaDdFRS0weWtvbVZIaXZBbDRMMnU1SmFUT1kzZjExLWRZOHZCZXZYV2I3a2lwWGFwdFZGbkdMRWx2LUZNYlhKZ3JjRi1JWTNfNHM2LWpsM1p6VGc?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "'GPT-6.2 아스트라', 218년 된 스케",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHRDFzZzRlSmV0eFBmNWxPUTBQczg0R3RYbjZSZTNQQWhUR2Y1WE05SDExNnhCWEpCX0F4VGlpeWlCYUJqQThHY1lUTjZqQkpnZW91UnFPb3BRRzg4U0Mta2loVWR3YjVOLXc?oc=5"
+      "kw": "‘말로 신약 만드는 시대’?… 챗GPT·클로드",
+      "delta": "▼ 2",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME1tVHd5ekszZ2dtNUE1MnRqVXBsbVlrY2NZZHgxWlRpNTlyT2RDYXdlMU8welpXek5aR3cxZFM1aTFiOVRPNGI4bGlTX1pXTzR4NDN6ZmVuc0NReFo0RGNRWTQ2UE1YUFlqcVJNNmxGSDlOZktnYUcxbW90Vjd5T2Q1VQ?oc=5"
     },
     {
       "rank": 8,
       "top": false,
       "kw": "AI 덕분에 셀프 호스팅이 다시 즐거워졌다",
-      "delta": "NEW",
-      "type": "new",
+      "delta": "-",
+      "type": "same",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aWHQ2NklOcUVpNHRHMHRiTDBwZkFvNEVGcS1ENEt2Mmh0LUdIblIxRzF5cDNkeDRtU0luYzQ1NkNwVkxlRDM5UnJ0RQ?oc=5"
     },
     {
       "rank": 9,
       "top": false,
-      "kw": "AI에 무너지는 난제들…“수학 계속 해도 될까",
-      "delta": "▼ 1",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOVQzUFdac21iek9ZMHpScVBnOGM5cWdPN1Vqc0s3ZXNuTWoxLS1NNXh4TEx2MjFiU2xtMmxsMHNlMXpwRWVfaFdnNEhJWEJGVUZ2UzVSZFhFOVQxXzR1VDZFVXB0b21CLUQ5Y1FDUGRoZw?oc=5"
+      "kw": "\"애플, 연말까지 신제품 쏟아낸다…'레드 에어",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jd3ZLcGdsMDlqYTFNeW04MjY5QXdJbVQ3Ti03anFPQmhrOTR5YURZU19UTTBFRl93MjlyaWdOZGwyTUxPMXFfMk0zVUN4aWUyT0k4Vkt3?oc=5"
     },
     {
       "rank": 10,
       "top": false,
-      "kw": "테슬라",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRU8yOWNXX2R0QzNRT28xU0U2a0xzR2hzZmlIRndyak1XRWthMWxBMjMxX0hhYkRRTzhCUTJCc2JJeG9RdV83Yzl3Q3hva3htd2JOTUhsUHpqdEU?oc=5"
+      "kw": "OpenAI가 비용 통제에 나섰을까? - GP",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sXzlTUzZWanFBcmRRdjViWFRNYkdPSXVWVExTcFFvc3JKTldwOWRuZUpkVUM5U0pmUnNoQ1R3TVZmems5Tk03b1pEMA?oc=5"
     }
   ]
 }
