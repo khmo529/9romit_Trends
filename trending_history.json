@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 05:19",
+  "updated_at": "2026-11-27 11:59",
   "keywords": [
     {
       "rank": 1,
@@ -20,58 +20,66 @@
     {
       "rank": 3,
       "top": true,
-      "kw": "금가는 엔비디아 독점 생태계…AI 들, AMD",
-      "delta": "-",
-      "type": "same",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFNHM0FMU0l1OGRzODZkbTI5bDBEX0tlS3VwbGE1bkxoRlNOMkhZUHB5VzQ0QTJETEFWLUs2MFJlWXU2NUNNaGhuM2pFQ184U2I0STViVEM0eFdNc1JVNWxhXy1PY0xUNFJxMDNPbG1aNGZpUlF3S2ZHZUZ5ZkE5akVQdw?oc=5"
+      "kw": "\"20주년 아이폰, 한정판 모델 나온다…세라믹",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16QkpRRVlfbjVVTmQtLU54bEk0aV8xbndTamRfT1RLbzZvVGxLWldvYnI5SzU3eWloakE5MHZnVkRpYnVfRElNM2VYejB2MUJRejlNb3ZR?oc=5"
     },
     {
       "rank": 4,
       "top": false,
-      "kw": "“너도 AI 썼지” 불신 팽배…AI 부정활용에",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRaDJhTm9xYVVoX1lZTWt2WFhIWDJLdElGTldub1FuTUlmSEtwZXRoclk4cWo4VWV1TEhURTQwUDN4UFNHZmFSeDI1enJjMnd1dXUwUjN5V0ZkUdIBX0FVX3lxTE1GS2hwcFlzRVc5MWRoT2RYR29GR2NEMHREZkJCOGhHdS1yR3BEOUdvUUZIRUFzekNCQ1EyTk9Xa09WOTZUbFFLTmFuemN3M05RZVZ6bmpPYXlrcHdrXzNZ?oc=5"
+      "kw": "“이재용, 머스크의 ‘반도체 장기구매 제안’에",
+      "delta": "▲ 1",
+      "type": "up",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hc1hYRWFBTW92dU15S1ZIaTVyM1NJMy1ncmk0VHdSc2piU0w0TGhZZUNLd2RFa05ONl8yQnl3SzlYZ3V2MGdZeG9qUklqa05McUE?oc=5"
     },
     {
       "rank": 5,
       "top": false,
-      "kw": "“이재용, 머스크의 ‘반도체 장기구매 제안’에",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hc1hYRWFBTW92dU15S1ZIaTVyM1NJMy1ncmk0VHdSc2piU0w0TGhZZUNLd2RFa05ONl8yQnl3SzlYZ3V2MGdZeG9qUklqa05McUE?oc=5"
+      "kw": "“너도 AI 썼지” 불신 팽배…AI 부정활용에",
+      "delta": "▼ 1",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRaDJhTm9xYVVoX1lZTWt2WFhIWDJLdElGTldub1FuTUlmSEtwZXRoclk4cWo4VWV1TEhURTQwUDN4UFNHZmFSeDI1enJjMnd1dXUwUjN5V0ZkUdIBX0FVX3lxTE1GS2hwcFlzRVc5MWRoT2RYR29GR2NEMHREZkJCOGhHdS1yR3BEOUdvUUZIRUFzekNCQ1EyTk9Xa09WOTZUbFFLTmFuemN3M05RZVZ6bmpPYXlrcHdrXzNZ?oc=5"
     },
     {
       "rank": 6,
       "top": false,
-      "kw": "테슬라",
-      "delta": "NEW",
-      "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRU8yOWNXX2R0QzNRT28xU0U2a0xzR2hzZmlIRndyak1XRWthMWxBMjMxX0hhYkRRTzhCUTJCc2JJeG9RdV83Yzl3Q3hva3htd2JOTUhsUHpqdEU?oc=5"
+      "kw": "금가는 엔비디아 독점 생태계…AI 들, AMD",
+      "delta": "▼ 3",
+      "type": "down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFNHM0FMU0l1OGRzODZkbTI5bDBEX0tlS3VwbGE1bkxoRlNOMkhZUHB5VzQ0QTJETEFWLUs2MFJlWXU2NUNNaGhuM2pFQ184U2I0STViVEM0eFdNc1JVNWxhXy1PY0xUNFJxMDNPbG1aNGZpUlF3S2ZHZUZ5ZkE5akVQdw?oc=5"
     },
     {
       "rank": 7,
       "top": false,
-      "kw": "오픈 소스에서 월 반복 매출 2만 달러까지: ",
-      "delta": "▼ 3",
+      "kw": "테슬라",
+      "delta": "▼ 1",
       "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZzFkZ24wcF8zWXNnU2F4bG9WZ0VKUHFNM2xheHFpN3JGYngtMVd3RGlCSkYtUVQ3TGs1cm1YMURqWlhfdDJLdjBIOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRU8yOWNXX2R0QzNRT28xU0U2a0xzR2hzZmlIRndyak1XRWthMWxBMjMxX0hhYkRRTzhCUTJCc2JJeG9RdV83Yzl3Q3hva3htd2JOTUhsUHpqdEU?oc=5"
     },
     {
       "rank": 8,
       "top": false,
-      "kw": "집안 파고든 저가 중국산 홈캠, ‘보안 사각지",
-      "delta": "▼ 3",
-      "type": "down",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjBISWhjWDZ3RUxWNG9uc1M1dXFEVWN5Wlg0U094dVJ4Zmtzd3dKYlhiZHVpczhEeUtwSjBYa25YZ1MyOGdFcjg3RTJFU3RUU2hWa25NcnJybU5LWVdmb0QxMFdjYmJ3U09RWllBRHBDVW5tTWhBcUhTTmxYR0lXM2JB0gGWAUFVX3lxTFBwMHZMdlBNbTNscE5pR1BqSENJcWtESmxid0wzeXFjOWx2MC1Mb2dITW1ZODVfVmYxdWF2U0RleEgteEgwcHAzcTBMQV9SeDNZam15RnZOYnhXNFhvTHVGU3BkOGFJM2EwY210NF92SDZtbjN5c1NfYnU1aGUxc3ExRnR4cGZaZzdDUUhyWWRtZ0RGbmxIUQ?oc=5"
+      "kw": "AI에 무너지는 난제들…“수학 계속 해도 될까",
+      "delta": "NEW",
+      "type": "new",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOVQzUFdac21iek9ZMHpScVBnOGM5cWdPN1Vqc0s3ZXNuTWoxLS1NNXh4TEx2MjFiU2xtMmxsMHNlMXpwRWVfaFdnNEhJWEJGVUZ2UzVSZFhFOVQxXzR1VDZFVXB0b21CLUQ5Y1FDUGRoZw?oc=5"
     },
     {
       "rank": 9,
       "top": false,
       "kw": "\"애플, 연말까지 신제품 쏟아낸다…'레드 에어",
+      "delta": "-",
+      "type": "same",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jd3ZLcGdsMDlqYTFNeW04MjY5QXdJbVQ3Ti03anFPQmhrOTR5YURZU19UTTBFRl93MjlyaWdOZGwyTUxPMXFfMk0zVUN4aWUyT0k4Vkt3?oc=5"
+    },
+    {
+      "rank": 10,
+      "top": false,
+      "kw": "AI 탑재 경쟁에 제동 걸리나…NYT, 최신 ",
       "delta": "NEW",
       "type": "new",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jd3ZLcGdsMDlqYTFNeW04MjY5QXdJbVQ3Ti03anFPQmhrOTR5YURZU19UTTBFRl93MjlyaWdOZGwyTUxPMXFfMk0zVUN4aWUyT0k4Vkt3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ0lVQzFVMk12R2o3MWJiU2xqZ3pRTmtnTEotb2FrS2pTX2FZZm9ZN1Nxc0tDSUprSjRsa1k1c3BHaUlGUjBNcFVTbjE1NHNBcnVjNUl3?oc=5"
     }
   ]
 }
